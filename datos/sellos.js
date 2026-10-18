@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-18 17:37. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-10-18 17:50. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -8089,19 +8089,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1239",
-        "album":  "ESP-1953-02",
+        "album":  "ESP-1964-21",
         "titulo":  "España Buque escuela Juan Sebastian Elcano 10 ptas - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1953",
-        "descripcion":  "España: buque escuela Juan Sebastián Elcano. Valor 10 pesetas.\r\nFicha técnica: País: España · Año: 1953 (aprox.) · Valor facial: 10 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1964",
+        "descripcion":  "España: buque escuela Juan Sebastián Elcano. Valor 10 pesetas.\r\nFicha técnica: País: España · Año: 1964 · Valor facial: 10 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163723244_iOS.jpg | Año 1953 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo",
+        "notas":  "foto 20261017_163723244_iOS.jpg | Año confirmado: 1964-07-16 (Colnect (Training Ship \u0027Juan Sebastian Elcano\u0027)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1964-07-16",
+                        "Fuente":  "Colnect (Training Ship \u0027Juan Sebastian Elcano\u0027, 10 Pta), colnect.com/es/stamps/stamp/133794, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1239_1_frente.jpg"
@@ -8323,19 +8324,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1249",
-        "album":  "ESP-1951-03",
+        "album":  "ESP-1953-05",
         "titulo":  "España Pro Tuberculosos Enfermera 10 cts - Sello NUEVO",
         "pais":  "España",
-        "anio":  "1951",
-        "descripcion":  "España: sello benéfico Pro Tuberculosos, enfermera con niño. Valor 10 céntimos.\r\nFicha técnica: País: España · Año: 1951 (aprox.) · Valor facial: 10 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "anio":  "1953",
+        "descripcion":  "España: sello benéfico Pro Tuberculosos, enfermera con niño. Valor 10 céntimos.\r\nFicha técnica: País: España · Año: 1953 · Valor facial: 10 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_164319881_iOS.jpg | Año 1951 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo",
+        "notas":  "foto 20261017_164319881_iOS.jpg | Año confirmado: 1953-10-01 (Colnect (Nurse with child. Cross of Lorraine - Pro Tuberculosos 1953)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1953-10-01",
+                        "Fuente":  "Colnect (Nurse with child. Cross of Lorraine - Pro Tuberculosos 1953, 10 cts), colnect.com/es/stamps/stamp/140196, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1249_1_frente.jpg"
@@ -23836,19 +23838,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S709",
-        "album":  "ESP-1965-07",
-        "titulo":  "España 1965 Solana Autorretrato 2 ptas - Nuevo, nunca pegado",
+        "album":  "ESP-1972-03",
+        "titulo":  "España 1972 Solana Autorretrato 2 ptas - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1965",
-        "descripcion":  "España, serie de pintores españoles (Día del Sello). José Gutiérrez Solana, autorretrato. Valor 2 pesetas.\nFicha técnica: País: España · Año: 1965 · Valor facial: 2 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1972",
+        "descripcion":  "España, serie de pintores españoles (Día del Sello). José Gutiérrez Solana, autorretrato. Valor 2 pesetas.\r\nFicha técnica: País: España · Año: 1972 · Valor facial: 2 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_180846359_iOS.jpg",
+        "notas":  "foto 20261006_180846359_iOS.jpg | Año confirmado: 1972-03-24 (Colnect (Solana and Family)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1972-03-24",
+                        "Fuente":  "Colnect (Solana and Family, self-portrait - Día del Sello 1972, 2 Pta), colnect.com/es/stamps/stamp/185942, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S709_1_frente.jpg"
@@ -23918,19 +23921,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S713",
-        "album":  "ESP-1970-05",
+        "album":  "ESP-1958-05",
         "titulo":  "España Vicente Lopez Retrato de Goya - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1970",
-        "descripcion":  "España, serie de pintores españoles (Día del Sello). Vicente López, retrato de Goya.\nFicha técnica: País: España · Año: 1970 (aprox.) · Valor facial: ver foto · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1958",
+        "descripcion":  "España, serie de pintores españoles (Día del Sello). Vicente López, retrato de Goya.\nFicha técnica: País: España · Año: 1958 · Valor facial: ver foto · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_180901047_iOS.jpg | Año 1970 APROXIMADO (por la serie/diseño, 14-oct): confirmar con catálogo",
+        "notas":  "foto 20261006_180901047_iOS.jpg | Año confirmado: 1958-03-24 (Colnect (\"Goya\" (Vicente López) - Día del Sello 1958)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1958-03-24",
+                        "Fuente":  "Colnect (\"Goya\" (Vicente López) - Día del Sello 1958, 80 cts), colnect.com/es/stamps/stamp/171394, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S713_1_frente.jpg"
@@ -27616,19 +27620,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S893",
-        "album":  "ESP-1969-01",
-        "titulo":  "España 1969 Convento de Oruro 3 ptas - Nuevo, nunca pegado",
+        "album":  "ESP-1966-20",
+        "titulo":  "España 1966 Convento de Oruro 3 ptas - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1969",
-        "descripcion":  "España 1969: serie «Forjadores de América», portada del convento de Oruro (Bolivia). Valor 3 pesetas.\nFicha técnica: País: España · Año: 1969 · Valor facial: 3 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1966",
+        "descripcion":  "España 1969: serie «Forjadores de América», portada del convento de Oruro (Bolivia). Valor 3 pesetas.\r\nFicha técnica: País: España · Año: 1966 · Valor facial: 3 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194803168_iOS.jpg",
+        "notas":  "foto 20261006_194803168_iOS.jpg | Año confirmado: 1966-10-12 (Colnect (Convent of Oruro)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1966-10-12",
+                        "Fuente":  "Colnect (Convent of Oruro, Bolivia - Forjadores de América VII, 3 Pta), colnect.com/es/stamps/stamp/158064, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S893_1_frente.jpg"
@@ -27717,19 +27722,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S898",
-        "album":  "ESP-1965-10",
-        "titulo":  "España 1965 Turismo Torre de San Miguel Palencia 1 pta - Sello NUEVO",
+        "album":  "ESP-1967-05",
+        "titulo":  "España 1967 Turismo Torre de San Miguel Palencia 1 pta - Sello NUEVO",
         "pais":  "España",
-        "anio":  "1965",
-        "descripcion":  "España 1965: serie turística nº 33, torre de San Miguel (Palencia). Valor 1 peseta.\nFicha técnica: País: España · Año: 1965 · Valor facial: 1 pta · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "anio":  "1967",
+        "descripcion":  "España 1965: serie turística nº 33, torre de San Miguel (Palencia). Valor 1 peseta.\r\nFicha técnica: País: España · Año: 1967 · Valor facial: 1 pta · Estado: Nuevo, nunca pegado · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194807252_iOS.jpg",
+        "notas":  "foto 20261006_194807252_iOS.jpg | Año confirmado: 1967-07-26 (Colnect (Tower of Church of San Miguel)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1967-07-26",
+                        "Fuente":  "Colnect (Tower of Church of San Miguel, Palencia - Turismo 1967, 1 Pta), colnect.com/es/stamps/stamp/185164, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S898_1_frente.jpg"
@@ -28337,19 +28343,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S928",
-        "album":  "ESP-1960-19",
+        "album":  "ESP-1964-22",
         "titulo":  "España Submarino de Isaac Peral 5 ptas - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1960",
-        "descripcion":  "España: el submarino de Isaac Peral. Valor 5 pesetas.\nFicha técnica: País: España · Año: 1960 · Valor facial: 5 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1964",
+        "descripcion":  "España: el submarino de Isaac Peral. Valor 5 pesetas.\nFicha técnica: País: España · Año: 1964 · Valor facial: 5 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194158011_iOS.jpg",
+        "notas":  "foto 20261006_194158011_iOS.jpg | Año confirmado: 1964-07-16 (Colnect (Isaac Peral\u0027s submarine - Marina Española)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1964-07-16",
+                        "Fuente":  "Colnect (Isaac Peral\u0027s submarine - Marina Española, 5 Pta), colnect.com/es/stamps/stamp/133793, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S928_1_frente.jpg"
@@ -28439,19 +28446,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S933",
-        "album":  "ESP-1966-16",
+        "album":  "ESP-1973-05",
         "titulo":  "España Plan Sur de Valencia Virgen de los Desamparados 25 cts - Sello NUEVO",
         "pais":  "España",
-        "anio":  "1966",
-        "descripcion":  "España: sello benéfico «Plan Sur de Valencia», Virgen de los Desamparados. Valor 25 céntimos.\nFicha técnica: País: España · Año: 1966 · Valor facial: 25 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "anio":  "1973",
+        "descripcion":  "España: sello benéfico «Plan Sur de Valencia», Virgen de los Desamparados. Valor 25 céntimos.\nFicha técnica: País: España · Año: 1973 · Valor facial: 25 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194226229_iOS.jpg",
+        "notas":  "foto 20261006_194226229_iOS.jpg | Año confirmado: 1973-05-11 (Colnect (Virgin of Desamparados - Plan Sur de Valencia)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1973-05-11",
+                        "Fuente":  "Colnect (Virgin of Desamparados - Plan Sur de Valencia, 25 cts violeta), colnect.com/es/stamps/stamp/271245, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S933_1_frente.jpg"
@@ -28521,19 +28529,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S937",
-        "album":  "ESP-1954-01",
+        "album":  "ESP-1953-04",
         "titulo":  "España Tirso de Molina 15 cts - Sello NUEVO",
         "pais":  "España",
-        "anio":  "1954",
-        "descripcion":  "España: el dramaturgo Tirso de Molina. Valor 15 céntimos.\nFicha técnica: País: España · Año: 1954 · Valor facial: 15 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "anio":  "1953",
+        "descripcion":  "España: el dramaturgo Tirso de Molina. Valor 15 céntimos.\nFicha técnica: País: España · Año: 1953 · Valor facial: 15 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194240192_iOS.jpg",
+        "notas":  "foto 20261006_194240192_iOS.jpg | Año confirmado: 1953-02-02 (Colnect (Tirso de Molina (1579-1648))",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1953-02-02",
+                        "Fuente":  "Colnect (Tirso de Molina (1579-1648), 15 cts), colnect.com/es/stamps/stamp/60568, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S937_1_frente.jpg"
@@ -28541,19 +28550,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S938",
-        "album":  "ESP-1965-09",
+        "album":  "ESP-1966-19",
         "titulo":  "España Turismo nº 22 Valle de Bohi 10 cts - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1965",
-        "descripcion":  "España: serie turística nº 22, Valle de Bohí (Lérida). Valor 10 céntimos.\nFicha técnica: País: España · Año: 1965 · Valor facial: 10 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1966",
+        "descripcion":  "España: serie turística nº 22, Valle de Bohí (Lérida). Valor 10 céntimos.\nFicha técnica: País: España · Año: 1966 · Valor facial: 10 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194244491_iOS.jpg",
+        "notas":  "foto 20261006_194244491_iOS.jpg | Año confirmado: 1966-05-16 (Colnect (Bohí Valley Waterfalls - Turismo 1966)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1966-05-16",
+                        "Fuente":  "Colnect (Bohí Valley Waterfalls - Turismo 1966, 10 cts), colnect.com/es/stamps/stamp/153850, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S938_1_frente.jpg"
@@ -28602,19 +28612,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S941",
-        "album":  "ESP-1951-01",
+        "album":  "ESP-1966-18",
         "titulo":  "España Alvaro de Bazan 25 cts - Sello NUEVO",
         "pais":  "España",
-        "anio":  "1951",
-        "descripcion":  "España: el almirante Álvaro de Bazán. Valor 25 céntimos.\nFicha técnica: País: España · Año: 1951 · Valor facial: 25 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "anio":  "1966",
+        "descripcion":  "España: el almirante Álvaro de Bazán. Valor 25 céntimos.\nFicha técnica: País: España · Año: 1966 · Valor facial: 25 cts · Estado: Nuevo, nunca pegado · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194258834_iOS.jpg",
+        "notas":  "foto 20261006_194258834_iOS.jpg | Año confirmado: 1966-02-26 (Colnect (Álvaro de Bazán)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1966-02-26",
+                        "Fuente":  "Colnect (Álvaro de Bazán, Personajes famosos 1966, 25 cts), colnect.com/es/stamps/stamp/63035, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S941_1_frente.jpg"
