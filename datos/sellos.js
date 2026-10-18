@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-18 18:01. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-10-18 18:06. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -5455,19 +5455,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1127",
-        "album":  "SUI-1960-05",
+        "album":  "SUI-1969-04",
         "titulo":  "Suiza General Henri Guisan verde - Nuevo, nunca pegado",
         "pais":  "Suiza",
-        "anio":  "1960",
-        "descripcion":  "Suiza: homenaje al general Henri Guisan (1874-1960), comandante en jefe del ejército suizo. Verde.\r\nFicha técnica: País: Suiza · Año: 1960 (aprox.) · Valor facial: ver foto · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1969",
+        "descripcion":  "Suiza: homenaje al general Henri Guisan (1874-1960), comandante en jefe del ejército suizo. Verde.\r\nFicha técnica: País: Suiza · Año: 1969 · Valor facial: ver foto · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_160506312_iOS.jpg | Año 1960 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo",
+        "notas":  "foto 20261017_160506312_iOS.jpg | Año confirmado: 1969-09-18 (Colnect (Henri Guisan (1874-1960))",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1969-09-18",
+                        "Fuente":  "Colnect (Henri Guisan (1874-1960), 20 c verde), colnect.com/es/stamps/stamp/22746, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1127_1_frente.jpg"
@@ -6594,19 +6595,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1175",
-        "album":  "FRA-1964-01",
-        "titulo":  "Francia 1964 Capilla de Ronchamp 0,40 - Nuevo, nunca pegado",
+        "album":  "FRA-1965-01",
+        "titulo":  "Francia 1965 Capilla de Ronchamp 0,40 - Nuevo, nunca pegado",
         "pais":  "Francia",
-        "anio":  "1964",
-        "descripcion":  "Francia 1964: serie turística, capilla de Notre-Dame-du-Haut en Ronchamp (Le Corbusier). Valor 0,40 francos.\r\nFicha técnica: País: Francia · Año: 1964 · Valor facial: 0,40 F · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1965",
+        "descripcion":  "Francia 1964: serie turística, capilla de Notre-Dame-du-Haut en Ronchamp (Le Corbusier). Valor 0,40 francos.\r\nFicha técnica: País: Francia · Año: 1965 · Valor facial: 0,40 F · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_162355073_iOS.jpg",
+        "notas":  "foto 20261017_162355073_iOS.jpg | Año confirmado: 1965-02-06 (Colnect (Notre-Dame Chapel)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1965-02-06",
+                        "Fuente":  "Colnect (Notre-Dame Chapel, Haut-Ronchamp, 0,40 F), colnect.com/es/stamps/stamp/27529, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1175_1_frente.jpg"
@@ -25404,19 +25406,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S785",
-        "album":  "ALE-1964-02",
+        "album":  "ALE-1965-01",
         "titulo":  "Alemania RFA Castillo de Trifels 40 - Nuevo, nunca pegado",
         "pais":  "Alemania",
-        "anio":  "1964",
-        "descripcion":  "Alemania (RFA), serie básica «Edificios alemanes de doce siglos» (1964-1969). Castillo de Trifels (Palatinado). Valor 40 pfennig.\nFicha técnica: País: Alemania · Año: 1964 · Valor facial: 40 pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "anio":  "1965",
+        "descripcion":  "Alemania (RFA), serie básica «Edificios alemanes de doce siglos» (1964-1969). Castillo de Trifels (Palatinado). Valor 40 pfennig.\nFicha técnica: País: Alemania · Año: 1965 · Valor facial: 40 pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  2,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_201322752_iOS.jpg, 20261006_201740462_iOS.jpg",
+        "notas":  "foto 20261006_201322752_iOS.jpg, 20261006_201740462_iOS.jpg | Año confirmado: 1965-03-12 (Colnect (Stronghold Trifels in the Palatinate)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1965-03-12",
+                        "Fuente":  "Colnect (Stronghold Trifels in the Palatinate, 40 Pf azul, tamaño pequeño), colnect.com/es/stamps/stamp/37197, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S785_1_frente.jpg",
