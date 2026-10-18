@@ -4,8 +4,6 @@
 <meta name="theme-color" content="#102040">
 <link rel="manifest" href="manifest.json"><link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Sellos">
-<style>html.bloq body>*:not(#pinCaja){display:none!important}#pinCaja{display:none}html.bloq #pinCaja{display:flex;position:fixed;inset:0;z-index:9999;background:#102040;color:#f6efe0;align-items:center;justify-content:center;flex-direction:column;gap:14px;font-family:Georgia,serif;padding:16px;text-align:center}#pinCaja h1{margin:0;font-size:26px;color:#e8c46a}#pinCaja input{font-size:28px;letter-spacing:10px;text-align:center;width:180px;padding:10px;border-radius:12px;border:2px solid #e8c46a;background:#0b1730;color:#fff}#pinCaja button{font-size:18px;padding:10px 26px;border-radius:12px;border:0;background:#e8c46a;color:#102040;cursor:pointer}#pinCaja .mal{color:#ff9a8a;min-height:22px}</style>
-<script>(function(){try{if(localStorage.getItem("sdm-pin")!=="8c7e811133d5ae5c12c6b63829ec20355037e932d17bc1907df9c39a23ec88c6")document.documentElement.classList.add("bloq")}catch(e){document.documentElement.classList.add("bloq")}})();</script>
 <title>Sellos del Mundo · Catálogo</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -703,11 +701,3 @@ const DESTACADOS = {
 
 
 
-<div id="pinCaja"><h1>Sellos del Mundo</h1><div>Colección privada · escribe el PIN</div>
-<input id="pinIn" type="password" inputmode="numeric" autocomplete="off" maxlength="12" aria-label="PIN">
-<button type="button" id="pinOk">Entrar</button><div class="mal" id="pinMal"></div></div>
-<script>(function(){const H="8c7e811133d5ae5c12c6b63829ec20355037e932d17bc1907df9c39a23ec88c6",i=document.getElementById("pinIn");
-async function probar(){const b=new TextEncoder().encode("sellos-del-mundo:"+i.value);const d=await crypto.subtle.digest("SHA-256",b);const x=[...new Uint8Array(d)].map(v=>v.toString(16).padStart(2,"0")).join("");
-if(x===H){try{localStorage.setItem("sdm-pin",H)}catch(e){}document.documentElement.classList.remove("bloq")}else{document.getElementById("pinMal").textContent="PIN incorrecto";i.value="";i.focus()}}
-document.getElementById("pinOk").addEventListener("click",probar);i.addEventListener("keydown",e=>{if(e.key==="Enter")probar()});
-if(document.documentElement.classList.contains("bloq"))setTimeout(()=>i.focus(),50);})();</script>
