@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-18 14:49. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-10-18 17:37. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -7479,9 +7479,10 @@ window.SELLOS = [
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163216217_iOS.jpg",
+        "notas":  "foto 20261017_163216217_iOS.jpg | Año confirmado: 1960-12-01 (Colnect (Adoration of the Kings - Navidad 1960))",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1960-12-01",
+                        "Fuente":  "Colnect (Adoration of the Kings - Navidad 1960), colnect.com/es/stamps/stamp/61655, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1212_1_frente.jpg"
@@ -7821,9 +7822,10 @@ window.SELLOS = [
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163647356_iOS.jpg",
+        "notas":  "foto 20261017_163647356_iOS.jpg | Año confirmado: 1963-12-05 (Colnect (Raimundo Lulio (1232-1315)))",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1963-12-05",
+                        "Fuente":  "Colnect (Raimundo Lulio (1232-1315)), colnect.com/es/stamps/stamp/62332, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1227_1_frente.jpg"
@@ -7841,9 +7843,10 @@ window.SELLOS = [
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163649274_iOS.jpg",
+        "notas":  "foto 20261017_163649274_iOS.jpg | Año confirmado: 1959-12-10 (Colnect (The Sacred Family)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1959-12-10",
+                        "Fuente":  "Colnect (The Sacred Family, Goya), colnect.com/es/stamps/stamp/61426, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1228_1_frente.jpg"
@@ -8183,9 +8186,10 @@ window.SELLOS = [
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163731738_iOS.jpg",
+        "notas":  "foto 20261017_163731738_iOS.jpg | Año confirmado: 1961-01-23 (Colnect (World Refugee Year))",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1961-01-23",
+                        "Fuente":  "Colnect (World Refugee Year), colnect.com/es/stamps/stamp/173699, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1242_1_frente.jpg"
@@ -8502,9 +8506,10 @@ window.SELLOS = [
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_164427879_iOS.jpg",
+        "notas":  "foto 20261017_164427879_iOS.jpg | Año confirmado: 1961-07-10 (Colnect (Soldier)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1961-07-10",
+                        "Fuente":  "Colnect (Soldier, Flag and Troops - XXV aniversario), colnect.com/es/stamps/stamp/61819, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1256_1_frente.jpg"
@@ -24504,19 +24509,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S742",
-        "album":  "ESP-1960-11",
-        "titulo":  "España 1960 II Centenario Leandro F de Moratin 1 pta - Nuevo, nunca pegado",
+        "album":  "ESP-1961-33",
+        "titulo":  "España 1961 II Centenario Leandro F de Moratin 1 pta - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1960",
-        "descripcion":  "España 1960: II centenario del nacimiento del dramaturgo Leandro Fernández de Moratín. Valor 1 peseta.\nFicha técnica: País: España · Año: 1960 · Valor facial: 1 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1961",
+        "descripcion":  "España 1960: II centenario del nacimiento del dramaturgo Leandro Fernández de Moratín. Valor 1 peseta.\r\nFicha técnica: País: España · Año: 1961 · Valor facial: 1 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_181521398_iOS.jpg",
+        "notas":  "foto 20261006_181521398_iOS.jpg | Año confirmado: 1961-02-13 (Colnect (Leandro Fernández de Moratín (1760-1828))",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1961-02-13",
+                        "Fuente":  "Colnect (Leandro Fernández de Moratín (1760-1828), bicentenario, 1 Pta), colnect.com/es/stamps/stamp/140209, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S742_1_frente.jpg"
