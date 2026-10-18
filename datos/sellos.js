@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-18 18:06. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-10-18 18:09. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -26203,9 +26203,10 @@ window.SELLOS = [
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_200553916_iOS.jpg",
+        "notas":  "foto 20261006_200553916_iOS.jpg | Año confirmado: 1946-06-14 (Colnect (\"Prince Baudouin\" mail steamer - Centenario línea Ostende-Dover)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1946-06-14",
+                        "Fuente":  "Colnect (\"Prince Baudouin\" mail steamer - Centenario línea Ostende-Dover, 1,35 F, fecha de la serie), colnect.com/es/stamps/stamp/78192, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S823_1_frente.jpg"
