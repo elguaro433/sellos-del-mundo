@@ -496,14 +496,14 @@ const DESTACADOS = {
     const f = (s.fotos || [])[0];
     return `<article class="card" tabindex="0" data-c="${esc(s.codigo)}">
       <div class="etiq"><span class="cod">${s.album ? `${esc(s.album)}<small>${esc(s.codigo)}</small>` : esc(s.codigo)}</span><span class="marcas">${DESTACADOS[s.codigo] ? `<span class="estrella" title="${esc(DESTACADOS[s.codigo][1])}">${"★".repeat(4 - DESTACADOS[s.codigo][0])}</span>` : ""}${uds(s) > 1 ? `<span class="qty" title="${uds(s)} unidades iguales">×${uds(s)}</span>` : ""}</span></div>
-      <div class="foto"><div class="sello">${f ? `<img loading="lazy" src="fotos/mini/${esc(f)}${FV}" alt="${esc(s.titulo)}" style="--g:${giroDe(f)}deg">` : ""}</div></div>
+      <div class="foto"><div class="sello">${f ? `<img data-f="${esc(f)}" alt="${esc(s.titulo)}" style="--g:${giroDe(f)}deg">` : ""}</div></div>
       <div class="info"><div class="pais">${bandera(s.pais)}${esc(s.pais || "Sin país")}${s.anio ? " · " + esc(s.anio) : ""}</div>
       <div class="tit">${esc(tituloCorto(s.titulo))}</div>
       <div class="pie"><span class="precio">${eur(precioDe(s))}</span></div></div></article>`;
   }
   let ultimoPais = null, cuentaPais = {};
   const cabeceraPais = s => { if (st.orden !== "paisAnio" || s.pais === ultimoPais) return ""; ultimoPais = s.pais; return `<h3 class="grupoPais">${bandera(s.pais)}<span>${esc(s.pais || "Sin país")}</span><small>${num(cuentaPais[s.pais] || 0)}</small></h3>`; };
-  function pintarMas() { if (pintados >= lista.length) return; const trozo = lista.slice(pintados, pintados + LOTE); $("#grid").insertAdjacentHTML("beforeend", trozo.map(s => cabeceraPais(s) + tarjeta(s)).join("")); pintados += trozo.length; }
+  function pintarMas() { if (pintados >= lista.length) return; const trozo = lista.slice(pintados, pintados + LOTE); $("#grid").insertAdjacentHTML("beforeend", trozo.map(s => cabeceraPais(s) + tarjeta(s)).join("")); pintados += trozo.length; cargarFotos($("#grid")); }
   new IntersectionObserver(e => { if (e[0].isIntersecting) pintarMas(); }, { rootMargin: "800px" }).observe($("#centinela"));
 
   // ficha
@@ -537,9 +537,9 @@ const DESTACADOS = {
   }
   function pintarFotos() {
     const fs = actual.fotos || [];
-    $("#dFoto").src = fs.length ? "fotos/" + fs[fotoIdx] + FV : ""; $("#dFoto").alt = actual.titulo || ""; pintarGiro();
+    $("#dFoto").removeAttribute("src"); if (fs.length) fotoSrc(fs[fotoIdx], u => { if (u) $("#dFoto").src = u; }); $("#dFoto").alt = actual.titulo || ""; pintarGiro();
     const bf = $("#bFoto"); if (fs.length) { bf.href = "fotos/" + fs[fotoIdx]; bf.setAttribute("download", actual.codigo + "_" + (fotoIdx + 1) + ".jpg"); bf.style.display = ""; } else bf.style.display = "none";
-    $("#dMinis").innerHTML = fs.length > 1 ? fs.map((f, i) => `<img src="fotos/mini/${esc(f)}${FV}" data-i="${i}" aria-current="${i === fotoIdx}" alt="Foto ${i + 1}">`).join("") : ""; cargarFotos($("#dMinis"));
+    $("#dMinis").innerHTML = fs.length > 1 ? fs.map((f, i) => `<img data-f="${esc(f)}" data-i="${i}" aria-current="${i === fotoIdx}" alt="Foto ${i + 1}">`).join("") : ""; cargarFotos($("#dMinis"));
   }
   function guardar() {
     const nuevo = {}; const orig = base.find(x => x.codigo === actual.codigo) || {};
