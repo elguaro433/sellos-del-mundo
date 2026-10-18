@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-18 17:50. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-10-18 18:01. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -4963,19 +4963,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1105",
-        "album":  "SUI-1982-04",
+        "album":  "SUI-1971-04",
         "titulo":  "Suiza Paisaje Les Diablerets 30 c - Nuevo, nunca pegado",
         "pais":  "Suiza",
-        "anio":  "1982",
-        "descripcion":  "Suiza: serie de paisajes, Les Diablerets. Valor 30 céntimos.\r\nFicha técnica: País: Suiza · Año: 1982 (aprox.) · Valor facial: 30 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "anio":  "1971",
+        "descripcion":  "Suiza: serie de paisajes, Les Diablerets. Valor 30 céntimos.\r\nFicha técnica: País: Suiza · Año: 1971 · Valor facial: 30 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  2,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_161038137_iOS.jpg | Año 1982 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo | +1 copia 18-10 (antigua ficha S1123, el mismo sello, foto 20261017_161229403_iOS.jpg)",
+        "notas":  "foto 20261017_161038137_iOS.jpg | +1 copia 18-10 (antigua ficha S1123, el mismo sello, foto 20261017_161229403_iOS.jpg) | Año confirmado: 1971-09-23 (Colnect (Les Diablerets)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1971-09-23",
+                        "Fuente":  "Colnect (Les Diablerets, Waadt Canton, 30 c), colnect.com/es/stamps/stamp/22806, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1105_1_frente.jpg",
@@ -4984,19 +4985,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1106",
-        "album":  "SUI-1982-05",
+        "album":  "SUI-1969-03",
         "titulo":  "Suiza Paisaje montañas Kreuzberge 20 c - Nuevo, nunca pegado",
         "pais":  "Suiza",
-        "anio":  "1982",
-        "descripcion":  "Suiza: serie de paisajes, montañas Kreuzberge (Alpstein). Valor 20 céntimos.\r\nFicha técnica: País: Suiza · Año: 1982 (aprox.) · Valor facial: 20 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1969",
+        "descripcion":  "Suiza: serie de paisajes, montañas Kreuzberge (Alpstein). Valor 20 céntimos.\r\nFicha técnica: País: Suiza · Año: 1969 · Valor facial: 20 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_161040456_iOS.jpg | Año 1982 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo",
+        "notas":  "foto 20261017_161040456_iOS.jpg | Año confirmado: 1969-09-18 (Colnect (Kreuzberge)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1969-09-18",
+                        "Fuente":  "Colnect (Kreuzberge, Alpstein Mountains, 20 c), colnect.com/es/stamps/stamp/22751, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1106_1_frente.jpg"
@@ -5714,15 +5716,16 @@ window.SELLOS = [
         "titulo":  "Suiza Paisaje Piz Palu Engadina 30 c - Nuevo, nunca pegado",
         "pais":  "Suiza",
         "anio":  "1970",
-        "descripcion":  "Suiza: paisajes, Piz Palü (Engadina). Valor 30 céntimos.\r\nFicha técnica: País: Suiza · Año: 1970 (aprox.) · Valor facial: 30 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Suiza: paisajes, Piz Palü (Engadina). Valor 30 céntimos.\r\nFicha técnica: País: Suiza · Año: 1970 · Valor facial: 30 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_160445448_iOS.jpg | Año 1970 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo",
+        "notas":  "foto 20261017_160445448_iOS.jpg | Año confirmado: 1970-09-17 (Colnect (Piz Palü)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1970-09-17",
+                        "Fuente":  "Colnect (Piz Palü, Graubünden, 30 c), colnect.com/es/stamps/stamp/22776, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S1138_1_frente.jpg"
@@ -28592,19 +28595,20 @@ window.SELLOS = [
     },
     {
         "codigo":  "S940",
-        "album":  "ESP-1960-18",
+        "album":  "ESP-1973-06",
         "titulo":  "España Monasterio de Santo Domingo de Silos 15 ptas - Nuevo, nunca pegado",
         "pais":  "España",
-        "anio":  "1960",
-        "descripcion":  "España: Monasterio de Santo Domingo de Silos, relieve del claustro. Valor 15 pesetas (valor alto).\nFicha técnica: País: España · Año: 1960 · Valor facial: 15 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1973",
+        "descripcion":  "España: Monasterio de Santo Domingo de Silos, relieve del claustro. Valor 15 pesetas (valor alto).\nFicha técnica: País: España · Año: 1973 · Valor facial: 15 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194254703_iOS.jpg",
+        "notas":  "foto 20261006_194254703_iOS.jpg | Año confirmado: 1973-10-26 (Colnect (\"Three Saints\" (statue) - Monasterio de Santo Domingo de Silos)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1973-10-26",
+                        "Fuente":  "Colnect (\"Three Saints\" (statue) - Monasterio de Santo Domingo de Silos, 15 Pta), colnect.com/es/stamps/stamp/181277, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S940_1_frente.jpg"
@@ -28684,9 +28688,10 @@ window.SELLOS = [
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_194528080_iOS.jpg, 20261006_194531006_iOS.jpg, 20261006_194534380_iOS.jpg",
+        "notas":  "foto 20261006_194528080_iOS.jpg, 20261006_194531006_iOS.jpg, 20261006_194534380_iOS.jpg | Año confirmado: 1940-01-29 (Colnect (Virgin of Pilar - XIX Centenario)",
         "tecnico":  {
-                        "Fuente":  "Anuncios de coleccionistas: 9 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026)"
+                        "Fecha de emisión":  "1940-01-29",
+                        "Fuente":  "Anuncios de coleccionistas: 9 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Virgin of Pilar - XIX Centenario, 40+10 cts), colnect.com/es/stamps/stamp/294124, consultado 14-oct-2026"
                     },
         "fotos":  [
                       "S944_1_frente.jpg",
