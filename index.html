@@ -1,0 +1,713 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="theme-color" content="#102040">
+<link rel="manifest" href="manifest.json"><link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Sellos">
+<style>html.bloq body>*:not(#pinCaja){display:none!important}#pinCaja{display:none}html.bloq #pinCaja{display:flex;position:fixed;inset:0;z-index:9999;background:#102040;color:#f6efe0;align-items:center;justify-content:center;flex-direction:column;gap:14px;font-family:Georgia,serif;padding:16px;text-align:center}#pinCaja h1{margin:0;font-size:26px;color:#e8c46a}#pinCaja input{font-size:28px;letter-spacing:10px;text-align:center;width:180px;padding:10px;border-radius:12px;border:2px solid #e8c46a;background:#0b1730;color:#fff}#pinCaja button{font-size:18px;padding:10px 26px;border-radius:12px;border:0;background:#e8c46a;color:#102040;cursor:pointer}#pinCaja .mal{color:#ff9a8a;min-height:22px}</style>
+<script>(function(){try{if(localStorage.getItem("sdm-pin")!=="8c7e811133d5ae5c12c6b63829ec20355037e932d17bc1907df9c39a23ec88c6")document.documentElement.classList.add("bloq")}catch(e){document.documentElement.classList.add("bloq")}})();</script>
+<title>Sellos del Mundo · Catálogo</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+[hidden]{display:none!important}
+:root{
+  --papel:#f4eee0; --papel-2:#fbf7ee; --tinta:#17233b; --tinta-2:#5a6272; --vino:#8c2030; --oro:#b8893a; --oro-2:#e6c88a;
+  --linea:#e2d7c0; --tarjeta:#fffdf8; --marco:#fffaf0; --fondo-foto:#ece3d0;
+  --sombra:0 1px 2px rgba(23,35,59,.06),0 8px 24px rgba(23,35,59,.08);
+  --ok:#2f7d4f; --info:#2b5c9e; --warn:#b26b00; --gris:#7a7f88;
+  --serif:"Playfair Display",Georgia,"Times New Roman",serif; --sans:Inter,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --hero:linear-gradient(135deg,#17233b 0%,#24365a 55%,#3a2440 100%);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --papel:#101319; --papel-2:#161a22; --tinta:#efe7d6; --tinta-2:#a9a395; --vino:#e07a86; --oro:#d9b26a; --oro-2:#f0d59a;
+  --linea:#262c37; --tarjeta:#181d26; --marco:#f3ecdc; --fondo-foto:#0d1016;
+  --sombra:0 1px 2px rgba(0,0,0,.4),0 10px 26px rgba(0,0,0,.35);
+  --ok:#6cc08f; --info:#7fa9e6; --warn:#e3a54a; --gris:#9aa0aa;
+  --hero:linear-gradient(135deg,#0d1424 0%,#1a2742 55%,#2e1a33 100%);}}
+:root[data-theme="dark"]{
+  --papel:#101319; --papel-2:#161a22; --tinta:#efe7d6; --tinta-2:#a9a395; --vino:#e07a86; --oro:#d9b26a; --oro-2:#f0d59a;
+  --linea:#262c37; --tarjeta:#181d26; --marco:#f3ecdc; --fondo-foto:#0d1016;
+  --sombra:0 1px 2px rgba(0,0,0,.4),0 10px 26px rgba(0,0,0,.35);
+  --ok:#6cc08f; --info:#7fa9e6; --warn:#e3a54a; --gris:#9aa0aa;
+  --hero:linear-gradient(135deg,#0d1424 0%,#1a2742 55%,#2e1a33 100%);}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--papel);color:var(--tinta);font-family:var(--sans);font-size:15px;line-height:1.45}
+button,input,select,textarea{font:inherit;color:inherit}
+a{color:var(--vino)}
+.wrap{max-width:1440px;margin:0 auto;padding:0 20px}
+
+/* ---------- cabecera ---------- */
+header.top{background:var(--hero);color:#f6efe0;position:relative;overflow:hidden}
+header.top::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 85% -20%,rgba(230,200,138,.25),transparent 45%),radial-gradient(circle at 0% 120%,rgba(140,32,48,.35),transparent 50%);pointer-events:none}
+.top .wrap{position:relative;z-index:1}
+.cab{display:flex;align-items:center;gap:18px;padding-top:16px;padding-bottom:12px;flex-wrap:wrap}
+.marca{display:flex;align-items:center;gap:14px;margin-right:auto}
+.logo{width:62px;height:62px;border-radius:12px;object-fit:cover;box-shadow:0 0 0 2px rgba(230,200,138,.6),0 6px 18px rgba(0,0,0,.35)}
+.marca h1{font-family:var(--serif);font-size:32px;margin:0;letter-spacing:.3px;line-height:1.05}
+.marca p{margin:3px 0 0;color:rgba(246,239,224,.75);font-size:14px}
+.acciones{display:flex;gap:8px;flex-wrap:wrap}
+.top .btn{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.18);color:#f6efe0}
+.top .btn:hover{background:rgba(255,255,255,.16);border-color:var(--oro-2)}
+.top .btn.pri{background:var(--oro-2);color:#1b1b1b;border-color:var(--oro-2)}
+.btn{border:1px solid var(--linea);background:var(--tarjeta);padding:8px 13px;border-radius:10px;cursor:pointer;display:inline-flex;align-items:center;gap:7px;min-height:40px;font-weight:500;transition:background .15s,border-color .15s}
+.btn:hover{border-color:var(--oro)}
+.btn.pri{background:var(--tinta);color:var(--papel-2);border-color:var(--tinta)}
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;padding:0 0 8px}
+.stat{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:12px;padding:8px 14px;backdrop-filter:blur(4px);display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.stat .ico{font-size:16px;opacity:.85;align-self:center}
+.stat b{font-family:var(--serif);font-size:22px;line-height:1.1;font-variant-numeric:tabular-nums;color:#fff}
+.stat span{color:rgba(246,239,224,.78);font-size:13px}
+button.stat{font:inherit;color:inherit;text-align:left;cursor:pointer;width:100%}
+button.stat:hover{border-color:rgba(230,200,138,.6)}
+body:not(.verPrecios) .soloPrecio,body:not(.verPrecios) .card .precio,body.verPrecios .ocultoPrecio{display:none!important}
+.stat u{text-decoration:none;color:var(--oro-2,#e6c88a)}
+.stat.dest{background:linear-gradient(135deg,rgba(230,200,138,.28),rgba(230,200,138,.1));border-color:rgba(230,200,138,.45)}
+.nota-cifras{font-size:12.5px;color:rgba(246,239,224,.7);padding:0 0 10px}
+.nota-cifras b{color:var(--oro-2);font-weight:600}
+
+/* ---------- barra de búsqueda ---------- */
+.barra{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--papel) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--linea)}
+.barra .fila1{display:flex;gap:10px;align-items:center;padding-top:12px;padding-bottom:8px;flex-wrap:wrap}
+.buscar{flex:1 1 300px;display:flex;align-items:center;gap:10px;background:var(--tarjeta);border:1px solid var(--linea);border-radius:12px;padding:0 14px;min-height:44px;box-shadow:var(--sombra)}
+.buscar:focus-within{border-color:var(--oro)}
+.buscar input{border:0;outline:0;background:transparent;width:100%;padding:10px 0;font-size:15px}
+select.ctl{background:var(--tarjeta);border:1px solid var(--linea);border-radius:10px;padding:8px 10px;min-height:40px;max-width:100%;cursor:pointer}
+select.ctl.activo{border-color:var(--oro);box-shadow:0 0 0 2px color-mix(in srgb,var(--oro) 30%,transparent)}
+.filtros2{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding-bottom:8px}
+.filtros2 .ctl{flex:1 1 160px}
+.chips{display:grid;grid-template-rows:repeat(2,auto);grid-auto-flow:column;grid-auto-columns:max-content;gap:7px;overflow-x:auto;padding:4px 0 10px;scrollbar-width:auto;scrollbar-color:var(--oro) transparent}
+.chips::-webkit-scrollbar{height:10px}.chips::-webkit-scrollbar-thumb{background:var(--oro);border-radius:6px}
+.chip{flex:0 0 auto;border:1px solid var(--linea);background:var(--tarjeta);border-radius:999px;padding:7px 14px 7px 9px;cursor:pointer;font-size:14px;white-space:nowrap;display:inline-flex;align-items:center;gap:6px;transition:border-color .15s}
+.chip:hover{border-color:var(--oro)}
+.chip img{width:20px;height:14px;object-fit:cover;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.12)}
+.chip .bola{width:20px;height:14px;display:inline-grid;place-items:center;font-size:15px;line-height:1}
+.chip[aria-pressed="true"]{background:var(--vino);border-color:var(--vino);color:#fff}
+.chip small{opacity:.65;font-variant-numeric:tabular-nums}
+.resumen{color:var(--tinta-2);font-size:13px;padding:2px 0 10px}
+.resumen b{color:var(--tinta)}
+
+/* ---------- tarjetas tipo sello ---------- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:18px;padding:18px 0 48px}
+.card{background:var(--tarjeta);border:1px solid var(--linea);border-radius:16px;overflow:hidden;cursor:pointer;box-shadow:var(--sombra);display:flex;flex-direction:column;transition:transform .15s ease,box-shadow .15s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 4px 8px rgba(23,35,59,.1),0 16px 36px rgba(23,35,59,.18)}
+.card:focus-visible{outline:3px solid var(--oro);outline-offset:2px}
+.foto{aspect-ratio:1/1;background:radial-gradient(circle at 50% 35%,color-mix(in srgb,var(--fondo-foto) 70%,#fff) 0%,var(--fondo-foto) 80%);position:relative;overflow:hidden;display:grid;place-items:center}
+.foto .sello{position:absolute;inset:8%;display:flex;align-items:center;justify-content:center}
+.foto img{display:block;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;filter:drop-shadow(0 6px 12px rgba(0,0,0,.35));transition:transform .25s ease;transform:rotate(var(--g,0deg))}
+.card:hover .foto img{transform:rotate(var(--g,0deg)) scale(1.04)}
+.girar{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;align-items:center}
+.girar[hidden]{display:none!important}
+#zoomVer{position:fixed;inset:0;z-index:50;background:rgba(8,10,16,.95);overflow:hidden;touch-action:none;cursor:grab}
+#zoomVer[hidden]{display:none!important}
+#zoomVer.mueve{cursor:grabbing}
+#zImg{position:absolute;left:50%;top:50%;max-width:none;max-height:none;transform-origin:0 0;user-select:none;-webkit-user-drag:none}
+#zoomVer .zbar{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+#zoomVer .zbar button{background:rgba(255,255,255,.14);color:#f6efe0;border:1px solid rgba(255,255,255,.3);border-radius:10px;padding:8px 14px;font-size:16px;min-height:42px;min-width:46px;cursor:pointer}
+#zoomVer .zbar button:hover{background:rgba(255,255,255,.25)}
+#zoomVer .zayuda{position:absolute;top:12px;left:0;right:0;text-align:center;color:rgba(246,239,224,.7);font-size:13px;padding:0 16px}
+.ficha .vis img.grande{cursor:zoom-in}
+.girar button{background:rgba(255,255,255,.1);color:#f6efe0;border:1px solid rgba(255,255,255,.25);border-radius:9px;padding:6px 11px;font-size:14px;cursor:pointer;min-height:36px}
+.girar button:hover{background:rgba(255,255,255,.2);border-color:var(--oro-2)}
+.girar .ang{color:rgba(246,239,224,.8);font-size:13px;min-width:70px;text-align:center}
+.cod small{display:block;font-size:10px;font-weight:600;opacity:.65;letter-spacing:.3px}
+.etiq{display:flex;align-items:center;justify-content:space-between;gap:6px;padding:8px 10px;background:var(--tarjeta);border-bottom:1px solid var(--linea)}
+.cod{background:rgba(255,250,240,.94);color:#17233b;font-weight:700;font-size:12px;padding:3px 8px;border-radius:7px;font-variant-numeric:tabular-nums;box-shadow:0 1px 3px rgba(0,0,0,.2);white-space:nowrap}
+.marcas{display:flex;gap:5px;flex-wrap:wrap;justify-content:flex-end}
+.estrella{background:#7a1f2b;color:#ffd977;font-size:12px;padding:2px 7px;border-radius:7px;margin-right:4px;letter-spacing:1px;box-shadow:0 1px 3px rgba(0,0,0,.25)}
+.destacado{width:100%;background:color-mix(in srgb,var(--oro) 16%,var(--tarjeta));border:1px solid var(--oro);border-radius:10px;padding:9px 12px;font-size:13.5px;line-height:1.4;margin-bottom:4px}
+.destacado b{display:block;color:var(--vino);font-size:14.5px;margin-bottom:2px}
+.qty{background:var(--oro-2);color:#1b1b1b;font-weight:700;font-size:12px;padding:3px 8px;border-radius:7px;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.nuevo{background:#2e7d4f;color:#fff;font-size:11px;font-weight:700;letter-spacing:.06em;border-radius:7px;padding:3px 8px}
+.info{padding:12px 14px 14px;display:flex;flex-direction:column;gap:5px;flex:1;border-top:1px dashed var(--linea)}
+.pais{font-size:11.5px;color:var(--tinta-2);text-transform:uppercase;letter-spacing:.7px;display:flex;align-items:center;gap:6px}
+.pais img{width:16px;height:11px;object-fit:cover;border-radius:2px}
+.tit{font-family:var(--serif);font-size:15.5px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-weight:600}
+.pie{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:6px}
+.precio{font-weight:700;font-size:17px;font-variant-numeric:tabular-nums}
+.pill{font-size:11px;padding:2px 9px;border-radius:999px;border:1px solid currentColor;white-space:nowrap;font-weight:600}
+.e-coleccion{color:var(--gris)} .e-listo{color:var(--info)} .e-borrador{color:var(--warn)} .e-venta{color:var(--ok)} .e-vendido{color:var(--vino)} .e-reservado{color:var(--oro)}
+.lista .grid{grid-template-columns:1fr;gap:8px}
+.lista .card{flex-direction:row;align-items:stretch;border-radius:12px}
+.lista .foto{width:110px;flex:0 0 110px}
+.lista .etiq{flex-direction:column;align-items:flex-start;justify-content:center;border-bottom:0;border-right:1px solid var(--linea);flex:0 0 auto}
+.lista .info{border-top:0;border-left:1px dashed var(--linea)}
+.lista .tit{-webkit-line-clamp:1}
+.grupoPais{grid-column:1/-1;display:flex;align-items:center;gap:10px;margin:18px 0 0;padding:8px 0;border-bottom:2px solid var(--oro);font-family:var(--serif);font-size:24px;color:var(--tinta)}
+.grupoPais img{width:32px;height:auto;border-radius:3px}.grupoPais small{font-family:inherit;font-size:14px;color:var(--tinta-2)}
+.vacio{padding:70px 0;text-align:center;color:var(--tinta-2);grid-column:1/-1}
+.vacio b{display:block;font-family:var(--serif);font-size:22px;color:var(--tinta);margin-bottom:6px}
+.arriba{position:fixed;right:18px;bottom:18px;width:46px;height:46px;border-radius:50%;border:0;background:var(--tinta);color:var(--papel-2);font-size:20px;cursor:pointer;box-shadow:var(--sombra);opacity:0;pointer-events:none;transition:opacity .2s;z-index:6}
+.arriba.ver{opacity:1;pointer-events:auto}
+
+/* ---------- ficha ---------- */
+dialog{border:0;padding:0;border-radius:18px;width:min(1120px,96vw);max-height:94vh;background:var(--papel-2);color:var(--tinta);box-shadow:0 24px 70px rgba(0,0,0,.45)}
+dialog::backdrop{background:rgba(10,13,20,.7);backdrop-filter:blur(3px)}
+.ficha{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);max-height:94vh}
+.ficha .vis{background:radial-gradient(circle at 50% 40%,#262b35 0%,#15181e 80%);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:22px;gap:12px;min-height:360px;position:relative}
+.ficha .vis{position:sticky;top:0;align-self:start;height:min(94vh,820px)}
+.ficha .vis img.grande{max-width:100%;max-height:calc(100% - 130px);object-fit:contain;filter:drop-shadow(0 10px 24px rgba(0,0,0,.6));transform:rotate(var(--g,0deg));transition:transform .2s ease}
+.miniaturas{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+.miniaturas img{width:58px;height:58px;object-fit:contain;background:#0e1014;border:2px solid transparent;border-radius:8px;cursor:pointer}
+.miniaturas img[aria-current="true"]{border-color:var(--oro-2)}
+.ficha form{padding:20px 22px;overflow:auto;display:flex;flex-direction:column;gap:12px}
+.ficha h2{font-family:var(--serif);margin:0;font-size:24px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.ficha h2 img{width:24px;height:17px;object-fit:cover;border-radius:2px}
+.ficha .sub{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.ficha .sub .pill{font-size:12px}
+.fila{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+label.campo{display:flex;flex-direction:column;gap:4px;font-size:11.5px;color:var(--tinta-2);text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+label.campo input,label.campo select,label.campo textarea{text-transform:none;letter-spacing:0;font-size:15px;font-weight:400;color:var(--tinta);background:var(--tarjeta);border:1px solid var(--linea);border-radius:9px;padding:9px 11px}
+label.campo input:focus,label.campo textarea:focus,label.campo select:focus{outline:0;border-color:var(--oro)}
+textarea{resize:vertical;min-height:90px}
+.nav-ficha{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:4px;flex-wrap:wrap}
+.cerrar{position:absolute;top:12px;right:12px;background:rgba(0,0,0,.5);color:#fff;border:0;width:40px;height:40px;border-radius:50%;font-size:22px;cursor:pointer;z-index:2}
+.editado{font-size:12px;color:var(--warn)}
+.publicar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding:12px;border:1px dashed var(--oro);border-radius:12px;background:var(--tarjeta)}
+.publicar-t{width:100%;font-size:11.5px;color:var(--tinta-2);text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+.publicar .btn{min-height:34px;padding:6px 10px;font-size:13px;text-decoration:none;color:var(--tinta)}
+.tecnico{border:1px solid var(--linea);border-radius:12px;background:var(--tarjeta);overflow:hidden}
+.tecnico:empty{display:none}
+.tecnico .tt{padding:9px 12px;font-size:11.5px;color:var(--tinta-2);text-transform:uppercase;letter-spacing:.5px;font-weight:600;border-bottom:1px solid var(--linea);background:color-mix(in srgb,var(--oro) 10%,transparent)}
+.tecnico dl{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;margin:0;padding:10px 12px;font-size:14px}
+.tecnico dt{color:var(--tinta-2)} .tecnico dd{margin:0;font-weight:500}
+.tecnico dd a{color:var(--oro);word-break:break-all;text-decoration:underline}
+.tecnico .falta{padding:10px 12px;font-size:13px;color:var(--tinta-2)}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--tinta);color:var(--papel-2);padding:11px 18px;border-radius:12px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:50;box-shadow:var(--sombra)}
+.toast.ver{opacity:1}
+footer{color:var(--tinta-2);font-size:12.5px;padding:22px 0 44px;border-top:1px solid var(--linea)}
+@media (max-width:1100px){.stats{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:760px){
+  .wrap{padding:0 16px}
+  .stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stats .stat:nth-child(3){grid-column:1/-1}
+  .stat b{font-size:20px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .ficha{grid-template-columns:1fr;overflow:auto}
+  .ficha .vis{min-height:240px;position:static;height:auto}
+  .ficha .vis img.grande{max-height:60vh}
+  .marca h1{font-size:24px}
+  .fila{grid-template-columns:1fr}
+  .acciones .btn span.txt{display:none}
+}
+.tituloPdf,.firmaPdf{display:none}
+@page{margin:12mm 10mm 14mm;@bottom-center{content:"Colección de Emmanuel Díaz · " counter(page) "/" counter(pages);font:italic 8pt Georgia,serif;color:#9a8460}}
+.resumen .btnPdf{margin-left:10px;padding:6px 12px;font-size:13px;vertical-align:middle}
+@media print{
+  .barra,.acciones,.chips,footer,dialog,.arriba,.nota-cifras{display:none!important}
+  .tituloPdf{display:flex;align-items:center;gap:10px;font-size:26px;margin:4px 0 14px;color:#000}
+  .tituloPdf img{height:22px}.tituloPdf small{font-size:13px;color:#555;font-family:sans-serif;margin-left:auto}
+  body.pdfParcial .stats{display:none!important} body.pdfUnPais .grupoPais{display:none!important}
+  .etiq{background:#fff}
+  .foto{aspect-ratio:auto!important;height:44mm}
+  .foto .sello{inset:2mm!important}
+  .foto img{filter:none!important}
+  html,body{background:#fff!important} .toast,#centinela{display:none!important}
+  .firmaPdf{display:block;margin:10px 0 0;padding-top:6px;border-top:1px solid #d9c49a;font:italic 9.5pt var(--serif);color:#7a6440;text-align:right;break-inside:avoid;break-before:avoid}
+  .firmaPdf b{font-weight:600;color:#1d2a44}
+  header.top{background:#fff;color:#000} header.top::after{display:none}
+  .stat{border-color:#ccc} .stat b,.stat span{color:#000}
+  body{background:#fff;color:#000}
+  .grid{grid-template-columns:repeat(4,1fr);gap:8px}
+  .card{box-shadow:none;break-inside:avoid}
+  .foto{background:#fff}
+}
+</style>
+
+<header class="top"><div class="wrap">
+  <div class="cab">
+    <div class="marca">
+      <img class="logo" src="datos/logo.png" alt="" width="62" height="62">
+      <div><h1>Sellos del Mundo</h1><p>Catálogo de la colección · sellos originales de época</p></div>
+    </div>
+    <div class="acciones">
+      <button class="btn" id="bVista" title="Cambiar entre cuadrícula y lista">▦ <span class="txt">Vista</span></button>
+      <button class="btn" id="bTema" title="Modo claro / oscuro">◐ <span class="txt">Tema</span></button>
+      <button class="btn" id="bImprimir" hidden>🖨 <span class="txt">Imprimir / PDF</span></button>
+      <button class="btn" id="bExcel" style="display:none">⬇ <span class="txt">Excel</span></button>
+      <button class="btn pri" id="bCopia" hidden title="Guarda tus cambios en un archivo">💾 <span class="txt">Guardar copia</span></button>
+      <label class="btn" title="Cargar una copia guardada" hidden>📂 <span class="txt">Cargar copia</span><input type="file" id="fCopia" accept=".json" hidden></label>
+    </div>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div class="nota-cifras" id="notaCifras"></div>
+</div></header>
+
+<div class="barra">
+  <div class="wrap fila1">
+    <label class="buscar"><span aria-hidden="true">🔍</span><input id="q" type="search" placeholder="Buscar por país, año, tema, código (ej.: «Bulgaria 1921», «Franco», «S071»)…" autocomplete="off"></label>
+    <select class="ctl" id="orden" aria-label="Ordenar">
+      <option value="paisAnio">Orden del álbum (país y año)</option>
+      <option value="anio">Año: antiguos primero</option><option value="anioDesc">Año: recientes primero</option>
+      <option value="codigo">Orden de llegada (S001, S002…)</option>
+      <option value="destacados">Más especiales primero ★</option>
+    </select>
+  </div>
+  <div class="wrap filtros2">
+    <select class="ctl" id="fCons" aria-label="Conservación" hidden><option value="">Nuevos y matasellados</option><option value="nuevo">Solo nuevos (sin matasellar)</option><option value="usado">Solo matasellados</option></select>
+    <select class="ctl" id="fDest" aria-label="Destacados"><option value="">★ Todos los sellos</option><option value="1">★★★ Joyas de la colección</option><option value="2">★★ y más: los más valiosos</option><option value="3">★ Todos los destacados</option></select>
+    <select class="ctl" id="fTema" aria-label="Tema"><option value="">Todos los temas</option></select>
+    <select class="ctl" id="fDecada" aria-label="Década"><option value="">Todas las épocas</option></select>
+    <select class="ctl" id="fPrecio" aria-label="Precio" hidden><option value="">Cualquier precio</option><option value="0-2">Hasta 2 €</option><option value="2-5">De 2 a 5 €</option><option value="5-10">De 5 a 10 €</option><option value="10-99999">Más de 10 €</option></select>
+    <select class="ctl" id="fEstado" aria-label="Estado" hidden><option value="">Todos los estados de venta</option></select>
+    <button class="btn" type="button" id="bLimpiar" title="Quitar todos los filtros">✖ Quitar filtros</button>
+  </div>
+  <div class="wrap"><div class="chips" id="paises" role="toolbar" aria-label="Países"></div><div class="resumen" id="resumen"></div></div>
+</div>
+
+<main class="wrap" id="main"><h2 class="tituloPdf" id="tituloPdf"></h2><div class="grid" id="grid"></div><div id="centinela" style="height:1px"></div></main>
+<div class="firmaPdf" aria-hidden="true">✦ Colección de <b>Emmanuel Díaz</b><span id="firmaFecha" hidden></span></div>
+<footer class="wrap">Catálogo de la colección Sellos del Mundo. Versión para consultar: los datos se actualizan desde el ordenador de la colección. Pulsa un sello para ver su ficha y copiar los textos.</footer>
+<button class="arriba" id="bArriba" aria-label="Volver arriba">↑</button>
+
+<dialog id="dlg"><button class="cerrar" id="bCerrar" aria-label="Cerrar">×</button>
+  <div class="ficha">
+    <div class="vis"><img class="grande" id="dFoto" alt="">
+      <div class="girar" id="dZoomAbrir"><button type="button" id="bZoom" title="Ver la foto en grande y acercarla">🔍 Ampliar foto</button></div>
+      <div class="girar" id="dGirarAbrir" style="display:none!important"><button type="button" id="bGirarAbrir" title="Girar esta foto si está torcida">✎ Girar foto</button></div>
+      <div class="girar" id="dGirar" title="Girar esta foto (se guarda en este ordenador)" hidden>
+        <button type="button" data-g="-90" title="Un cuarto de vuelta a la izquierda">⟲ 90°</button>
+        <button type="button" data-g="-1" title="Un poco a la izquierda">↶ 1°</button>
+        <span class="ang" id="dAng">sin girar</span>
+        <button type="button" data-g="1" title="Un poco a la derecha">↷ 1°</button>
+        <button type="button" data-g="90" title="Un cuarto de vuelta a la derecha">⟳ 90°</button>
+        <button type="button" data-g="0" title="Quitar el giro">Deshacer</button>
+        <button type="button" id="bGirarOk" title="Guardar el giro y esconder estos botones" style="background:var(--oro-2);color:#1b1b1b;font-weight:700">✔ Guardar</button>
+      </div>
+      <div class="miniaturas" id="dMinis"></div></div>
+    <form id="dForm" onsubmit="return false">
+      <h2 id="dTitulo"></h2><div class="sub" id="dSub"></div><div class="editado" id="dEditado"></div>
+      <div class="tecnico" id="dTec"></div>
+      <div class="publicar">
+        <span class="publicar-t">Ficha del sello:</span>
+        <a class="btn" id="bFuente" target="_blank" rel="noopener">🔗 Ver la fuente ↗</a>
+        <button class="btn" type="button" data-copiar="titulo">📋 Copiar título</button>
+        <button class="btn" type="button" data-copiar="completo">📋 Copiar descripción</button>
+        <a class="btn" id="bFoto" hidden>⬇ Descargar foto</a>
+      </div>
+      <label class="campo">Título<input name="titulo"></label>
+      <div class="fila"><label class="campo">País<input name="pais" list="lPaises"></label><label class="campo">Año<input name="anio" inputmode="numeric"></label></div>
+      <label class="campo">Descripción<textarea name="descripcion"></textarea></label>
+      <div class="fila"><label class="campo">Conservación<input name="conservacion" list="lCons"></label><label class="campo">Unidades (copias iguales)<input name="cantidad" type="number" min="0"></label></div>
+      <div class="fila"><label class="campo" hidden>Precio salida (€)<input name="precioSalida" type="number" step="0.01" min="0"></label><label class="campo">Valor orientativo (€)<input name="precioYa" type="number" step="0.01" min="0"></label></div>
+      <div class="fila" hidden><label class="campo">Estado<select name="estado"></select></label><label class="campo">Plataformas<input name="plataformas"></label></div>
+      <label class="campo">Notas<textarea name="notas"></textarea></label>
+      <div class="nav-ficha">
+        <button class="btn" type="button" id="bPrev">← Anterior</button>
+        <button class="btn" type="button" id="bRestaurar" hidden>Deshacer cambios</button>
+        <button class="btn pri" type="button" id="bGuardar" hidden>Guardar</button>
+        <button class="btn" type="button" id="bNext">Siguiente →</button>
+      </div>
+    </form>
+  </div>
+<div id="zoomVer" hidden><img id="zImg" alt="" draggable="false">
+  <div class="zbar"><button type="button" data-z="-" title="Alejar">−</button><button type="button" data-z="+" title="Acercar">＋</button><button type="button" data-z="0" title="Ver entera">Ver entera</button><button type="button" id="zCerrar" title="Cerrar (Esc)">✕ Cerrar</button></div>
+  <div class="zayuda">Rueda del ratón o dos dedos para acercar · arrastra para moverla · doble clic para acercar</div></div>
+</dialog>
+<datalist id="lPaises"></datalist>
+<datalist id="lCons"><option>Nuevo sin charnela (**)</option><option>Nuevo con charnela (*)</option><option>Matasellado, nunca pegado</option><option>Usado</option><option>Con defectos</option></datalist>
+<div class="toast" id="toast"></div>
+
+<script src="fotos/indice.js"></script>
+<script>
+(() => {
+  const fotos = {}, espera = {};
+  window.FOTOS_CARGA = (n, o) => { Object.assign(fotos, o); const l = espera[n] || []; espera[n] = null; l.forEach(f => f()); };
+  window.fotoSrc = (nombre, cb) => {
+    if (fotos[nombre]) return cb(fotos[nombre]);
+    const n = (window.FOTO_PAQ || {})[nombre]; if (n == null) return cb(null);
+    if (espera[n] === null) return cb(fotos[nombre]);
+    if (!espera[n]) { espera[n] = []; const s = document.createElement("script"); s.src = "fotos/p" + n + ".js"; s.onerror = () => { espera[n] = null; }; document.head.appendChild(s); }
+    espera[n].push(() => cb(fotos[nombre]));
+  };
+  window.cargarFotos = raiz => raiz.querySelectorAll("img[data-f]:not([src])").forEach(im => fotoSrc(im.dataset.f, u => { if (u) im.src = u; }));
+})();
+</script>
+<script src="datos/sellos.js"></script><script src="datos/ediciones.js"></script>
+<script>
+(() => {
+  const CLAVE = "catalogo-sellos-ediciones-v1";
+  const ESTADOS = ["Colección"];
+  const NOMBRE_ESTADO = {};
+  const claseEstado = e => ({ "Colección": "e-coleccion", "Listo": "e-listo", "En venta": "e-venta", "Reservado": "e-reservado", "Vendido": "e-vendido" }[e] || "e-coleccion");
+  const BANDERA = { "Ajman": "ae", "Alemania (RDA)": "de", "Alemania (RFA)": "de", "Alemania": "de", "Alemania (Reich)": "de", "Alemania (Bizona)": "de", "Guinea Española": "gq", "Sahara Español": "eh", "Indonesia": "id", "Argelia": "dz", "Argentina": "ar", "Austria": "at", "Birmania": "mm", "Bulgaria": "bg", "Canadá": "ca", "Ceilán": "lk", "Chad": "td", "Chile": "cl", "China": "cn", "Congo Belga": "cd", "Ecuador": "ec", "Egipto": "eg", "España": "es", "Estados Unidos": "us", "Filipinas": "ph", "Finlandia": "fi", "Francia": "fr", "Grecia": "gr", "Hong Kong": "hk", "Hungría": "hu", "Irak": "iq", "Israel": "il", "Italia": "it", "Japón": "jp", "Jordania": "jo", "Liberia": "lr", "Madagascar": "mg", "Malawi": "mw", "Malaui": "mw", "Manama": "bh", "Marruecos": "ma", "Marruecos Español": "ma", "México": "mx", "Mongolia": "mn", "Nicaragua": "ni", "Panamá": "pa", "Paraguay": "py", "Polonia": "pl", "Portugal": "pt", "Reino Unido": "gb", "Rumanía": "ro", "Rusia": "ru", "Siria": "sy", "Sudáfrica": "za", "Turquía": "tr", "Uruguay": "uy", "Vaticano": "va", "Vietnam": "vn", "Yugoslavia": "rs", "Cuba": "cu", "Colombia": "co", "Venezuela": "ve", "Perú": "pe", "Brasil": "br", "Bélgica": "be", "Suiza": "ch", "Guinea Francesa": "gn", "Nueva Zelanda": "nz", "Angola": "ao", "Trinidad y Tobago": "tt", "Suecia": "se", "Noruega": "no", "Dinamarca": "dk", "Holanda": "nl", "Países Bajos": "nl", "Checoslovaquia": "cz", "India": "in", "Australia": "au", "Andorra": "ad", "Mónaco": "mc", "San Marino": "sm", "Guinea Ecuatorial": "gq", "Irlanda": "ie" };
+  const bandera = p => BANDERA[p] ? `<span class="bola">${[...BANDERA[p].toUpperCase()].map(c => String.fromCodePoint(127397 + c.charCodeAt(0))).join("")}</span>` : `<span class="bola">🌐</span>`;
+  const $ = s => document.querySelector(s);
+  const base = Array.isArray(window.SELLOS) ? window.SELLOS : [];
+  let ediciones = {};
+  try { ediciones = JSON.parse(localStorage.getItem(CLAVE) || "{}"); } catch (e) { ediciones = {}; }
+  const guardarEdiciones = () => { try { localStorage.setItem(CLAVE, JSON.stringify(ediciones)); } catch (e) { toast("No se pudo guardar en este navegador. Usa «Guardar copia»."); } };
+  const datos = () => base.map(s => Object.assign({}, s, ediciones[s.codigo] || {}));
+  /* giros de foto hechos a mano en este ordenador: { "S032_1_frente.jpg": { g: grados, id: "marca" } }.
+     Claude los aplica a la foto de verdad y apunta su id en datos/giros_aplicados.js (window.GIROS_APLICADOS = [ids]); al cargar se quitan */
+  const CLAVE_G = CLAVE + "-giros";
+  let giros = {};
+  try { giros = JSON.parse(localStorage.getItem(CLAVE_G) || "{}"); } catch (e) { giros = {}; }
+  (window.GIROS_APLICADOS || []).forEach(id => { for (const k in giros) if (giros[k].id === id) delete giros[k]; });
+  const guardarGiros = () => { try { localStorage.setItem(CLAVE_G, JSON.stringify(giros)); } catch (e) { toast("No se pudo guardar el giro en este navegador."); } };
+  guardarGiros();
+  const giroDe = f => (giros[f] && giros[f].g) || 0;
+  let todos = datos();
+  const st = { q: "", pais: "", estado: "", decada: "", cons: "", dest: "", temaF: "", precio: "", orden: "paisAnio", vista: "grid" };
+  // Temas: se deducen del título y la descripción (un sello puede tener varios)
+  const TEMAS = [
+    ["Reyes y personajes reales", /\b(zar|rey|reina|princip|princes|boris|fernando|simeon|alfonso|franco|boda real|reinado|maria luisa|juan carlos|felipe de borbon)/],
+    ["Escudos y leones", /\b(leon|escudo|armas|aguila)/],
+    ["Deportes", /\b(juegos|deport|futbol|baloncesto|ciclismo|hipica|esgrima|atleta|atletismo|ajedrez|olimpi)/],
+    ["Cruz Roja y beneficencia", /\b(cruz roja|beneficen|ayuda de invierno|prisioneros|victimas)/],
+    ["Historia, guerras y política", /\b(guerra|batalla|liberaci|levantamiento|septiembre|republica|tratado|victoria|fascismo|partisan|asamblea|congreso|ejercito|soldado|uniformes)/],
+    ["Monumentos, edificios y paisajes", /\b(monumento|monasterio|catedral|palacio|edificio|teatro|puente|paisaje|vista|fortaleza|shipka|rila|tarnovo|sofia|presa|balneario|cartuja|iglesia|torre|parque nacional|museo)/],
+    ["Agricultura y trabajo", /\b(agricultura|cosecha|uvas|vendimia|trigo|girasol|fresas|gallinas|campesin|tractor|minero|apicultor|colmena|frutas|bueyes|cerdos|construccion|ganaderia|lanas|labrador)/],
+    ["Escritores, artistas y personajes", /\b(escritor|poeta|botev|vazov|levski|slaveykov|smirnenski|rakovski|bourchier|gutenberg|karastoyanov|actor|actriz|pablo iglesias|costa|blasco|salmeron|szechenyi|artigas|hunyadi|miladinov|dimitar|mamarchev|pi y margall|mariana pineda)/],
+    ["Descubridores y América", /\b(forjadores|florida|balboa|pizarro|hernando de soto|ponce de leon|cabeza de vaca|bastidas|galvez|belalcazar|mendoza|junipero|amat|lezo|chaves|gasca|ercilla|mexico)/],
+    ["Religión y santos", /\b(san |santo|santa|monje|clemente|ivan rilski|ivan de rila|miroku|navidad|nacimiento|arcangel)/],
+    ["Animales y naturaleza", /\b(pajaro|ave|rana|conejo|oveja|leopardo|lobos marinos|barbo|esponja|fauna|flor|zonas humedas|pez)/],
+    ["Transporte (trenes, barcos, aviones)", /\b(ferrocarril|locomotora|tren|barco|avion|aereo|aerienne|sputnik|espacio)/],
+    ["Variedades (sin dentar, sobrecargas, parejas)", /\b(sin dentar|sobrecarga|tete-beche|desplazada|imperforate|pareja)/],
+  ];
+  const temasDe = s => { const h = norm((s.titulo || "") + " " + (s.descripcion || "")); return TEMAS.filter(([, re]) => re.test(h)).map(([n]) => n); };
+  const esNuevo = s => /^nuevo/i.test(s.conservacion || "");
+  const FV = "?v=" + Date.now();   /* las fotos se leen siempre frescas (tras enderezarlas o cambiarlas) */
+  const precioDe = s => Number(s.precioYa || s.precioSalida) || 0;
+  const uds = s => Math.max(1, Number(s.cantidad) || 1);
+  try { Object.assign(st, JSON.parse(localStorage.getItem(CLAVE + "-vista2") || "{}"), { q: "" }); } catch (e) {}
+  if (!["paisAnio", "anio", "anioDesc", "codigo"].includes(st.orden)) st.orden = "paisAnio";
+  const guardarVista = () => { try { localStorage.setItem(CLAVE + "-vista2", JSON.stringify({ orden: st.orden, vista: st.vista, tema: st.tema })); } catch (e) {} };
+  if (st.tema) document.documentElement.dataset.theme = st.tema;
+  const eur = n => (n == null || n === "" || isNaN(n)) ? "—" : Number(n).toLocaleString("es-ES", { style: "currency", currency: "EUR" });
+  const num = n => Number(n).toLocaleString("es-ES");
+  const norm = s => (s || "").toString().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  /* Sellos destacados (valor u originalidad), revisado 18-oct-2026 con ventas reales y catálogos. [nivel 1 joya / 2 valioso / 3 especial, motivo] */
+  const SIN_COLNECT = {   /* viñetas, sellos locales y fiscales que no están en el catálogo de sellos de Colnect */
+  "S896": "viñeta local de la Guerra Civil (Consejo Municipal de Alicante)",
+  "S729": "viñeta benéfica (Colegio de Huérfanos de Hacienda)",
+  "S876": "timbre fiscal, no es sello de correos",
+  "S911": "viñeta antituberculosa, no es sello de correos",
+  "S952": "viñeta navideña antituberculosa, no es sello de correos",
+  "S1154": "viñeta antituberculosa, no es sello de correos",
+  "S1266": "sello fiscal, no es sello de correos"
+};
+const DESTACADOS = {
+    "S071": [0, "El sello más valioso de la colección: el PRIMER SELLO DE BULGARIA (1879, 5 céntimos, Michel nº 1), nuevo. Vendidos en 2026: nuevo sin fijasellos unos 75 €, con fijasellos unos 30 €. Hay muchas falsificaciones: conviene mirar la filigrana o pedir un certificado."],
+    "S882": [1, "Cuba española de 1878, rey Alfonso XII, nuevo: uno de los sellos más antiguos de la colección (casi 150 años)."],
+    "S534": [1, "Japón, Koban de 1876-1879, imperio japonés clásico. Un Koban suelto se vende por unos 3-4 €; es de los sellos más antiguos de la colección."],
+    "S072": [2, "Bulgaria 1881, león, 5 st nuevo. Clásico de la segunda emisión búlgara (sueltos: 2-5 €)."],
+    "S078": [2, "Bulgaria 1881, león, 30 st. Clásico de la segunda emisión búlgara (sueltos: 2-5 €)."],
+    "S079": [2, "Bulgaria 1881, león, 25 st. Clásico de la segunda emisión búlgara (sueltos: 2-5 €)."],
+    "S064": [2, "Bulgaria 1907, 20 años de reinado de Fernando I. La serie de tres se vende por unos 25 €."],
+    "S065": [2, "Bulgaria 1907, 20 años de reinado de Fernando I. La serie de tres se vende por unos 25 €."],
+    "S066": [2, "Bulgaria 1907, 20 años de reinado de Fernando I (25 st, el valor más alto de los tres). La serie se vende por unos 25 €."],
+    "S042": [2, "España 1931, Alfonso XIII con sobrecarga «República Española» DESPLAZADA: las variedades de sobrecarga son buscadas por los coleccionistas (nuevo centrado, unos 12 €)."],
+    "S625": [2, "España 1955, General Franco 10 pesetas, NUEVO: el valor más alto de la serie, más buscado sin usar."],
+    "S833": [2, "Andorra correo español, Síndic 25 cts (1948), nuevo: el sello más antiguo de Andorra que tenemos."],
+    "S890": [3, "Reino Unido 1881, reina Victoria «Penny Lilac»: un clásico de la época victoriana con más de 140 años."],
+    "S345": [3, "Bulgaria 1946, Juegos Balcánicos, pareja TÊTE-BÊCHE (un sello del derecho y otro del revés unidos): variedad curiosa para coleccionistas."],
+    "S292": [3, "Bulgaria 1945, Congreso Eslavo 50 leva, SIN DENTAR: variedad poco común."],
+    "S301": [3, "Bulgaria 1944, luto por el zar Boris III, SIN DENTAR."],
+    "S302": [3, "Bulgaria 1944, luto por el zar Boris III, SIN DENTAR."],
+    "S319": [3, "Bulgaria 1944, luto por el zar Boris III, SIN DENTAR."],
+    "S320": [3, "Bulgaria 1944, luto por el zar Boris III, SIN DENTAR."],
+    "S321": [3, "Bulgaria 1944, luto por el zar Boris III, SIN DENTAR."],
+    "S746": [3, "España 1926, Cruz Roja Española, reina Victoria Eugenia, nuevo: serie benéfica casi centenaria."],
+    "S1246": [3, "España 1926, Cruz Roja Española, Príncipe de Asturias, nuevo: serie benéfica casi centenaria."],
+    "S1247": [3, "España 1926, Cruz Roja Española, Príncipe de Asturias, nuevo: serie benéfica casi centenaria."],
+    "S810": [3, "Alemania RFA 1951, «cuerno de correos» 10 pf, nuevo: la serie Posthorn nueva con goma original es muy buscada (valor según conservación)."],
+    "S873": [3, "Venezuela 1951, escudos de los estados (Trujillo), correo aéreo. La serie completa nueva se vende por unos 25 €; suelto vale menos."]
+  };
+  const COLNECT_PAIS = {"Francia":74,"Ifni":651,"Costa de Marfil":53,"Senegal":189,"Sudan Frances":567,"Guayana Francesa":594,"Ajman":289,"Alemania (Bizona)":835,"Alemania (RDA)":254,"Alemania (RFA)":81,"Alemania (Reich)":530,"Angola":6,"Antillas Neerlandesas":152,"Argelia":3,"Argentina":10,"Austria":14,"Birmania":544,"Brasil":30,"Bulgaria":33,"Bélgica":21,"Canadá":38,"Ceilán":415,"Chad":42,"Chile":43,"China":442,"Chipre":56,"Colombia":47,"Congo Belga":319,"Cuba":55,"Dinamarca":58,"Ecuador":63,"Egipto":64,"Eritrea":629,"España":199,"Estados Unidos":225,"Filipinas":170,"Finlandia":73,"Gibraltar":83,"Grecia":84,"Guinea Española":655,"Guinea Francesa":588,"Holanda":151,"Hong Kong":97,"Hungría":98,"India":433,"India Portuguesa":394,"Indias Neerlandesas":312,"Indonesia":101,"Irak":103,"Irlanda":104,"Israel":105,"Italia":106,"Japón":108,"Jordania":109,"Liberia":121,"Madagascar":128,"Malawi":129,"Manama":509,"Marruecos":145,"Marruecos Español":656,"Mongolia":143,"México":139,"Mónaco":142,"Nicaragua":155,"Noruega":161,"Nueva Zelanda":154,"Panamá":166,"Paraguay":168,"Polonia":172,"Portugal":173,"Reino Unido":224,"Sahara Español":657,"Singapur":192,"Siria":207,"Sudáfrica":197,"Suecia":205,"Suiza":206,"Trinidad y Tobago":215,"Turquía":217,"Uruguay":227,"Vaticano":95,"Venezuela":230,"Vietnam":266};
+  const RE_URL = /(https?:\/\/)?((?:www\.)?(?:colnect\.com|boe\.es|mtc\.government\.bg|stampworld\.com|delcampe\.net)\/[^\s·,;)]+)/g;
+  const enlacesDe = t => [...(t || "").matchAll(RE_URL)].map(m => "https://" + m[2]).sort((a, b) => (/\/stamps\/stamp\//.test(b) ? 1 : 0) - (/\/stamps\/stamp\//.test(a) ? 1 : 0));
+  const enlazar = t => esc(t).replace(RE_URL, (m, p, u) => `<a href="https://${u}" target="_blank" rel="noopener">${u.replace(/^www\./, "").slice(0, 60)}${u.length > 60 ? "…" : ""} ↗</a>`);
+  const esc = s => (s ?? "").toString().replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const tituloCorto = t => (t || "").replace(/\s*-\s*(Sello\s+)?(clasico\s+)?(matasellado|usado|nuevo)\b.*$/i, "").replace(/\s*-\s*Matasellado.*$/i, "");
+  function toast(t) { const el = $("#toast"); el.textContent = t; el.classList.add("ver"); clearTimeout(toast.t); toast.t = setTimeout(() => el.classList.remove("ver"), 2400); }
+
+  function estadisticas() {
+    const unidades = todos.reduce((a, s) => a + uds(s), 0);
+    const paises = new Set(todos.map(s => s.pais).filter(p => p && p !== "Por identificar")).size;
+    const nuevos = todos.filter(esNuevo).length;
+    const valor = todos.reduce((a, s) => a + precioDe(s) * uds(s), 0);
+    const rep = todos.filter(s => uds(s) > 1).length;
+    $("#stats").innerHTML = [
+      ["🖼️", num(todos.length), `sellos · ${num(unidades)} en total contando repetidos`, "dest"],
+      ["🌍", paises, "países"],
+      ["💶", `<span class="soloPrecio">${eur(valor)}</span><span class="ocultoPrecio">•••• €</span>`, `valor orientativo · <u class="soloPrecio">toca para ocultar</u><u class="ocultoPrecio">toca para verlo</u>`, "valor"]
+    ].map(([i, b, t, c]) => c === "valor"
+      ? `<button type="button" class="stat valor" id="bValor" title="Mostrar u ocultar el dinero"><span class="ico">${i}</span><b>${b}</b><span>${t}</span></button>`
+      : `<div class="stat ${c || ""}"><span class="ico">${i}</span><b>${b}</b><span>${t}</span></div>`).join("");
+    $("#notaCifras").innerHTML = rep ? `Si tienes varios iguales, la tarjeta lleva <b>×2, ×3…</b>` : "";
+  }
+  function filtros() {
+    const cont = {}; todos.forEach(s => { const p = s.pais || "Sin país"; cont[p] = (cont[p] || 0) + 1; });
+    const paises = Object.keys(cont).sort((a, b) => a.localeCompare(b, "es"));
+    $("#paises").innerHTML = `<button class="chip" data-p="" aria-pressed="${!st.pais}"><span class="bola">🌐</span>Todos los países<small>${num(todos.length)}</small></button>` +
+      paises.map(p => `<button class="chip" data-p="${esc(p)}" aria-pressed="${st.pais === p}">${bandera(p)}${esc(p)}<small>${num(cont[p])}</small></button>`).join("");
+    $("#lPaises").innerHTML = paises.map(p => `<option>${esc(p)}</option>`).join("");
+    const ce = {}; todos.forEach(s => ce[s.estado] = (ce[s.estado] || 0) + 1);
+    const ests = [...new Set([...ESTADOS, ...todos.map(s => s.estado).filter(Boolean)])].filter(e => ce[e]);
+    $("#fEstado").innerHTML = `<option value="">Todos los estados de venta</option>` + ests.map(e => `<option value="${esc(e)}" ${st.estado === e ? "selected" : ""}>${esc(NOMBRE_ESTADO[e] || e)} (${ce[e]})</option>`).join("");
+    const decs = [...new Set(todos.map(s => parseInt(s.anio)).filter(n => n > 1800).map(n => Math.floor(n / 10) * 10))].sort();
+    const cd = {}; todos.forEach(s => { const a = parseInt(s.anio); const k = a > 1800 ? Math.floor(a / 10) * 10 : "sin"; cd[k] = (cd[k] || 0) + 1; });
+    $("#fDecada").innerHTML = `<option value="">Todas las épocas</option>` + decs.map(d => `<option value="${d}" ${String(st.decada) === String(d) ? "selected" : ""}>Años ${d} (${cd[d]})</option>`).join("") + `<option value="sin" ${st.decada === "sin" ? "selected" : ""}>Sin año (${cd.sin || 0})</option>`;
+    const ct = {}; todos.forEach(s => temasDe(s).forEach(t => ct[t] = (ct[t] || 0) + 1));
+    $("#fTema").innerHTML = `<option value="">Todos los temas</option>` + TEMAS.map(([n]) => n).filter(n => ct[n]).map(n => `<option value="${esc(n)}" ${st.temaF === n ? "selected" : ""}>${esc(n)} (${ct[n]})</option>`).join("");
+    const nN = todos.filter(esNuevo).length;
+    $("#fCons").options[1].textContent = `Solo nuevos, sin matasellar (${nN})`; $("#fCons").options[2].textContent = `Solo matasellados (${todos.length - nN})`;
+    $("#fCons").value = st.cons; $("#fPrecio").value = st.precio;
+    $("#orden").value = st.orden;
+    marcarActivos();
+  }
+  function marcarActivos() { $("#fDest").value = st.dest || ""; [["#fDest", st.dest], ["#fCons", st.cons], ["#fTema", st.temaF], ["#fDecada", st.decada], ["#fPrecio", st.precio], ["#fEstado", st.estado]].forEach(([id, v]) => $(id).classList.toggle("activo", !!v)); }
+  let lista = [], pintados = 0; const LOTE = 120;
+  function filtrar() {
+    const q = norm(st.q).split(/\s+/).filter(Boolean);
+    lista = todos.filter(s => {
+      if (st.pais && (s.pais || "Sin país") !== st.pais) return false;
+      if (st.estado && s.estado !== st.estado) return false;
+      if (st.decada) { const a = parseInt(s.anio); if (st.decada === "sin") { if (a) return false; } else if (!a || Math.floor(a / 10) * 10 !== Number(st.decada)) return false; }
+      if (st.dest && !(DESTACADOS[s.codigo] && DESTACADOS[s.codigo][0] <= Number(st.dest))) return false;
+      if (st.cons === "nuevo" && !esNuevo(s)) return false;
+      if (st.cons === "usado" && esNuevo(s)) return false;
+      if (st.temaF && !temasDe(s).includes(st.temaF)) return false;
+      if (st.precio) { const [lo, hi] = st.precio.split("-").map(Number), p = precioDe(s); if (p < lo || p > hi) return false; }
+      if (q.length) { const h = norm([s.codigo, s.album, s.titulo, s.pais, s.anio, s.descripcion, s.notas, s.estado, Object.values(s.tecnico || {}).join(" ")].join(" ")); if (!q.every(w => h.includes(w))) return false; }
+      return true;
+    });
+    const albNum = s => parseInt((s.album || "").split("-").pop()) || 999;
+    const cod = (a, b) => a.codigo.localeCompare(b.codigo, undefined, { numeric: true });
+    const by = { paisAnio: (a, b) => (a.pais || "").localeCompare(b.pais || "", "es") || (parseInt(a.anio) || 9999) - (parseInt(b.anio) || 9999) || albNum(a) - albNum(b) || cod(a, b),
+      codigo: cod, pais: (a, b) => (a.pais || "").localeCompare(b.pais || "", "es") || a.codigo.localeCompare(b.codigo),
+      anio: (a, b) => (parseInt(a.anio) || 9999) - (parseInt(b.anio) || 9999) || a.codigo.localeCompare(b.codigo), precioDesc: (a, b) => precioDe(b) - precioDe(a),
+      precioAsc: (a, b) => precioDe(a) - precioDe(b),
+      anioDesc: (a, b) => (parseInt(b.anio) || 0) - (parseInt(a.anio) || 0) || a.codigo.localeCompare(b.codigo),
+      titulo: (a, b) => (a.titulo || "").localeCompare(b.titulo || "", "es"),
+      destacados: (a, b) => ((DESTACADOS[a.codigo] || [9])[0] - (DESTACADOS[b.codigo] || [9])[0]) || (parseInt(a.anio) || 9999) - (parseInt(b.anio) || 9999) || cod(a, b) };
+    lista.sort(by[st.orden] || by.codigo);
+    cuentaPais = {}; lista.forEach(s => { cuentaPais[s.pais] = (cuentaPais[s.pais] || 0) + 1; }); ultimoPais = null;
+    $("#grid").innerHTML = ""; pintados = 0; pintarMas();
+    const u = lista.reduce((a, s) => a + uds(s), 0);
+    $("#resumen").innerHTML = (lista.length === todos.length
+      ? `Mostrando <b>los ${num(lista.length)} sellos</b>`
+      : `Mostrando <b>${num(lista.length)}</b> de ${num(todos.length)} sellos`) +
+      (lista.length ? ` <button class="btn btnPdf" type="button" id="bPdf">📄 Guardar PDF de ${esc(nombrePdf())}</button>` : "");
+    if (!lista.length) $("#grid").innerHTML = `<div class="vacio"><b>No hay sellos con esos filtros</b>Prueba a quitar algún filtro o pulsa «Quitar filtros».</div>`;
+    marcarActivos();
+  }
+  function tarjeta(s) {
+    const f = (s.fotos || [])[0];
+    return `<article class="card" tabindex="0" data-c="${esc(s.codigo)}">
+      <div class="etiq"><span class="cod">${s.album ? `${esc(s.album)}<small>${esc(s.codigo)}</small>` : esc(s.codigo)}</span><span class="marcas">${DESTACADOS[s.codigo] ? `<span class="estrella" title="${esc(DESTACADOS[s.codigo][1])}">${"★".repeat(4 - DESTACADOS[s.codigo][0])}</span>` : ""}${uds(s) > 1 ? `<span class="qty" title="${uds(s)} unidades iguales">×${uds(s)}</span>` : ""}</span></div>
+      <div class="foto"><div class="sello">${f ? `<img loading="lazy" src="fotos/mini/${esc(f)}${FV}" alt="${esc(s.titulo)}" style="--g:${giroDe(f)}deg">` : ""}</div></div>
+      <div class="info"><div class="pais">${bandera(s.pais)}${esc(s.pais || "Sin país")}${s.anio ? " · " + esc(s.anio) : ""}</div>
+      <div class="tit">${esc(tituloCorto(s.titulo))}</div>
+      <div class="pie"><span class="precio">${eur(precioDe(s))}</span></div></div></article>`;
+  }
+  let ultimoPais = null, cuentaPais = {};
+  const cabeceraPais = s => { if (st.orden !== "paisAnio" || s.pais === ultimoPais) return ""; ultimoPais = s.pais; return `<h3 class="grupoPais">${bandera(s.pais)}<span>${esc(s.pais || "Sin país")}</span><small>${num(cuentaPais[s.pais] || 0)}</small></h3>`; };
+  function pintarMas() { if (pintados >= lista.length) return; const trozo = lista.slice(pintados, pintados + LOTE); $("#grid").insertAdjacentHTML("beforeend", trozo.map(s => cabeceraPais(s) + tarjeta(s)).join("")); pintados += trozo.length; }
+  new IntersectionObserver(e => { if (e[0].isIntersecting) pintarMas(); }, { rootMargin: "800px" }).observe($("#centinela"));
+
+  // ficha
+  let actual = null, fotoIdx = 0;
+  const dlg = $("#dlg"), form = $("#dForm");
+  form.estado.innerHTML = ESTADOS.map(e => `<option>${e}</option>`).join(""); form.querySelectorAll("input,textarea").forEach(e => e.readOnly = true); form.estado.disabled = true;
+  function abrir(cod) {
+    const s = todos.find(x => x.codigo === cod); if (!s) return; actual = s; fotoIdx = 0;
+    $("#dTitulo").innerHTML = `${bandera(s.pais)}${s.album ? esc(s.album) + " · " : ""}${esc(s.codigo)} · ${esc(s.pais || "")}${s.anio ? " · " + esc(s.anio) : ""}`;
+    $("#dSub").innerHTML = (DESTACADOS[s.codigo] ? `<div class="destacado"><b>${"★".repeat(4 - DESTACADOS[s.codigo][0])} ${["La joya de la colección", "Joya de la colección", "Sello valioso", "Sello especial"][DESTACADOS[s.codigo][0]]}</b>${esc(DESTACADOS[s.codigo][1])}</div>` : "") +
+      (uds(s) > 1 ? `<span class="pill e-reservado">${uds(s)} unidades</span>` : "") + `<span class="pill e-coleccion soloPrecio">${eur(precioDe(s))}</span>`;
+    $("#dEditado").textContent = "";
+    ["titulo", "pais", "anio", "descripcion", "conservacion", "cantidad", "precioSalida", "precioYa", "estado", "plataformas", "notas"].forEach(k => { form[k].value = s[k] ?? ""; });
+    if (!ESTADOS.includes(s.estado)) form.estado.insertAdjacentHTML("beforeend", `<option>${esc(s.estado)}</option>`), form.estado.value = s.estado;
+    const tc = s.tecnico || {}; const ks = Object.keys(tc).filter(k => k !== "Fuente");
+    const enlaces = enlacesDe(tc.Fuente || "");
+    const bf = $("#bFuente"); bf.style.pointerEvents = ""; if (SIN_COLNECT[s.codigo]) { bf.removeAttribute("href"); bf.style.pointerEvents = "none"; bf.textContent = "ℹ️ No está en Colnect: " + SIN_COLNECT[s.codigo]; } else if (enlaces.length) { bf.href = enlaces[0]; bf.textContent = /colnect/.test(enlaces[0]) ? "🔗 Ver ficha en Colnect ↗" : "🔗 Ver la fuente ↗"; } else { const ti = s.titulo || ""; const ci = s.pais === "Andorra" ? (/franc/i.test(ti) ? 467 : 474) : s.pais === "Alemania" ? (/\bRDA\b|DDR/.test(ti) ? 254 : /Reich/i.test(ti) ? 530 : /Bizona/i.test(ti) ? 835 : 81) : s.pais === "Marruecos" ? (/Español/i.test(ti) ? 656 : 145) : s.pais === "India" ? (/Portugues/i.test(ti) ? 394 : 433) : COLNECT_PAIS[s.pais]; const an = (String(s.anio || "").match(/\d{4}/) || [""])[0]; const vf = ((s.descripcion || "").match(/Valor facial:\s*([^·\n]+)/) || [])[1] || ""; let vn = (vf.trim().match(/^(\d+)(?![\d.,$½¼+\/])/) || [])[1]; if (vn && +vn > 100) vn = null; /* en Colnect el filtro «n-n» solo coincide con el valor hasta 100 */ if (ci) { bf.href = `https://colnect.com/es/stamps/list/country/${ci}${an ? "/year/" + an : ""}${an && vn ? `/face_value/${vn}-${vn}` : ""}`; bf.textContent = `🔎 Buscar en la lista de Colnect: ${s.pais}${an ? " " + an : ""}${an && vn ? ", valor " + vn : ""} (aún sin ficha exacta) ↗`; } else { bf.href = "https://colnect.com/es/stamps/countries"; bf.textContent = "🔎 Buscar en Colnect ↗"; } }
+    $("#dTec").innerHTML = ks.length
+      ? `<div class="tt">📜 Datos técnicos de la emisión</div><dl>${ks.map(k => `<dt>${esc(k)}</dt><dd>${esc(tc[k])}</dd>`).join("")}${tc.Fuente ? `<dt>Fuente</dt><dd>${enlazar(tc.Fuente)}</dd>` : ""}</dl>`
+      : `<div class="tt">📜 Datos técnicos de la emisión</div><div class="falta">Todavía sin investigar (tirada, medidas, dentado).</div>`;
+    verGirar(false); pintarFotos(); if (!dlg.open) dlg.showModal();
+  }
+  function pintarGiro() {
+    const f = (actual.fotos || [])[fotoIdx]; const g = f ? giroDe(f) : 0;
+    const im = $("#dFoto"), lado = Math.abs(Math.abs(g) - 90) < 45;   /* de lado: reducir para que quepa */
+    const red = lado && im.naturalWidth ? Math.min(im.naturalWidth, im.naturalHeight) / Math.max(im.naturalWidth, im.naturalHeight) : 1;
+    im.style.setProperty("--g", g + "deg"); im.style.scale = red < 1 ? red : "";
+    if (lado && !im.naturalWidth) im.onload = () => pintarGiro();
+    $("#dAng").textContent = g ? (g > 0 ? "+" : "") + g + "°" : "sin girar";
+    $("#dGirarAbrir").style.display = f ? "" : "none";
+  }
+  function pintarFotos() {
+    const fs = actual.fotos || [];
+    $("#dFoto").src = fs.length ? "fotos/" + fs[fotoIdx] + FV : ""; $("#dFoto").alt = actual.titulo || ""; pintarGiro();
+    const bf = $("#bFoto"); if (fs.length) { bf.href = "fotos/" + fs[fotoIdx]; bf.setAttribute("download", actual.codigo + "_" + (fotoIdx + 1) + ".jpg"); bf.style.display = ""; } else bf.style.display = "none";
+    $("#dMinis").innerHTML = fs.length > 1 ? fs.map((f, i) => `<img src="fotos/mini/${esc(f)}${FV}" data-i="${i}" aria-current="${i === fotoIdx}" alt="Foto ${i + 1}">`).join("") : ""; cargarFotos($("#dMinis"));
+  }
+  function guardar() {
+    const nuevo = {}; const orig = base.find(x => x.codigo === actual.codigo) || {};
+    ["titulo", "pais", "anio", "descripcion", "conservacion", "plataformas", "notas", "estado"].forEach(k => { if ((form[k].value || "") !== (orig[k] ?? "")) nuevo[k] = form[k].value; });
+    ["cantidad", "precioSalida", "precioYa"].forEach(k => { const v = form[k].value === "" ? null : Number(form[k].value); if (v !== (orig[k] ?? null)) nuevo[k] = v; });
+    if (Object.keys(nuevo).length) ediciones[actual.codigo] = nuevo; else delete ediciones[actual.codigo];
+    guardarEdiciones(); refrescar(); abrir(actual.codigo); toast("Guardado");
+  }
+  // textos listos para pegar en otras webs
+  function textoAnuncio(s, tipo) {
+    const t = (s.titulo || "").trim();
+    if (tipo === "titulo") return t;
+    const cons = s.conservacion || "Matasellado, nunca pegado";
+    const estado = /nunca pegado/i.test(cons)
+      ? "Estado: sello matasellado, pero NUNCA PEGADO en sobre: no ha circulado por correo, sin restos de papel ni daños por despegado."
+      : "Estado: " + cons + ".";
+    const cant = Number(s.cantidad) > 1 ? `\nUnidades en la colección: ${s.cantidad}.` : "";
+    const tc = s.tecnico || {}; const tec = ["Fecha de emisión", "Serie", "Qué representa", "Qué dice el sello", "Tirada", "Medidas", "Dentado", "Impresión", "Catálogo"].filter(k => tc[k]).map(k => `${k}: ${tc[k]}`).join(" · ");
+    if (tec) s.descripcion = (s.descripcion || "") + "\nDatos técnicos: " + tec + ".";
+    return `${t}\n\n${s.descripcion || ""}\n\n${estado}${cant}\nSello original de época, auténtico (no es reproducción).\n\nRef.: ${s.codigo}`;
+  }
+  async function copiar(texto) {
+    try { await navigator.clipboard.writeText(texto); }
+    catch (e) { const ta = document.createElement("textarea"); ta.value = texto; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); }
+    toast("Copiado. Ya puedes pegarlo en la otra web");
+  }
+  document.querySelectorAll("[data-copiar]").forEach(b => b.onclick = () => {
+    const s = Object.assign({}, actual); ["titulo", "pais", "anio", "descripcion", "conservacion", "cantidad"].forEach(k => s[k] = form[k].value);
+    copiar(textoAnuncio(s, b.dataset.copiar));
+  });
+  function mover(d) { const i = lista.findIndex(x => x.codigo === actual.codigo); const n = lista[(i + d + lista.length) % lista.length]; if (n) abrir(n.codigo); }
+  function refrescar() { todos = datos(); estadisticas(); filtros(); filtrar(); }
+
+  // eventos
+  $("#grid").addEventListener("click", e => { const c = e.target.closest(".card"); if (c) abrir(c.dataset.c); });
+  $("#grid").addEventListener("keydown", e => { if (e.key === "Enter") { const c = e.target.closest(".card"); if (c) abrir(c.dataset.c); } });
+  $("#dMinis").addEventListener("click", e => { if (e.target.dataset.i) { fotoIdx = +e.target.dataset.i; pintarFotos(); } });
+  const verGirar = si => { $("#dGirar").hidden = !si; $("#dGirarAbrir").hidden = si; };
+  $("#bGirarAbrir").onclick = () => verGirar(true);
+  $("#bGirarOk").onclick = () => {
+    verGirar(false);
+    /* copia de los giros en Descargas: Claude la usa para girar la foto de verdad (herramientas\aplicar_giros.py) */
+    if (Object.keys(giros).length) descargar("giros_sellos.json", JSON.stringify({ guardado: new Date().toISOString(), giros }, null, 2), "application/json");
+    toast("Giro guardado");
+  };
+  $("#dGirar").addEventListener("click", e => {
+    const b = e.target.closest("button[data-g]"); if (!b || !actual) return;
+    const f = (actual.fotos || [])[fotoIdx]; if (!f) return;
+    const d = +b.dataset.g; let g = d === 0 ? 0 : giroDe(f) + d;
+    g = ((g % 360) + 540) % 360 - 180; if (g === -180) g = 180;   /* entre -179 y 180 */
+    if (g) giros[f] = { g, id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6) }; else delete giros[f];
+    guardarGiros(); pintarGiro();
+    document.querySelectorAll(`.card[data-c="${actual.codigo}"] .foto img`).forEach(im => { if (fotoIdx === 0) im.style.setProperty("--g", g + "deg"); });
+    toast(g ? "Giro guardado. Lo verás así siempre en este ordenador." : "Giro quitado");
+  });
+  $("#bCerrar").onclick = () => dlg.close();
+  dlg.addEventListener("click", e => { if (e.target === dlg) dlg.close(); });
+  dlg.addEventListener("keydown", e => { if (e.target.matches("input,textarea,select")) return; if (e.key === "ArrowRight") mover(1); if (e.key === "ArrowLeft") mover(-1); });
+  $("#bGuardar").onclick = guardar; $("#bPrev").onclick = () => mover(-1); $("#bNext").onclick = () => mover(1);
+  $("#bRestaurar").onclick = () => { if (ediciones[actual.codigo] && confirm("¿Quitar tus cambios de este sello y volver a los datos originales?")) { delete ediciones[actual.codigo]; guardarEdiciones(); refrescar(); abrir(actual.codigo); toast("Cambios quitados"); } };
+  let tq; $("#q").addEventListener("input", e => { clearTimeout(tq); tq = setTimeout(() => { st.q = e.target.value; if (st.q.trim() && st.pais) { st.pais = ""; filtros(); } filtrar(); }, 150); }); /* buscar siempre en toda la colección */
+  $("#paises").addEventListener("click", e => { const b = e.target.closest(".chip"); if (!b) return; st.pais = b.dataset.p; if (st.pais && st.q) { st.q = ""; $("#q").value = ""; } filtros(); filtrar(); });
+  $("#fEstado").onchange = e => { st.estado = e.target.value; filtrar(); };
+  $("#fDecada").onchange = e => { st.decada = e.target.value; filtrar(); };
+  $("#fDest").onchange = e => { st.dest = e.target.value; filtrar(); };
+  $("#fCons").onchange = e => { st.cons = e.target.value; filtrar(); };
+  $("#fTema").onchange = e => { st.temaF = e.target.value; filtrar(); };
+  $("#fPrecio").onchange = e => { st.precio = e.target.value; filtrar(); };
+  $("#bLimpiar").onclick = () => { Object.assign(st, { q: "", pais: "", estado: "", decada: "", cons: "", dest: "", temaF: "", precio: "" }); $("#q").value = ""; filtros(); filtrar(); toast("Filtros quitados"); };
+  $("#orden").onchange = e => { st.orden = e.target.value; guardarVista(); filtrar(); };
+  const aplicarVista = () => { document.body.classList.toggle("lista", st.vista === "lista"); };
+  $("#bVista").onclick = () => { st.vista = st.vista === "lista" ? "grid" : "lista"; aplicarVista(); guardarVista(); };
+  $("#bTema").onclick = () => { const osc = matchMedia("(prefers-color-scheme: dark)").matches; const cur = document.documentElement.dataset.theme || (osc ? "dark" : "light"); st.tema = cur === "dark" ? "light" : "dark"; document.documentElement.dataset.theme = st.tema; guardarVista(); };
+  /* Para imprimir: pintar todas las tarjetas y cargar todas las fotos antes (si no, salen en blanco) */
+  async function prepararImpresion() {
+    while (pintados < lista.length) pintarMas();
+    const imgs = [...document.querySelectorAll("#grid img")];
+    imgs.forEach(i => { i.loading = "eager"; });
+    await Promise.race([
+      Promise.all(imgs.map(i => i.complete ? null : new Promise(r => { i.onload = i.onerror = r; }))),
+      new Promise(r => setTimeout(r, 20000))
+    ]);
+  }
+  /* PDF de lo que se ve: un país entero, la búsqueda o toda la colección */
+  function nombrePdf() {
+    const otros = st.q || st.temaF || st.decada;
+    if (st.pais) return otros ? `${st.pais} (selección)` : st.pais;
+    return otros ? "la selección" : "toda la colección";
+  }
+  async function hacerPDF(b) {
+    const t = b.innerHTML; b.innerHTML = "⏳ Cargando fotos…"; b.disabled = true;
+    await prepararImpresion();
+    b.innerHTML = t; b.disabled = false;
+    const n = nombrePdf(), tituloAntes = document.title;
+    document.title = "Sellos del Mundo - " + (n === "toda la colección" ? "Colección completa" : n.replace(/^la /, ""));
+    $("#tituloPdf").innerHTML = `${st.pais ? bandera(st.pais) : ""}<span>${esc(n === "toda la colección" ? "Colección completa" : n.charAt(0).toUpperCase() + n.slice(1))}</span><small>${num(lista.length)} sellos</small>`;
+    document.body.classList.toggle("pdfParcial", lista.length !== todos.length);
+    document.body.classList.toggle("pdfUnPais", !!st.pais);
+    $("#firmaFecha").textContent = new Date().toLocaleDateString("es", { day: "numeric", month: "long", year: "numeric" });
+    addEventListener("afterprint", () => { document.title = tituloAntes; document.body.classList.remove("pdfParcial", "pdfUnPais"); }, { once: true });
+    setTimeout(() => print(), 300);
+  }
+  $("#bImprimir").onclick = () => hacerPDF($("#bImprimir"));
+  $("#resumen").addEventListener("click", e => { const b = e.target.closest("#bPdf"); if (b) hacerPDF(b); });
+  addEventListener("beforeprint", () => { $("#firmaFecha").textContent = new Date().toLocaleDateString("es", { day: "numeric", month: "long", year: "numeric" }); while (pintados < lista.length) pintarMas(); document.querySelectorAll("#grid img").forEach(i => { i.loading = "eager"; }); });
+  addEventListener("scroll", () => $("#bArriba").classList.toggle("ver", scrollY > 900), { passive: true });
+  /* El dinero va oculto; se enseña solo al tocar el cuadro del valor */
+  $("#stats").addEventListener("click", e => { if (e.target.closest("#bValor")) document.body.classList.toggle("verPrecios"); });
+  $("#bArriba").onclick = () => { scrollTo({ top: 0, behavior: "smooth" }); setTimeout(() => { if (scrollY > 0) scrollTo(0, 0); }, 900); };
+  function descargar(nombre, contenido, tipo) { const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([contenido], { type: tipo })); a.download = nombre; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); }
+  $("#bExcel").onclick = () => {
+    const cols = ["album", "codigo", "pais", "anio", "titulo", "descripcion", "conservacion", "cantidad", "precioYa", "notas"];
+    const cab = ["Nº álbum", "Código", "País", "Año", "Título", "Descripción", "Conservación", "Unidades", "Valor orientativo €", "Notas"];
+    const cel = v => { v = v == null ? "" : String(v); if (typeof v === "string" && /^\d+\.\d+$/.test(v)) v = v.replace(".", ","); return /[;"\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; };
+    const csv = "﻿" + [cab.join(";"), ...lista.map(s => cols.map(c => cel(s[c])).join(";"))].join("\r\n");
+    descargar("catalogo-sellos.csv", csv, "text/csv;charset=utf-8"); toast("Excel descargado (" + lista.length + " sellos)");
+  };
+  $("#bCopia").onclick = () => { descargar("ediciones.json", JSON.stringify({ guardado: new Date().toISOString(), ediciones, giros }, null, 2), "application/json"); toast("Copia guardada. Ponla en la carpeta «datos» del catálogo."); };
+  $("#fCopia").onchange = async e => {
+    const f = e.target.files[0]; if (!f) return;
+    try { const j = JSON.parse(await f.text()); const ed = j.ediciones || j; if (typeof ed !== "object") throw 0; ediciones = Object.assign({}, ediciones, ed); guardarEdiciones(); refrescar(); toast("Copia cargada"); }
+    catch (err) { toast("Ese archivo no es una copia válida del catálogo"); }
+    e.target.value = "";
+  };
+  // ediciones guardadas por Claude en datos/ediciones.js (si existe)
+  if (window.EDICIONES_ARCHIVO && typeof window.EDICIONES_ARCHIVO === "object") { ediciones = Object.assign({}, window.EDICIONES_ARCHIVO, ediciones); }
+  aplicarVista(); refrescar();
+  if (!base.length) $("#grid").innerHTML = `<div class="vacio"><b>No se encontraron datos</b>Falta el archivo datos/sellos.js.</div>`;
+})();
+</script>
+<script>
+(() => {
+  const V = document.getElementById("zoomVer"), I = document.getElementById("zImg"), F = document.getElementById("dFoto");
+  let esc = 1, min = 1, x = 0, y = 0, giro = 0; const P = new Map(); let ini = null;
+  const pintar = () => { I.style.transform = `translate(${x}px,${y}px) scale(${esc})`; };
+  const ajustar = () => { const W = V.clientWidth, H = V.clientHeight - 90; const w = I.naturalWidth, h = I.naturalHeight; if (!w) return; min = Math.min(W / w, H / h); esc = min; x = (V.clientWidth - w * esc) / 2; y = (H - h * esc) / 2 + 10; I.style.left = "0"; I.style.top = "0"; pintar(); };
+  const zoomEn = (f, cx, cy) => { const n = Math.min(Math.max(esc * f, min), min * 12); x = cx - (cx - x) * n / esc; y = cy - (cy - y) * n / esc; esc = n; pintar(); };
+  const abrirZ = () => { if (!F.getAttribute("src")) return; giro = parseFloat(getComputedStyle(F).getPropertyValue("--g")) || 0; I.style.rotate = giro ? giro + "deg" : ""; V.hidden = false; I.onload = ajustar; I.src = F.src; if (I.complete) ajustar(); };
+  const cerrarZ = () => { V.hidden = true; P.clear(); };
+  document.getElementById("bZoom").addEventListener("click", abrirZ);
+  F.addEventListener("click", abrirZ);
+  document.getElementById("zCerrar").addEventListener("click", cerrarZ);
+  V.querySelector(".zbar").addEventListener("click", e => { const b = e.target.closest("[data-z]"); if (!b) return; const cx = V.clientWidth / 2, cy = V.clientHeight / 2; if (b.dataset.z === "+") zoomEn(1.5, cx, cy); else if (b.dataset.z === "-") zoomEn(1 / 1.5, cx, cy); else ajustar(); });
+  V.addEventListener("wheel", e => { e.preventDefault(); zoomEn(e.deltaY < 0 ? 1.2 : 1 / 1.2, e.clientX, e.clientY); }, { passive: false });
+  V.addEventListener("dblclick", e => { if (e.target.closest(".zbar")) return; if (esc > min * 1.5) ajustar(); else zoomEn(3, e.clientX, e.clientY); });
+  V.addEventListener("pointerdown", e => { if (e.target.closest(".zbar")) return; V.setPointerCapture(e.pointerId); P.set(e.pointerId, { x: e.clientX, y: e.clientY }); V.classList.add("mueve"); ini = null; });
+  V.addEventListener("pointermove", e => { if (!P.has(e.pointerId)) return; const ant = P.get(e.pointerId); const ahora = { x: e.clientX, y: e.clientY };
+    if (P.size === 1) { x += ahora.x - ant.x; y += ahora.y - ant.y; P.set(e.pointerId, ahora); pintar(); return; }
+    P.set(e.pointerId, ahora); const [a, b] = [...P.values()]; const d = Math.hypot(a.x - b.x, a.y - b.y); const cx = (a.x + b.x) / 2, cy = (a.y + b.y) / 2;
+    if (ini) { zoomEn(d / ini.d, cx, cy); x += cx - ini.cx; y += cy - ini.cy; pintar(); } ini = { d, cx, cy }; });
+  const soltar = e => { P.delete(e.pointerId); ini = null; if (!P.size) V.classList.remove("mueve"); };
+  V.addEventListener("pointerup", soltar); V.addEventListener("pointercancel", soltar);
+  window.addEventListener("keydown", e => { if (V.hidden) return; if (e.key === "Escape") { e.preventDefault(); e.stopPropagation(); cerrarZ(); } else if (e.key === "+" || e.key === "=") zoomEn(1.3, V.clientWidth / 2, V.clientHeight / 2); else if (e.key === "-") zoomEn(1 / 1.3, V.clientWidth / 2, V.clientHeight / 2); e.stopPropagation(); }, true);
+  document.getElementById("dlg").addEventListener("cancel", e => { if (!V.hidden) { e.preventDefault(); cerrarZ(); } });
+  document.getElementById("dlg").addEventListener("close", cerrarZ);
+  window.addEventListener("resize", () => { if (!V.hidden) ajustar(); });
+})();
+</script>
+
+
+
+<div id="pinCaja"><h1>Sellos del Mundo</h1><div>Colección privada · escribe el PIN</div>
+<input id="pinIn" type="password" inputmode="numeric" autocomplete="off" maxlength="12" aria-label="PIN">
+<button type="button" id="pinOk">Entrar</button><div class="mal" id="pinMal"></div></div>
+<script>(function(){const H="8c7e811133d5ae5c12c6b63829ec20355037e932d17bc1907df9c39a23ec88c6",i=document.getElementById("pinIn");
+async function probar(){const b=new TextEncoder().encode("sellos-del-mundo:"+i.value);const d=await crypto.subtle.digest("SHA-256",b);const x=[...new Uint8Array(d)].map(v=>v.toString(16).padStart(2,"0")).join("");
+if(x===H){try{localStorage.setItem("sdm-pin",H)}catch(e){}document.documentElement.classList.remove("bloq")}else{document.getElementById("pinMal").textContent="PIN incorrecto";i.value="";i.focus()}}
+document.getElementById("pinOk").addEventListener("click",probar);i.addEventListener("keydown",e=>{if(e.key==="Enter")probar()});
+if(document.documentElement.classList.contains("bloq"))setTimeout(()=>i.focus(),50);})();</script>
