@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-18 18:09. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-10-26 22:20. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -86,19 +86,19 @@ window.SELLOS = [
         "titulo":  "España 1940 General Franco y Escudo 50 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1940",
-        "descripcion":  "Sello de España, 1940 aprox.. General Franco y escudo 50 cts, pizarra.\r\nFicha técnica: País: España · Año: 1940 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Sello de España, 1940 aprox.. General Franco y escudo 50 cts, pizarra.\r\nFicha técnica: País: España · Año: 1940 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.81,
         "precioYa":  2.05,
         "estado":  "Colección",
-        "notas":  "Año confirmado: 1940-01 (Colnect (General Franco))",
+        "notas":  "Cantidad: 2 | Año confirmado: 1940-01 (Colnect (General Franco)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1940-01",
                         "Fuente":  "Colnect (General Franco), colnect.com/es/stamps/stamp/1587201, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S004_1_frente.jpg"
+                      "S004_2_frente.jpg"
                   ]
     },
     {
@@ -107,29 +107,26 @@ window.SELLOS = [
         "titulo":  "España II República Pablo Iglesias 30 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1931",
-        "descripcion":  "Sello de España, 1931-1932. II República - Pablo Iglesias 30 cts, carmín.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 11.",
+        "descripcion":  "Sello de España, 1931-1932. II República - Pablo Iglesias 30 cts, carmín.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 19.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  11,
+        "cantidad":  19,
         "precioSalida":  0.99,
         "precioYa":  1.99,
         "estado":  "Colección",
-        "notas":  "+2 unidades más (fotos 17 y 28 del lote 3) = 3 en total | Cantidad: 11 (+5 copias añadidas 5-oct) | +1 copia(s) 6-oct | Año confirmado: 1931-09 (Colnect (Pablo Iglesias))",
+        "notas":  "+2 unidades más (fotos 17 y 28 del lote 3) = 3 en total | Cantidad: 19 (+5 copias añadidas 5-oct) | +1 copia(s) 6-oct | Año confirmado: 1931-09 (Colnect (Pablo Iglesias)) | +8 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1931-09",
                         "Fuente":  "Colnect (Pablo Iglesias), colnect.com/es/stamps/stamp/213388, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S005_1_frente.jpg",
-                      "S005_10_frente.jpg",
-                      "S005_11_frente.jpg",
-                      "S005_2_frente.jpg",
-                      "S005_3_frente.jpg",
-                      "S005_4_frente.jpg",
-                      "S005_5_frente.jpg",
-                      "S005_6_frente.jpg",
-                      "S005_7_frente.jpg",
-                      "S005_8_frente.jpg",
-                      "S005_9_frente.jpg"
+                      "S005_12_frente.jpg",
+                      "S005_13_frente.jpg",
+                      "S005_14_frente.jpg",
+                      "S005_15_frente.jpg",
+                      "S005_16_frente.jpg",
+                      "S005_17_frente.jpg",
+                      "S005_18_frente.jpg",
+                      "S005_19_frente.jpg"
                   ]
     },
     {
@@ -138,22 +135,21 @@ window.SELLOS = [
         "titulo":  "España Franco y Castillo de la Mota 30 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1948",
-        "descripcion":  "Sello de España, 1948-1954 aprox.. Franco y Castillo de la Mota 30 cts, verde.\r\nFicha técnica: País: España · Año: 1948 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 5.",
+        "descripcion":  "Sello de España, 1948-1954 aprox.. Franco y Castillo de la Mota 30 cts, verde.\r\nFicha técnica: País: España · Año: 1948 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  5,
+        "cantidad":  9,
         "precioSalida":  0.99,
         "precioYa":  1.99,
         "estado":  "Colección",
-        "notas":  "Cantidad: 5 (+1 copias añadidas 5-oct) | +1 copia(s) 6-oct | +1 copia 7-oct (antigua ficha S039, era el mismo 30 cts verde)",
+        "notas":  "Cantidad: 9 (+1 copias añadidas 5-oct) | +1 copia(s) 6-oct | +1 copia 7-oct (antigua ficha S039, era el mismo 30 cts verde) | +4 copia(s) 26-10",
         "tecnico":  {
                         "Fuente":  "Anuncios de coleccionistas: 30 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026)"
                     },
         "fotos":  [
-                      "S006_1_frente.jpg",
-                      "S006_2_frente.jpg",
-                      "S006_3_frente.jpg",
-                      "S006_4_frente.jpg",
-                      "S006_5_frente.jpg"
+                      "S006_6_frente.jpg",
+                      "S006_7_frente.jpg",
+                      "S006_8_frente.jpg",
+                      "S006_9_frente.jpg"
                   ]
     },
     {
@@ -249,25 +245,24 @@ window.SELLOS = [
         "titulo":  "España 1931 Derecho de Entrega 5 Centimos - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1931",
-        "descripcion":  "España, sello de Derecho de Entrega. Valor facial: 5 céntimos, color negro.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 5 Centimos · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 7.",
+        "descripcion":  "España, sello de Derecho de Entrega. Valor facial: 5 céntimos, color negro.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 5 Centimos · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 13.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  7,
+        "cantidad":  13,
         "precioSalida":  1,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 7 (+4 copias añadidas 5-oct) | Año confirmado: 1931-01-01 (Colnect (Derecho de entrega))",
+        "notas":  "Cantidad: 13 (+4 copias añadidas 5-oct) | Año confirmado: 1931-01-01 (Colnect (Derecho de entrega)) | +6 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1931-01-01",
                         "Fuente":  "Anuncios de coleccionistas: 4 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Derecho de entrega), colnect.com/es/stamps/stamp/271189, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S011_1_frente.jpg",
-                      "S011_2_frente.jpg",
-                      "S011_3_frente.jpg",
-                      "S011_4_frente.jpg",
-                      "S011_5_frente.jpg",
-                      "S011_6_frente.jpg",
-                      "S011_7_frente.jpg"
+                      "S011_10_frente.jpg",
+                      "S011_11_frente.jpg",
+                      "S011_12_frente.jpg",
+                      "S011_13_frente.jpg",
+                      "S011_8_frente.jpg",
+                      "S011_9_frente.jpg"
                   ]
     },
     {
@@ -484,22 +479,22 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 80 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España, serie General Franco de 1955. Valor facial: 80 céntimos, color verde azulado.\r\nFicha técnica: País: España · Año: 1955 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 4.",
+        "descripcion":  "España, serie General Franco de 1955. Valor facial: 80 céntimos, color verde azulado.\r\nFicha técnica: País: España · Año: 1955 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 8.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  4,
+        "cantidad":  8,
         "precioSalida":  2.04,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 4 (+1 copias añadidas 5-oct) | Año confirmado: 1955-02-14 (Colnect (Franco)",
+        "notas":  "Cantidad: 8 (+1 copias añadidas 5-oct) | Año confirmado: 1955-02-14 (Colnect (Franco) | +4 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1955-02-14",
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140199, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S020_1_frente.jpg",
-                      "S020_2_frente.jpg",
-                      "S020_3_frente.jpg",
-                      "S020_4_frente.jpg"
+                      "S020_5_frente.jpg",
+                      "S020_6_frente.jpg",
+                      "S020_7_frente.jpg",
+                      "S020_8_frente.jpg"
                   ]
     },
     {
@@ -508,21 +503,21 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Joaquin Costa 10 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República, serie Personajes: Joaquín Costa. Valor facial: 10 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 10 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
+        "descripcion":  "España, II República, serie Personajes: Joaquín Costa. Valor facial: 10 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 10 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 6.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  3,
+        "cantidad":  6,
         "precioSalida":  1.99,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 3 | Año confirmado: 1932-03 (Colnect (Joaquin Costa y Martinez))",
+        "notas":  "Cantidad: 6 | Año confirmado: 1932-03 (Colnect (Joaquin Costa y Martinez)) | +3 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1932-03",
                         "Fuente":  "Colnect (Joaquin Costa y Martinez), colnect.com/es/stamps/stamp/282825, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S021_1_frente.jpg",
-                      "S021_2_frente.jpg",
-                      "S021_3_frente.jpg"
+                      "S021_4_frente.jpg",
+                      "S021_5_frente.jpg",
+                      "S021_6_frente.jpg"
                   ]
     },
     {
@@ -834,22 +829,21 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Blasco Ibañez 2 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República (1931-1932), serie Personajes: Vicente Blasco Ibáñez. Valor facial: 2 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 2 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 4.",
+        "descripcion":  "España, II República (1931-1932), serie Personajes: Vicente Blasco Ibáñez. Valor facial: 2 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 2 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 7.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  4,
+        "cantidad":  7,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+3 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Vicente Blasco Ibanez))",
+        "notas":  "+3 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Vicente Blasco Ibanez)) | +3 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1932-03",
                         "Fuente":  "Colnect (Vicente Blasco Ibanez), colnect.com/es/stamps/stamp/213391, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S036_1_frente.jpg",
-                      "S036_2_frente.jpg",
-                      "S036_3_frente.jpg",
-                      "S036_4_frente.jpg"
+                      "S036_5_frente.jpg",
+                      "S036_6_frente.jpg",
+                      "S036_7_frente.jpg"
                   ]
     },
     {
@@ -858,22 +852,19 @@ window.SELLOS = [
         "titulo":  "España Ayuntamiento de Barcelona 5 cts Escudo Serie 1ª - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1929",
-        "descripcion":  "Ayuntamiento de Barcelona, sello municipal con el escudo de la ciudad, Serie 1ª. Valor facial: 5 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1929 (aprox.) · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 5.",
+        "descripcion":  "Ayuntamiento de Barcelona, sello municipal con el escudo de la ciudad, Serie 1ª. Valor facial: 5 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1929 (aprox.) · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 7.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  5,
+        "cantidad":  7,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+2 copia(s) 6-oct | Año 1929 APROXIMADO (por la serie/diseño, 14-oct): confirmar con catálogo",
+        "notas":  "+2 copia(s) 6-oct | Año 1929 APROXIMADO (por la serie/diseño, 14-oct): confirmar con catálogo | +2 copia(s) 26-10",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S037_1_frente.jpg",
-                      "S037_2_frente.jpg",
-                      "S037_3_frente.jpg",
-                      "S037_4_frente.jpg",
-                      "S037_5_frente.jpg"
+                      "S037_6_frente.jpg",
+                      "S037_7_frente.jpg"
                   ]
     },
     {
@@ -882,20 +873,25 @@ window.SELLOS = [
         "titulo":  "España 1949 General Franco 50 cts castaño - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1949",
-        "descripcion":  "España, serie General Franco. Valor facial: 50 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1949 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "España, serie General Franco. Valor facial: 50 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1949 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  9,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1949-01 (Colnect (Generalísimo Francisco Franco))",
+        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1949-01 (Colnect (Generalísimo Francisco Franco)) | +7 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1949-01",
                         "Fuente":  "Colnect (Generalísimo Francisco Franco), colnect.com/es/stamps/stamp/140193, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S038_1_frente.jpg",
-                      "S038_2_frente.jpg"
+                      "S038_3_frente.jpg",
+                      "S038_4_frente.jpg",
+                      "S038_5_frente.jpg",
+                      "S038_6_frente.jpg",
+                      "S038_7_frente.jpg",
+                      "S038_8_frente.jpg",
+                      "S038_9_frente.jpg"
                   ]
     },
     {
@@ -904,21 +900,24 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Nicolas Salmeron 50 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República (1931-1932), serie Personajes: Nicolás Salmerón. Valor facial: 50 céntimos, color naranja.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
+        "descripcion":  "España, II República (1931-1932), serie Personajes: Nicolás Salmerón. Valor facial: 50 céntimos, color naranja.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  3,
+        "cantidad":  9,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Nicolas Salmeron))",
+        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Nicolas Salmeron)) | +6 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1932-03",
                         "Fuente":  "Colnect (Nicolas Salmeron), colnect.com/es/stamps/stamp/282831, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S040_1_frente.jpg",
-                      "S040_2_frente.jpg",
-                      "S040_3_frente.jpg"
+                      "S040_4_frente.jpg",
+                      "S040_5_frente.jpg",
+                      "S040_6_frente.jpg",
+                      "S040_7_frente.jpg",
+                      "S040_8_frente.jpg",
+                      "S040_9_frente.jpg"
                   ]
     },
     {
@@ -947,13 +946,13 @@ window.SELLOS = [
         "titulo":  "España 1931 Alfonso XIII Vaquer 25 cts Sobrecarga Republica Española desplazada",
         "pais":  "España",
         "anio":  "1931",
-        "descripcion":  "España 1931: sello de Alfonso XIII (tipo Vaquer) con sobrecarga «República Española» en azul. Valor facial: 25 céntimos, color carmín. La sobrecarga aparece DESPLAZADA (ver fotos).\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
+        "descripcion":  "España 1931: sello de Alfonso XIII (tipo Vaquer) con sobrecarga «República Española» en azul. Valor facial: 25 céntimos, color carmín. La sobrecarga aparece DESPLAZADA (ver fotos).\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 5.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  3,
+        "cantidad":  5,
         "precioSalida":  1.99,
         "precioYa":  6,
         "estado":  "Colección",
-        "notas":  "",
+        "notas":  "+2 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1931-05-23",
                         "Impresión":  "Rey_Alfonso_XIII_sobreimpresion_Republica",
@@ -961,9 +960,8 @@ window.SELLOS = [
                         "Fuente":  "Colnect (colnect.com/es/stamps/stamp/1457499-King_Alfonso_XIII_overprint), consultado 7-oct-2026"
                     },
         "fotos":  [
-                      "S042_1_frente.jpg",
-                      "S042_2_frente.jpg",
-                      "S042_3_frente.jpg"
+                      "S042_4_frente.jpg",
+                      "S042_5_frente.jpg"
                   ]
     },
     {
@@ -2813,19 +2811,20 @@ window.SELLOS = [
         "titulo":  "Austria Edificios Basilica de Mariazell 1 S - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1957",
-        "descripcion":  "Austria: serie básica «Edificios» (Bauwerke). Basílica de Mariazell. Valor 1 chelín.\nFicha técnica: País: Austria · Año: 1957 · Valor facial: 1 S · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Austria: serie básica «Edificios» (Bauwerke). Basílica de Mariazell. Valor 1 chelín.\nFicha técnica: País: Austria · Año: 1957 · Valor facial: 1 S · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  3,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261014_184058381_iOS.jpg | Año confirmado: 1957-06-22 (Colnect serie Buildings (Austria))",
+        "notas":  "foto 20261014_184058381_iOS.jpg | Año confirmado: 1957-06-22 (Colnect serie Buildings (Austria)) | +2 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1957-06-22",
                         "Fuente":  "Colnect serie Buildings (Austria), colnect.com/es/stamps/stamp/434247, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S1013_1_frente.jpg"
+                      "S1013_2_frente.jpg",
+                      "S1013_3_frente.jpg"
                   ]
     },
     {
@@ -3010,19 +3009,20 @@ window.SELLOS = [
         "titulo":  "Austria Edificios Viena Heiligenstadt 50 g - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1959",
-        "descripcion":  "Austria: serie básica «Edificios» (Bauwerke). Viena-Heiligenstadt. Valor 50 groschen.\nFicha técnica: País: Austria · Año: 1959 · Valor facial: 50 g · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Austria: serie básica «Edificios» (Bauwerke). Viena-Heiligenstadt. Valor 50 groschen.\nFicha técnica: País: Austria · Año: 1959 · Valor facial: 50 g · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  3,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261014_184343851_iOS.jpg | Año confirmado: 1959-10-23 (Colnect serie Buildings (Austria))",
+        "notas":  "foto 20261014_184343851_iOS.jpg | Año confirmado: 1959-10-23 (Colnect serie Buildings (Austria)) | +2 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1959-10-23",
                         "Fuente":  "Colnect serie Buildings (Austria), colnect.com/es/stamps/stamp/17663, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S1021_1_frente.jpg"
+                      "S1021_2_frente.jpg",
+                      "S1021_3_frente.jpg"
                   ]
     },
     {
@@ -4109,19 +4109,19 @@ window.SELLOS = [
         "titulo":  "Reino Unido 1955 Isabel II Wilding 1 chelin bistre - Nuevo, nunca pegado",
         "pais":  "Reino Unido",
         "anio":  "1955",
-        "descripcion":  "Reino Unido: serie básica «Wilding», reina Isabel II (emitida desde 1952). Valor 1 chelín, bistre (el valor queda tapado en la foto).\nFicha técnica: País: Reino Unido · Año: 1955 · Valor facial: 1/- · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Reino Unido: serie básica «Wilding», reina Isabel II (emitida desde 1952). Valor 1 chelín, bistre (el valor queda tapado en la foto).\nFicha técnica: País: Reino Unido · Año: 1955 · Valor facial: 1/- · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3 (1 suelto y 1 pareja unida: no se separan).",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  3,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261014_185419238_iOS.jpg | Año confirmado: 1955-11-03 (Colnect (Queen Elizabeth II))",
+        "notas":  "foto 20261014_185419238_iOS.jpg | Año confirmado: 1955-11-03 (Colnect (Queen Elizabeth II)) | +1 copia(s) 26-10 (1 suelto + 1 pareja unida, no se separan)",
         "tecnico":  {
                         "Fecha de emisión":  "1955-11-03",
                         "Fuente":  "Colnect (Queen Elizabeth II), colnect.com/es/stamps/stamp/1773, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S1068_1_frente.jpg"
+                      "S1068_2_frente.jpg"
                   ]
     },
     {
@@ -6771,16 +6771,16 @@ window.SELLOS = [
     {
         "codigo":  "S1182",
         "album":  "SDF-1921-01",
-        "titulo":  "Sudan Frances 1921 Tuareg sobrecarga 2 c - Nuevo, nunca pegado",
-        "pais":  "Sudan Frances",
+        "titulo":  "Sudán Francés 1921 Tuareg en dromedario sobrecarga Soudan 2 c - Sello NUEVO",
+        "pais":  "Sudán Francés",
         "anio":  "1921",
-        "descripcion":  "Sudán Francés (África Occidental Francesa), 1921: tuareg en camello, sello del Alto Senegal y Níger con sobrecarga «Soudan Français». Valor 2 céntimos.\r\nFicha técnica: País: Sudan Frances · Año: 1921 · Valor facial: 2 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Sudán Francés («Soudan Français»), colonia de Francia dentro del África Occidental Francesa; hoy es la República de Malí. En 1921 sus sellos sustituyeron a los del Alto Senegal y Níger: para ello se sobrecargaron con «SOUDAN FRANÇAIS» los sellos de 1914 del Alto Senegal y Níger (debajo de la palabra SOUDAN aún se adivina el nombre antiguo). El dibujo, igual en toda la serie y en colores distintos para cada valor, es un tuareg («targui») montado en dromedario. Valor 2 céntimos, gris y violeta.\nFicha técnica: País: Sudán Francés · Año: 1921 · Valor facial: 2 c · Estado: Nuevo, nunca pegado · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_162721881_iOS.jpg | Año confirmado: 1921 (Colnect (Targui Nomad on Dromedary))",
+        "notas":  "foto 20261017_162721881_iOS.jpg | Año confirmado: 1921 (Colnect (Targui Nomad on Dromedary)) | 26-oct: hoy Malí - sobrecarga de 1921 sobre sello de Alto Senegal y Níger de 1914 - sin matasellos (nuevo)",
         "tecnico":  {
                         "Fuente":  "Colnect (Targui Nomad on Dromedary), colnect.com/es/stamps/stamp/217547, consultado 14-oct-2026"
                     },
@@ -7286,39 +7286,39 @@ window.SELLOS = [
         "titulo":  "España 1956 Año Jubilar de Montserrat 80 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1956",
-        "descripcion":  "España 1956: Año Jubilar de Montserrat (1881-1956), la Moreneta. Valor 80 céntimos.\r\nFicha técnica: País: España · Año: 1956 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "España 1956: Año Jubilar de Montserrat (1881-1956), la Moreneta. Valor 80 céntimos.\r\nFicha técnica: País: España · Año: 1956 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163151712_iOS.jpg | Año confirmado: 1956-09-11 (Colnect (Anniversary of the Black Virgin of Montserrat))",
+        "notas":  "foto 20261017_163151712_iOS.jpg | Año confirmado: 1956-09-11 (Colnect (Anniversary of the Black Virgin of Montserrat)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1956-09-11",
                         "Fuente":  "Colnect (Anniversary of the Black Virgin of Montserrat), colnect.com/es/stamps/stamp/171266, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S1204_1_frente.jpg"
+                      "S1204_2_frente.jpg"
                   ]
     },
     {
         "codigo":  "S1205",
         "album":  "IFN-1957-02",
         "titulo":  "Ifni Flora 60 cts - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1957",
-        "descripcion":  "Ifni (territorio español): flora. Valor 60 céntimos.\r\nFicha técnica: País: Ifni · Año: 1957 (aprox.) · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español): flora. Valor 60 céntimos.\nFicha técnica: País: España · Año: 1957 (aprox.) · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163154797_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo",
+        "notas":  "foto 20261017_163154797_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo | +1 copia(s) 26-10",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S1205_1_frente.jpg"
+                      "S1205_2_frente.jpg"
                   ]
     },
     {
@@ -7388,19 +7388,19 @@ window.SELLOS = [
         "titulo":  "Sahara Español 1954 Pro Infancia Corredor 60 cts - Nuevo, nunca pegado",
         "pais":  "Sahara Español",
         "anio":  "1954",
-        "descripcion":  "Sahara Español 1954: Pro Infancia, corredor. Valor 60 céntimos.\r\nFicha técnica: País: Sahara Español · Año: 1954 · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Sahara Español 1954: Pro Infancia, corredor. Valor 60 céntimos.\r\nFicha técnica: País: Sahara Español · Año: 1954 · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163206541_iOS.jpg | Año confirmado: 1954-06-01 (Colnect (Running))",
+        "notas":  "foto 20261017_163206541_iOS.jpg | Año confirmado: 1954-06-01 (Colnect (Running)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1954-06-01",
                         "Fuente":  "Colnect (Running), colnect.com/es/stamps/stamp/397159, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S1209_1_frente.jpg"
+                      "S1209_2_frente.jpg"
                   ]
     },
     {
@@ -7436,9 +7436,9 @@ window.SELLOS = [
         "codigo":  "S1210",
         "album":  "IFN-1959-02",
         "titulo":  "Ifni Pro Infancia Camellos 10+5 cts - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1959",
-        "descripcion":  "Ifni (territorio español): Pro Infancia, camellos. Valor 10+5 céntimos.\r\nFicha técnica: País: Ifni · Año: 1959 (aprox.) · Valor facial: 10+5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español): Pro Infancia, camellos. Valor 10+5 céntimos.\nFicha técnica: País: España · Año: 1959 (aprox.) · Valor facial: 10+5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
@@ -7539,9 +7539,9 @@ window.SELLOS = [
         "codigo":  "S1215",
         "album":  "IFN-1960-02",
         "titulo":  "Ifni 1960 Pro Infancia 15+5 cts - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1960",
-        "descripcion":  "Ifni (territorio español) 1960: Pro Infancia, animales. Valor 15+5 céntimos.\r\nFicha técnica: País: Ifni · Año: 1960 · Valor facial: 15+5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español) 1960: Pro Infancia, animales. Valor 15+5 céntimos.\nFicha técnica: País: España · Año: 1960 · Valor facial: 15+5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
@@ -7694,9 +7694,9 @@ window.SELLOS = [
         "codigo":  "S1221",
         "album":  "IFN-1960-01",
         "titulo":  "Ifni 1960 Pro Infancia 80 cts - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1960",
-        "descripcion":  "Ifni (territorio español) 1960: Pro Infancia, animales. Valor 80 céntimos.\r\nFicha técnica: País: Ifni · Año: 1960 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español) 1960: Pro Infancia, animales. Valor 80 céntimos.\nFicha técnica: País: España · Año: 1960 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
@@ -7715,9 +7715,9 @@ window.SELLOS = [
         "codigo":  "S1222",
         "album":  "IFN-1959-01",
         "titulo":  "Ifni 1959 Dia del Sello - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1959",
-        "descripcion":  "Ifni (territorio español) 1959: Día del Sello.\r\nFicha técnica: País: Ifni · Año: 1959 (aprox.) · Valor facial: ver foto · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español) 1959: Día del Sello.\nFicha técnica: País: España · Año: 1959 (aprox.) · Valor facial: ver foto · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
@@ -8144,9 +8144,9 @@ window.SELLOS = [
         "codigo":  "S1240",
         "album":  "IFN-1957-01",
         "titulo":  "Ifni Cigüeña 25 cts - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1957",
-        "descripcion":  "Ifni (territorio español): fauna, cigüeña. Valor 25 céntimos.\r\nFicha técnica: País: Ifni · Año: 1957 (aprox.) · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español): fauna, cigüeña. Valor 25 céntimos.\nFicha técnica: País: España · Año: 1957 (aprox.) · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
@@ -8164,9 +8164,9 @@ window.SELLOS = [
         "codigo":  "S1241",
         "album":  "IFN-1957-03",
         "titulo":  "Ifni Pajaros 50 cts - Nuevo, nunca pegado",
-        "pais":  "Ifni",
+        "pais":  "España",
         "anio":  "1957",
-        "descripcion":  "Ifni (territorio español): fauna, pájaros. Valor 50 céntimos.\r\nFicha técnica: País: Ifni · Año: 1957 (aprox.) · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Ifni (territorio español): fauna, pájaros. Valor 50 céntimos.\nFicha técnica: País: España · Año: 1957 (aprox.) · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  0.99,
@@ -8991,6 +8991,66 @@ window.SELLOS = [
                   ]
     },
     {
+        "codigo":  "S1277",
+        "album":  "ITA-1971-01",
+        "titulo":  "Italia 1971 XXV Aniversario de UNICEF 25 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1971",
+        "descripcion":  "Italia 1971: 25 aniversario de UNICEF (1946-1971), cadena de niños y emblema de la ONU. Valor 25 liras. Diseño de E. Tomei.\r\nFicha técnica: País: Italia · Año: 1971 · Valor facial: 25 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204802624_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1277_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1278",
+        "album":  "ITA-1957-01",
+        "titulo":  "Italia 1957 Giuseppe Garibaldi a caballo 110 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1957",
+        "descripcion":  "Italia 1957: 150 aniversario del nacimiento de Giuseppe Garibaldi (1807-1882), Garibaldi a caballo. Valor 110 liras, violeta.\r\nFicha técnica: País: Italia · Año: 1957 · Valor facial: 110 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204805964_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1278_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1279",
+        "album":  "ITA-1970-01",
+        "titulo":  "Italia 1970 Año Europeo de la Conservacion de la Naturaleza 20 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1970",
+        "descripcion":  "Italia 1970: Año Europeo de la Conservación de la Naturaleza («Per la salvaguardia della natura»), árbol y fábrica. Valor 20 liras. Diseño de E. Vangelli.\r\nFicha técnica: País: Italia · Año: 1970 · Valor facial: 20 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204810269_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1279_1_frente.jpg"
+                  ]
+    },
+    {
         "codigo":  "S128",
         "album":  "BUL-1917-04",
         "titulo":  "Bulgaria 1917 Macedonia Soldado 25 st azul - Nuevo, nunca pegado",
@@ -9017,6 +9077,207 @@ window.SELLOS = [
                     },
         "fotos":  [
                       "S128_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1280",
+        "album":  "ITA-1958-01",
+        "titulo":  "Italia Urgente Espresso Caballos alados de Tarquinia 75 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1958",
+        "descripcion":  "Italia: sello de correo urgente (Espresso), caballos alados de Tarquinia. Valor 75 liras, lila.\r\nFicha técnica: País: Italia · Año: 1958 (aprox.) · Valor facial: 75 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204814088_iOS.jpg | Año 1958 APROXIMADO (por la serie y el diseño (pie de imprenta 1957), 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1280_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1281",
+        "album":  "ITA-1941-01",
+        "titulo":  "Italia 1941 Hermandad de armas italo-alemana Hitler y Mussolini 10 c - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1941",
+        "descripcion":  "Italia 1941: hermandad de armas italo-alemana («Due popoli una guerra»), Hitler y Mussolini. Valor 10 céntimos, castaño.\r\nFicha técnica: País: Italia · Año: 1941 · Valor facial: 10 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204819269_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1281_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1282",
+        "album":  "SMR-1949-01",
+        "titulo":  "San Marino Vista de San Marino 1 L - Sello NUEVO",
+        "pais":  "San Marino",
+        "anio":  "1949",
+        "descripcion":  "San Marino: serie de vistas, paisaje con la ciudad y la torre. Valor 1 lira, verde.\nFicha técnica: País: San Marino · Año: 1949 (aprox.) · Valor facial: 1 L · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204823224_iOS.jpg | Año 1949 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1282_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1283",
+        "album":  "MAR-1957-01",
+        "titulo":  "Marruecos Mohamed V sobrecarga 1,20 pesetas - Nuevo, nunca pegado",
+        "pais":  "Marruecos",
+        "anio":  "1957",
+        "descripcion":  "Marruecos (zona norte): sello del sultán Mohamed V con sobrecarga de nuevo valor 1,20 pesetas en árabe y castellano.\r\nFicha técnica: País: Marruecos · Año: 1957 (aprox.) · Valor facial: 1,20 pesetas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_200908001_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1283_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1284",
+        "album":  "ESP-1978-05",
+        "titulo":  "España 1978 Simon Bolivar 12 pta - Nuevo, nunca pegado",
+        "pais":  "España",
+        "anio":  "1978",
+        "descripcion":  "España 1978: Simón Bolívar, Libertador de América. Valor 12 pesetas.\r\nFicha técnica: País: España · Año: 1978 · Valor facial: 12 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_200936847_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1284_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1285",
+        "album":  "ITA-1978-01",
+        "titulo":  "Italia 1978 Bicentenario del Teatro alla Scala 170 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1978",
+        "descripcion":  "Italia 1978: bicentenario del Teatro alla Scala de Milán (1778-1978), fachada del teatro. Valor 170 liras.\r\nFicha técnica: País: Italia · Año: 1978 · Valor facial: 170 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204743858_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1285_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1286",
+        "album":  "ITA-1978-02",
+        "titulo":  "Italia 1978 El mar debe vivir Mero Epinephelus guaza 170 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1978",
+        "descripcion":  "Italia 1978: serie «Il mare deve vivere» (fauna marina), mero (Epinephelus guaza). Valor 170 liras.\r\nFicha técnica: País: Italia · Año: 1978 · Valor facial: 170 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204755064_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1286_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1287",
+        "album":  "ITA-1950-05",
+        "titulo":  "Italia 1950 Italia al lavoro El telar Calabria 10 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1950",
+        "descripcion":  "Italia 1950: serie «Italia al lavoro», el telar (Calabria). Valor 10 liras, verde.\r\nFicha técnica: País: Italia · Año: 1950 · Valor facial: 10 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  2,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204759675_iOS.jpg, 20261026_204643033_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1287_1_frente.jpg",
+                      "S1287_2_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1288",
+        "album":  "ITA-1975-01",
+        "titulo":  "Italia 1975 Fuentes de Italia Fontana del Rosello Sassari 70 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1975",
+        "descripcion":  "Italia 1975: serie de fuentes de Italia, Fontana del Rosello de Sassari. Valor 70 liras.\r\nFicha técnica: País: Italia · Año: 1975 · Valor facial: 70 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201328181_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1288_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1289",
+        "album":  "VAT-1966-01",
+        "titulo":  "Vaticano Organista 10 L - Nuevo, nunca pegado",
+        "pais":  "Vaticano",
+        "anio":  "1966",
+        "descripcion":  "Vaticano: serie de oficios y artes, organista tocando el órgano. Valor 10 liras, violeta.\r\nFicha técnica: País: Vaticano · Año: 1966 (aprox.) · Valor facial: 10 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201401832_iOS.jpg | Año 1966 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1289_1_frente.jpg"
                   ]
     },
     {
@@ -9049,6 +9310,208 @@ window.SELLOS = [
                   ]
     },
     {
+        "codigo":  "S1290",
+        "album":  "VAT-1966-02",
+        "titulo":  "Vaticano Papa Pablo VI orando 5 L - Nuevo, nunca pegado",
+        "pais":  "Vaticano",
+        "anio":  "1966",
+        "descripcion":  "Vaticano: el papa Pablo VI orando (relieve, «Paulus VI Pont. Max.»). Valor 5 liras.\r\nFicha técnica: País: Vaticano · Año: 1966 (aprox.) · Valor facial: 5 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  2,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204746574_iOS.jpg, 20261026_204738009_iOS.jpg | Año 1966 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1290_1_frente.jpg",
+                      "S1290_2_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1291",
+        "album":  "ITA-1974-02",
+        "titulo":  "Italia 1974 Centenario de Guglielmo Marconi 50 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1974",
+        "descripcion":  "Italia 1974: centenario del nacimiento de Guglielmo Marconi (1874-1937). Valor 50 liras.\r\nFicha técnica: País: Italia · Año: 1974 · Valor facial: 50 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201407874_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1291_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1292",
+        "album":  "CEI-1958-01",
+        "titulo":  "Ceilan Recogida del te 1 rupia - Nuevo, nunca pegado",
+        "pais":  "Ceilán",
+        "anio":  "1958",
+        "descripcion":  "Ceilán: recolectora de té en una plantación. Valor 1 rupia.\r\nFicha técnica: País: Ceilán · Año: 1958 (aprox.) · Valor facial: 1 Re · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201423428_iOS.jpg | Año 1958 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1292_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1293",
+        "album":  "SMR-1973-01",
+        "titulo":  "San Marino Frutas Fresas 5 L - Sello NUEVO",
+        "pais":  "San Marino",
+        "anio":  "1973",
+        "descripcion":  "San Marino: serie de frutas, fresas (dibujo de A. M. Trechslin, impreso por Courvoisier). Valor 5 liras.\r\nFicha técnica: País: San Marino · Año: 1973 (aprox.) · Valor facial: 5 L · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201426453_iOS.jpg | Año 1973 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1293_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1294",
+        "album":  "ITA-1950-04",
+        "titulo":  "Italia 1950 Italia al lavoro El astillero Liguria 15 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1950",
+        "descripcion":  "Italia 1950: serie «Italia al lavoro», el astillero («Lo scalo», Liguria). Valor 15 liras, azul.\r\nFicha técnica: País: Italia · Año: 1950 · Valor facial: 15 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  2,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201430461_iOS.jpg, 20261026_204646056_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1294_1_frente.jpg",
+                      "S1294_2_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1295",
+        "album":  "AUT-1908-04",
+        "titulo":  "Austria Sello de tasa Porto 20 heller rojo - Nuevo, nunca pegado",
+        "pais":  "Austria",
+        "anio":  "1908",
+        "descripcion":  "Austria: sello de tasa (Porto), cifra 20 heller. Rojo.\r\nFicha técnica: País: Austria · Año: 1908 (aprox.) · Valor facial: 20 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201448742_iOS.jpg | Año 1908 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1295_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1296",
+        "album":  "ALE-1889-01",
+        "titulo":  "Alemania Reich Reichspost Cifra 5 pf verde - Nuevo, nunca pegado",
+        "pais":  "Alemania",
+        "anio":  "1889",
+        "descripcion":  "Alemania (Reich): «Reichspost», cifra en óvalo con corona. Valor 5 pfennig, verde.\r\nFicha técnica: País: Alemania · Año: 1889 (aprox.) · Valor facial: 5 pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201452347_iOS.jpg | Año 1889 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1296_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1297",
+        "album":  "ALE-1922-03",
+        "titulo":  "Alemania Reich Cifra 15 azul - Nuevo, nunca pegado",
+        "pais":  "Alemania",
+        "anio":  "1922",
+        "descripcion":  "Alemania (Reich): «Deutsches Reich», cifra grande 15. Azul verdoso.\r\nFicha técnica: País: Alemania · Año: 1922 (aprox.) · Valor facial: 15 · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201500622_iOS.jpg | Año 1922 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1297_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1298",
+        "album":  "BUL-1946-30",
+        "titulo":  "Bulgaria Correo aereo Mujer con paloma 2 leva - Nuevo, nunca pegado",
+        "pais":  "Bulgaria",
+        "anio":  "1946",
+        "descripcion":  "Bulgaria: correo aéreo («Въздушна поща»), mujer soltando una paloma. Valor 2 leva, verde.\r\nFicha técnica: País: Bulgaria · Año: 1946 (aprox.) · Valor facial: 2 leva · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201504916_iOS.jpg | Año 1946 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1298_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1299",
+        "album":  "CAM-1957-01",
+        "titulo":  "Camboya Camboya en la ONU 4,50 R - Nuevo, nunca pegado",
+        "pais":  "Camboya",
+        "anio":  "1957",
+        "descripcion":  "Camboya: ingreso en la ONU («Le Cambodge à l\u0027ONU 14.12.55»), globo, banderas y el rey. Valor 4,50 riels.\r\nFicha técnica: País: Camboya · Año: 1957 (aprox.) · Valor facial: 4,50 R · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201514415_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1299_1_frente.jpg"
+                  ]
+    },
+    {
         "codigo":  "S130",
         "album":  "BUL-1918-06",
         "titulo":  "Bulgaria 1918 Macedonia Paisaje 1 st - Sello clasico NUEVO",
@@ -9078,6 +9541,206 @@ window.SELLOS = [
                   ]
     },
     {
+        "codigo":  "S1300",
+        "album":  "AUT-1904-01",
+        "titulo":  "Austria Francisco Jose 5 heller verde - Nuevo, nunca pegado",
+        "pais":  "Austria",
+        "anio":  "1904",
+        "descripcion":  "Austria imperial: Francisco José («Kais. Koenigl. Oesterr. Post»). Valor 5 heller, verde.\r\nFicha técnica: País: Austria · Año: 1904 (aprox.) · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201521018_iOS.jpg | Año 1904 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1300_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1301",
+        "album":  "CHP-1973-01",
+        "titulo":  "Chipre 1973 XXIX Congreso de la FIS 20 m - Nuevo, nunca pegado",
+        "pais":  "Chipre",
+        "anio":  "1973",
+        "descripcion":  "Chipre 1973: 29 congreso de la Federación Internacional de Esquí (FIS), paisaje nevado de Troodos. Valor 20 mils.\r\nFicha técnica: País: Chipre · Año: 1973 · Valor facial: 20 m · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_201531119_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1301_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1302",
+        "album":  "FRA-1957-04",
+        "titulo":  "Francia Le Quesnoy 15 F - Nuevo, nunca pegado",
+        "pais":  "Francia",
+        "anio":  "1957",
+        "descripcion":  "Francia: serie turística, Le Quesnoy. Valor 15 francos.\r\nFicha técnica: País: Francia · Año: 1957 (aprox.) · Valor facial: 15 F · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_202807674_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1302_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1303",
+        "album":  "CMA-1936-01",
+        "titulo":  "Costa de Marfil AOF Mujer baule 1 c - Nuevo, nunca pegado",
+        "pais":  "Costa de Marfil",
+        "anio":  "1936",
+        "descripcion":  "Costa de Marfil (África Occidental Francesa): mujer baulé («Femme baoulé»). Valor 1 céntimo, lila.\r\nFicha técnica: País: Costa de Marfil · Año: 1936 (aprox.) · Valor facial: 1 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_202829963_iOS.jpg | Año 1936 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1303_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1304",
+        "album":  "MAR-1938-02",
+        "titulo":  "Marruecos Español Correo aereo Paisaje 60 cts - Nuevo, nunca pegado",
+        "pais":  "Marruecos",
+        "anio":  "1938",
+        "descripcion":  "Marruecos Español (Protectorado): correo aéreo, paisaje con casa y montañas. Valor 60 céntimos.\r\nFicha técnica: País: Marruecos · Año: 1938 (aprox.) · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_202834033_iOS.jpg | Año 1938 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1304_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1305",
+        "album":  "GAB-1924-01",
+        "titulo":  "Gabon AEF sobrecarga Guerrero 2 c - Nuevo, nunca pegado",
+        "pais":  "Gabón",
+        "anio":  "1924",
+        "descripcion":  "Gabón: guerrero con lanza, sobrecarga «Afrique Équatoriale Française». Valor 2 céntimos.\r\nFicha técnica: País: Gabón · Año: 1924 (aprox.) · Valor facial: 2 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_202840479_iOS.jpg | Año 1924 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1305_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1306",
+        "album":  "EGI-1972-01",
+        "titulo":  "Egipto Correo aereo Templo en la roca 85 m - Nuevo, nunca pegado",
+        "pais":  "Egipto",
+        "anio":  "1972",
+        "descripcion":  "Egipto: correo aéreo, templo excavado en la roca y avión. Valor 85 milliemes.\r\nFicha técnica: País: Egipto · Año: 1972 (aprox.) · Valor facial: 85 m · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_202846529_iOS.jpg | Año 1972 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1306_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1307",
+        "album":  "AUT-1958-09",
+        "titulo":  "Austria 1958 Mundial de Esqui Alpino Badgastein 1,50 S - Nuevo, nunca pegado",
+        "pais":  "Austria",
+        "anio":  "1958",
+        "descripcion":  "Austria 1958: Campeonato del Mundo de Esquí Alpino en Badgastein, montañas nevadas. Valor 1,50 chelines.\r\nFicha técnica: País: Austria · Año: 1958 · Valor facial: 1,50 S · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_202948264_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1307_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1308",
+        "album":  "ESP-1937-03",
+        "titulo":  "España El Cid 5 cts - Nuevo, nunca pegado",
+        "pais":  "España",
+        "anio":  "1937",
+        "descripcion":  "España: el Cid a caballo. Valor 5 céntimos, sepia.\r\nFicha técnica: País: España · Año: 1937 (aprox.) · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203014875_iOS.jpg | Año 1937 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1308_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1309",
+        "album":  "FIN-1922-01",
+        "titulo":  "Finlandia Leon heraldico 2 mk azul - Nuevo, nunca pegado",
+        "pais":  "Finlandia",
+        "anio":  "1922",
+        "descripcion":  "Finlandia: león heráldico (tipo Saarinen). Valor 2 marcos, azul.\r\nFicha técnica: País: Finlandia · Año: 1922 (aprox.) · Valor facial: 2 mk · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203150102_iOS.jpg | Año 1922 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1309_1_frente.jpg"
+                  ]
+    },
+    {
         "codigo":  "S131",
         "album":  "BUL-1917-03",
         "titulo":  "Bulgaria 1917 Macedonia Carro de bufalos 15 st - Sello clasico NUEVO",
@@ -9104,6 +9767,166 @@ window.SELLOS = [
                     },
         "fotos":  [
                       "S131_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1310",
+        "album":  "AUT-1960-07",
+        "titulo":  "Austria Edificios Steinertor de Krems 3,40 S - Nuevo, nunca pegado",
+        "pais":  "Austria",
+        "anio":  "1960",
+        "descripcion":  "Austria: serie de edificios, puerta Steinertor de Krems. Valor 3,40 chelines.\r\nFicha técnica: País: Austria · Año: 1960 (aprox.) · Valor facial: 3,40 S · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203153636_iOS.jpg | Año 1960 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1310_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1311",
+        "album":  "YUG-1974-01",
+        "titulo":  "Yugoslavia Tito 0,50 - Nuevo, nunca pegado",
+        "pais":  "Yugoslavia",
+        "anio":  "1974",
+        "descripcion":  "Yugoslavia: el mariscal Tito. Valor 0,50 dinares, verde.\r\nFicha técnica: País: Yugoslavia · Año: 1974 (aprox.) · Valor facial: 0,50 din · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203159758_iOS.jpg | Año 1974 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1311_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1312",
+        "album":  "ITA-1925-01",
+        "titulo":  "Italia Victor Manuel III 25 c verde - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1925",
+        "descripcion":  "Italia: rey Víctor Manuel III con orla de hojas. Valor 25 céntimos, verde.\r\nFicha técnica: País: Italia · Año: 1925 (aprox.) · Valor facial: 25 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203253989_iOS.jpg | Año 1925 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1312_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1313",
+        "album":  "FRA-1962-02",
+        "titulo":  "Francia 1962 Gallo de Decaris 0,30 - Nuevo, nunca pegado",
+        "pais":  "Francia",
+        "anio":  "1962",
+        "descripcion":  "Francia 1962: gallo de Decaris. Valor 0,30 francos.\r\nFicha técnica: País: Francia · Año: 1962 · Valor facial: 0,30 · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203347437_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1313_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1314",
+        "album":  "TUR-1941-01",
+        "titulo":  "Turquia Defensa Nacional 2 kurus - Nuevo, nunca pegado",
+        "pais":  "Turquía",
+        "anio":  "1941",
+        "descripcion":  "Turquía: sello benéfico de la Defensa Nacional («Milli Müdafaa»), soldado y media luna. Valor 2 kuruş, azul.\r\nFicha técnica: País: Turquía · Año: 1941 (aprox.) · Valor facial: 2 kurus · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203357021_iOS.jpg | Año 1941 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1314_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1315",
+        "album":  "SEN-1935-01",
+        "titulo":  "Senegal AOF Puente Faidherbe 2 c - Nuevo, nunca pegado",
+        "pais":  "Senegal",
+        "anio":  "1935",
+        "descripcion":  "Senegal (África Occidental Francesa): puente Faidherbe de Saint-Louis. Valor 2 céntimos.\r\nFicha técnica: País: Senegal · Año: 1935 (aprox.) · Valor facial: 2 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_203416169_iOS.jpg | Año 1935 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1315_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1316",
+        "album":  "ITA-1958-02",
+        "titulo":  "Italia 1958 Centenario de los sellos de Napoles 25 L - Nuevo, nunca pegado",
+        "pais":  "Italia",
+        "anio":  "1958",
+        "descripcion":  "Italia 1958: primer centenario de los sellos del Reino de Nápoles (1858-1958), reproducción del sello de 1/2 grana. Valor 25 liras.\r\nFicha técnica: País: Italia · Año: 1958 · Valor facial: 25 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204734819_iOS.jpg",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1316_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1317",
+        "album":  "SMR-1972-01",
+        "titulo":  "San Marino Aves Escribano hortelano 4 L - Sello NUEVO",
+        "pais":  "San Marino",
+        "anio":  "1972",
+        "descripcion":  "San Marino: serie de aves, escribano hortelano (Emberiza hortulana). Valor 4 liras.\r\nFicha técnica: País: San Marino · Año: 1972 (aprox.) · Valor facial: 4 L · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  0.99,
+        "precioYa":  2,
+        "estado":  "Colección",
+        "notas":  "foto 20261026_204740754_iOS.jpg | Año 1972 APROXIMADO (por la serie y el diseño, 26-oct): confirmar con catálogo",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1317_1_frente.jpg"
                   ]
     },
     {
@@ -19355,21 +20178,19 @@ window.SELLOS = [
         "titulo":  "Austria 1908 Francisco Jose 5 heller verde - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1908",
-        "descripcion":  "Austria 1908: 60 aniversario del reinado del emperador Francisco José. Valor 5 heller, verde.\nFicha técnica: País: Austria · Año: 1908 · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
+        "descripcion":  "Austria 1908: 60 aniversario del reinado del emperador Francisco José. Valor 5 heller, verde.\nFicha técnica: País: Austria · Año: 1908 · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 4.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  3,
+        "cantidad":  4,
         "precioSalida":  0.99,
         "precioYa":  1.5,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1908-01-01 (Colnect (lista país+año+valor facial))",
+        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1908-01-01 (Colnect (lista país+año+valor facial)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1908-01-01",
                         "Fuente":  "Colnect (lista país+año+valor facial), colnect.com/es/stamps/stamp/16597, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S492_1_frente.jpg",
-                      "S492_2_frente.jpg",
-                      "S492_3_frente.jpg"
+                      "S492_4_frente.jpg"
                   ]
     },
     {
@@ -19378,20 +20199,19 @@ window.SELLOS = [
         "titulo":  "Austria 1916 Corona imperial 10 heller - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1916",
-        "descripcion":  "Austria 1916: corona imperial (Kaiserlich Königliche Österreichische Post). Valor 10 heller, violeta.\nFicha técnica: País: Austria · Año: 1916 · Valor facial: 10 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "Austria 1916: corona imperial (Kaiserlich Königliche Österreichische Post). Valor 10 heller, violeta.\nFicha técnica: País: Austria · Año: 1916 · Valor facial: 10 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.99,
         "precioYa":  1.5,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1916-09-28 (Colnect (Emperors crown))",
+        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1916-09-28 (Colnect (Emperors crown)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1916-09-28",
                         "Fuente":  "Colnect (Emperors crown), colnect.com/es/stamps/stamp/1171249, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S493_1_frente.jpg",
-                      "S493_2_frente.jpg"
+                      "S493_3_frente.jpg"
                   ]
     },
     {
@@ -19462,22 +20282,18 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Pi y Margall 5 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República: personajes, Francisco Pi y Margall. Valor 5 céntimos, castaño negro.\nFicha técnica: País: España · Año: 1932 · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 5.",
+        "descripcion":  "España, II República: personajes, Francisco Pi y Margall. Valor 5 céntimos, castaño negro.\nFicha técnica: País: España · Año: 1932 · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 6.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  5,
+        "cantidad":  6,
         "precioSalida":  0.99,
         "precioYa":  1.5,
         "estado":  "Colección",
-        "notas":  "+2 copia(s) 6-oct",
+        "notas":  "+2 copia(s) 6-oct | +1 copia(s) 26-10",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S497_1_frente.jpg",
-                      "S497_2_frente.jpg",
-                      "S497_3_frente.jpg",
-                      "S497_4_frente.jpg",
-                      "S497_5_frente.jpg"
+                      "S497_6_frente.jpg"
                   ]
     },
     {
@@ -19507,20 +20323,19 @@ window.SELLOS = [
         "titulo":  "España 1956 Centenario de la Estadistica 80 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1956",
-        "descripcion":  "España 1956: centenario de la Estadística española. Valor 80 céntimos, verde.\nFicha técnica: País: España · Año: 1956 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "España 1956: centenario de la Estadística española. Valor 80 céntimos, verde.\nFicha técnica: País: España · Año: 1956 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1956-11-03 (Colnect (Centenary of Statistics))",
+        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1956-11-03 (Colnect (Centenary of Statistics)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1956-11-03",
                         "Fuente":  "Colnect (Centenary of Statistics), colnect.com/es/stamps/stamp/171267, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S499_1_frente.jpg",
-                      "S499_2_frente.jpg"
+                      "S499_3_frente.jpg"
                   ]
     },
     {
@@ -21877,18 +22692,18 @@ window.SELLOS = [
         "titulo":  "España 1977 Uniformes militares Infanteria ligera 25 pta - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1977",
-        "descripcion":  "España 1977: serie \"Uniformes militares\" nº 30, Infantería Ligera 1830. Valor 25 pesetas.\nFicha técnica: País: España · Año: 1977 · Valor facial: 25 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "España 1977: serie \"Uniformes militares\" nº 30, Infantería Ligera 1830. Valor 25 pesetas.\nFicha técnica: País: España · Año: 1977 · Valor facial: 25 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_174636148_iOS.jpg",
+        "notas":  "foto 20261006_174636148_iOS.jpg | +1 copia(s) 26-10",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S614_1_frente.jpg"
+                      "S614_2_frente.jpg"
                   ]
     },
     {
@@ -22423,19 +23238,18 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 10 cts carmin - Sello NUEVO",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 10 céntimos, carmín.\nFicha técnica: País: España · Año: 1955 · Valor facial: 10 cts · Estado: Nuevo, nunca pegado · Unidades: 2.",
+        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 10 céntimos, carmín.\nFicha técnica: País: España · Año: 1955 · Valor facial: 10 cts · Estado: Nuevo, nunca pegado · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_175013809_iOS.jpg, 20261006_175016120_iOS.jpg | Año confirmado: 1955 (Colnect (Franco)",
+        "notas":  "foto 20261006_175013809_iOS.jpg, 20261006_175016120_iOS.jpg | Año confirmado: 1955 (Colnect (Franco) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140198, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S640_1_frente.jpg",
-                      "S640_2_frente.jpg"
+                      "S640_3_frente.jpg"
                   ]
     },
     {
@@ -22672,19 +23486,20 @@ window.SELLOS = [
         "titulo":  "España 1956 Dia del Sello Arcangel San Gabriel 80 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1956",
-        "descripcion":  "España 1956: Día del Sello, Arcángel San Gabriel. Valor 80 céntimos.\nFicha técnica: País: España · Año: 1956 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "España 1956: Día del Sello, Arcángel San Gabriel. Valor 80 céntimos.\nFicha técnica: País: España · Año: 1956 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  3,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_175405632_iOS.jpg | Año confirmado: 1956-10-12 (Colnect (Stamp Day 1956))",
+        "notas":  "foto 20261006_175405632_iOS.jpg | Año confirmado: 1956-10-12 (Colnect (Stamp Day 1956)) | +2 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1956-10-12",
                         "Fuente":  "Anuncios de coleccionistas: 18 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Stamp Day 1956), colnect.com/es/stamps/stamp/60987, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S652_1_frente.jpg"
+                      "S652_2_frente.jpg",
+                      "S652_3_frente.jpg"
                   ]
     },
     {
@@ -23356,18 +24171,18 @@ window.SELLOS = [
         "titulo":  "Austria imperial 5 heller azul - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1908",
-        "descripcion":  "Austria imperial (Kais. Königl. Österr. Post). Valor 5 heller, azul.\nFicha técnica: País: Austria · Año: 1908 · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Austria imperial (Kais. Königl. Österr. Post). Valor 5 heller, azul.\nFicha técnica: País: Austria · Año: 1908 · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_180354097_iOS.jpg | Año 1908 puesto el 14-oct por la serie/diseño (sin fuente escrita)",
+        "notas":  "foto 20261006_180354097_iOS.jpg | Año 1908 puesto el 14-oct por la serie/diseño (sin fuente escrita) | +1 copia(s) 26-10",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S685_1_frente.jpg"
+                      "S685_2_frente.jpg"
                   ]
     },
     {
@@ -24623,19 +25438,19 @@ window.SELLOS = [
         "titulo":  "España 1961 XXV Aniversario Alzamiento Arco 1,50 ptas - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1961",
-        "descripcion":  "España 1961: XXV aniversario del Alzamiento Nacional, arco monumental. Valor 1,50 pesetas.\nFicha técnica: País: España · Año: 1961 · Valor facial: 1,50 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "España 1961: XXV aniversario del Alzamiento Nacional, arco monumental. Valor 1,50 pesetas.\nFicha técnica: País: España · Año: 1961 · Valor facial: 1,50 ptas · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_181540446_iOS.jpg | Año confirmado: 1961-07-10 (Colnect (Victory Arch)",
+        "notas":  "foto 20261006_181540446_iOS.jpg | Año confirmado: 1961-07-10 (Colnect (Victory Arch) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1961-07-10",
                         "Fuente":  "Anuncios de coleccionistas: 42 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Victory Arch, Madrid), colnect.com/es/stamps/stamp/61817, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S747_1_frente.jpg"
+                      "S747_2_frente.jpg"
                   ]
     },
     {
@@ -29435,19 +30250,19 @@ window.SELLOS = [
         "titulo":  "Italia 1950 Italia al lavoro Las naranjas Sicilia 25 L - Nuevo, nunca pegado",
         "pais":  "Italia",
         "anio":  "1950",
-        "descripcion":  "Italia 1950: serie básica «Italia al lavoro» (el trabajo en las regiones italianas). Las naranjas (Sicilia). Valor 25 liras.\nFicha técnica: País: Italia · Año: 1950 · Valor facial: 25 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Italia 1950: serie básica «Italia al lavoro» (el trabajo en las regiones italianas). Las naranjas (Sicilia). Valor 25 liras.\nFicha técnica: País: Italia · Año: 1950 · Valor facial: 25 L · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261014_183015144_iOS.jpg | Año confirmado: 1950-10-20 (Colnect (lista país+año+valor facial))",
+        "notas":  "foto 20261014_183015144_iOS.jpg | Año confirmado: 1950-10-20 (Colnect (lista país+año+valor facial)) | +1 copia(s) 26-10",
         "tecnico":  {
                         "Fecha de emisión":  "1950-10-20",
                         "Fuente":  "Colnect (lista país+año+valor facial), colnect.com/es/stamps/stamp/60118, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S980_1_frente.jpg"
+                      "S980_2_frente.jpg"
                   ]
     },
     {
