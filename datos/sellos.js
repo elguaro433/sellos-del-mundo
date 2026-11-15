@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-11-15 21:11. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-15 21:28. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -3824,19 +3824,19 @@ window.SELLOS = [
         "titulo":  "Reino Unido 1962 Año Nacional de la Productividad 3 d - Nuevo, nunca pegado",
         "pais":  "Reino Unido",
         "anio":  "1962",
-        "descripcion":  "Reino Unido 1962: Año Nacional de la Productividad, flechas y mapa de las islas. Valor 3 peniques.\nFicha técnica: País: Reino Unido · Año: 1962 · Valor facial: 3 d · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Reino Unido 1962: Año Nacional de la Productividad, flechas y mapa de las islas. Valor 3 peniques.\nFicha técnica: País: Reino Unido · Año: 1962 · Valor facial: 3 d · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261014_185434748_iOS.jpg | Año confirmado: 1962-11-14 (Colnect (National Productivity))",
+        "notas":  "foto 20261014_185434748_iOS.jpg | Año confirmado: 1962-11-14 (Colnect (National Productivity)) | +1 copia(s) 15-11-2026 (fotos 20261115_134813364_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1962-11-14",
                         "Fuente":  "Colnect (National Productivity), colnect.com/es/stamps/stamp/1859, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S1050_1_frente.jpg"
+                      "S1050_2_frente.jpg"
                   ]
     },
     {
@@ -10246,6 +10246,66 @@ window.SELLOS = [
                   ]
     },
     {
+        "codigo":  "S1327",
+        "album":  "SUI-0000-01",
+        "titulo":  "Suiza Helvetia sello de correo verde con cuadricula y sobre - Nuevo, nunca pegado",
+        "pais":  "Suiza",
+        "anio":  "",
+        "descripcion":  "Suiza: sello «HELVETIA» verde sobre fondo de cuadrícula, con un sobre, una flecha y un buzón (tema de correos).Año y número de catálogo SIN CONFIRMAR.\nFicha técnica: País: Suiza · Año: sin confirmar · Valor facial: sin leer · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131654789_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1327_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1328",
+        "album":  "IND-0000-01",
+        "titulo":  "India sello oficial Service Jorge V 1 anna rojo - Nuevo, nunca pegado",
+        "pais":  "India",
+        "anio":  "",
+        "descripcion":  "India británica: sello oficial «SERVICE» con el rey Jorge V, «INDIA POSTAGE», 1 anna, rojo carmín.Año exacto SIN CONFIRMAR (los de Jorge V son de 1911-1936).\nFicha técnica: País: India · Año: sin confirmar · Valor facial: 1 A · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_132022498_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1328_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1329",
+        "album":  "GBR-0000-01",
+        "titulo":  "Reino Unido Jorge V 2 d naranja Postage Revenue - Nuevo, nunca pegado",
+        "pais":  "Reino Unido",
+        "anio":  "",
+        "descripcion":  "Reino Unido: rey Jorge V, «POSTAGE REVENUE», «TWO PENCE», naranja. Existe en tipografía (1912-1924) y en fotograbado (1934-1936), casi iguales: año SIN CONFIRMAR.\nFicha técnica: País: Reino Unido · Año: sin confirmar · Valor facial: 2 d · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_134626501_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1329_1_frente.jpg"
+                  ]
+    },
+    {
         "codigo":  "S133",
         "album":  "BUL-1921-08",
         "titulo":  "Bulgaria 1921 Macedonia Rio Cherna 50 st - Sello clasico NUEVO",
@@ -10272,6 +10332,46 @@ window.SELLOS = [
                     },
         "fotos":  [
                       "S133_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1330",
+        "album":  "GRE-0000-01",
+        "titulo":  "Grecia cabeza clasica 50 lepta verde azulado - Nuevo, nunca pegado",
+        "pais":  "Grecia",
+        "anio":  "",
+        "descripcion":  "Grecia: cabeza clásica de perfil en verde azulado, «ΕΛΛΑΣ», 50 lepta. Año y serie SIN CONFIRMAR.\nFicha técnica: País: Grecia · Año: sin confirmar · Valor facial: 50 lepta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_134819618_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1330_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1331",
+        "album":  "XXX-0000-01",
+        "titulo":  "Gimeno Cabeza de nino 10 pts - Sello NUEVO",
+        "pais":  "Por identificar",
+        "anio":  "",
+        "descripcion":  "Sello con el cuadro «Cabeza de niño» del pintor Francesc Gimeno (1858-1927). Valor 10 pesetas. No lleva el nombre del país: país y año SIN CONFIRMAR (posiblemente una serie de pintura española de otro país).\nFicha técnica: País: Por identificar · Año: sin confirmar · Valor facial: 10 pts · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131911743_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "tecnico":  {
+
+                    },
+        "fotos":  [
+                      "S1331_1_frente.jpg"
                   ]
     },
     {
