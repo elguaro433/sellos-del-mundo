@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-11-15 16:50. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-15 21:11. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -173,7 +173,20 @@ window.SELLOS = [
                         "Fuente":  "Anuncios de coleccionistas: 30 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026)"
                     },
         "fotos":  [
-                      "S006_14_frente.jpg"
+                      "S006_1_frente.jpg",
+                      "S006_10_frente.jpg",
+                      "S006_11_frente.jpg",
+                      "S006_12_frente.jpg",
+                      "S006_13_frente.jpg",
+                      "S006_14_frente.jpg",
+                      "S006_2_frente.jpg",
+                      "S006_3_frente.jpg",
+                      "S006_4_frente.jpg",
+                      "S006_5_frente.jpg",
+                      "S006_6_frente.jpg",
+                      "S006_7_frente.jpg",
+                      "S006_8_frente.jpg",
+                      "S006_9_frente.jpg"
                   ]
     },
     {
@@ -539,7 +552,18 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140199, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S020_12_frente.jpg"
+                      "S020_1_frente.jpg",
+                      "S020_10_frente.jpg",
+                      "S020_11_frente.jpg",
+                      "S020_12_frente.jpg",
+                      "S020_2_frente.jpg",
+                      "S020_3_frente.jpg",
+                      "S020_4_frente.jpg",
+                      "S020_5_frente.jpg",
+                      "S020_6_frente.jpg",
+                      "S020_7_frente.jpg",
+                      "S020_8_frente.jpg",
+                      "S020_9_frente.jpg"
                   ]
     },
     {
@@ -10159,27 +10183,6 @@ window.SELLOS = [
                   ]
     },
     {
-        "codigo":  "S1323",
-        "album":  "ALE-1970-06",
-        "titulo":  "Alemania RDA 1970 Excavaciones en Sudan Dioses Amon Shu y Tefnut 10 - Nuevo, nunca pegado",
-        "pais":  "Alemania",
-        "anio":  "1970",
-        "descripcion":  "Alemania RDA 1970: investigación arqueológica de la Universidad Humboldt de Berlín en Musawwarat (Sudán), los dioses Amón, Shu y Tefnut del Templo del León (Löwentempel). Valor 10 pfennig.\nFicha técnica: País: Alemania · Año: 1970 · Valor facial: 10 Pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
-        "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
-        "precioSalida":  null,
-        "precioYa":  null,
-        "estado":  "Colección",
-        "notas":  "Cantidad: 1 | foto 20261115_131908436_iOS.jpg | Año confirmado: 1970 (Colnect, 15-nov-2026)",
-        "tecnico":  {
-                        "Fecha de emisión":  "1970-06-23",
-                        "Fuente":  "Colnect (The Gods Amon, Shu and Tefnut), colnect.com/es/stamps/stamp/115223, consultado 15-nov-2026"
-                    },
-        "fotos":  [
-                      "S1323_1_frente.jpg"
-                  ]
-    },
-    {
         "codigo":  "S1324",
         "album":  "IND-1957-01",
         "titulo":  "India 1957 Mapa de la India 10 nP verde - Nuevo, nunca pegado",
@@ -10198,6 +10201,48 @@ window.SELLOS = [
                     },
         "fotos":  [
                       "S1324_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1325",
+        "album":  "CHP-1971-01",
+        "titulo":  "Chipre 1971 Cabeza femenina helenistica 50 m - Nuevo, nunca pegado",
+        "pais":  "Chipre",
+        "anio":  "1971",
+        "descripcion":  "Chipre 1971: serie básica de arte y arqueología, cabeza de piedra de mujer de época helenística (siglo III a. C.). Valor 50 mils.\nFicha técnica: País: Chipre · Año: 1971 · Valor facial: 50 m · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131902862_iOS.jpg | Año confirmado: 1971 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fecha de emisión":  "1971-02-22",
+                        "Fuente":  "Colnect (Hellenistic Woman\u0027s head), colnect.com/es/stamps/stamp/64072, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1325_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1326",
+        "album":  "ALE-1970-06",
+        "titulo":  "Alemania RDA 1970 Hallazgos arqueologicos Casco de Stossen 20 - Nuevo, nunca pegado",
+        "pais":  "Alemania",
+        "anio":  "1970",
+        "descripcion":  "Alemania RDA 1970: serie de hallazgos arqueológicos, casco de láminas (hacia el año 500) de Stößen, Hohenmölsen. Diseño de Gerhard Voigt. Valor 20 pfennig.\nFicha técnica: País: Alemania · Año: 1970 · Valor facial: 20 Pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131914775_iOS.jpg | Año confirmado: 1970 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fecha de emisión":  "1970-03-10",
+                        "Fuente":  "Colnect (Bow Helmet c. 500, Stößen, Hohenmölsen), colnect.com/es/stamps/stamp/115193, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1326_1_frente.jpg"
                   ]
     },
     {
@@ -20432,6 +20477,10 @@ window.SELLOS = [
                         "Fuente":  "Colnect (lista país+año+valor facial), colnect.com/es/stamps/stamp/16597, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S492_1_frente.jpg",
+                      "S492_2_frente.jpg",
+                      "S492_3_frente.jpg",
+                      "S492_4_frente.jpg",
                       "S492_5_frente.jpg"
                   ]
     },
@@ -26266,19 +26315,20 @@ window.SELLOS = [
         "titulo":  "Alemania RDA 1970 Excavaciones en Sudan Musawwarat 10 - Nuevo, nunca pegado",
         "pais":  "Alemania",
         "anio":  "1970",
-        "descripcion":  "Alemania (RDA) 1970: investigación arqueológica de la Universidad Humboldt de Berlín, excavaciones en Musawwarat (Sudán), relieve del templo del León. Valor 10 pfennig.\nFicha técnica: País: Alemania · Año: 1970 · Valor facial: 10 pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "Alemania (RDA) 1970: investigación arqueológica de la Universidad Humboldt de Berlín, excavaciones en Musawwarat (Sudán), relieve del templo del León. Valor 10 pfennig.\r\nFicha técnica: País: Alemania · Año: 1970 · Valor facial: 10 pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_201402690_iOS.jpg | Año confirmado: 1970-06-23 (Colnect (The Gods Amon)",
+        "notas":  "foto 20261006_201402690_iOS.jpg | Año confirmado: 1970-06-23 (Colnect (The Gods Amon) | +1 copia 15-11 (antigua ficha S1323, el mismo sello, foto 20261115_131908436_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1970-06-23",
                         "Fuente":  "Anuncios de coleccionistas: 18 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (The Gods Amon, Shu and Tefnut), colnect.com/es/stamps/stamp/115223, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S774_1_frente.jpg"
+                      "S774_1_frente.jpg",
+                      "S774_2_frente.jpg"
                   ]
     },
     {
@@ -30613,6 +30663,8 @@ window.SELLOS = [
 
                     },
         "fotos":  [
+                      "S984_1_frente.jpg",
+                      "S984_2_frente.jpg",
                       "S984_3_frente.jpg"
                   ]
     },
