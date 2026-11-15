@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-11-15 16:30. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-15 16:50. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -98,6 +98,8 @@ window.SELLOS = [
                         "Fuente":  "Colnect (General Franco), colnect.com/es/stamps/stamp/1587201, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S004_1_frente.jpg",
+                      "S004_2_frente.jpg",
                       "S004_3_frente.jpg"
                   ]
     },
@@ -119,6 +121,18 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Pablo Iglesias), colnect.com/es/stamps/stamp/213388, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S005_1_frente.jpg",
+                      "S005_10_frente.jpg",
+                      "S005_11_frente.jpg",
+                      "S005_12_frente.jpg",
+                      "S005_13_frente.jpg",
+                      "S005_14_frente.jpg",
+                      "S005_15_frente.jpg",
+                      "S005_16_frente.jpg",
+                      "S005_17_frente.jpg",
+                      "S005_18_frente.jpg",
+                      "S005_19_frente.jpg",
+                      "S005_2_frente.jpg",
                       "S005_20_frente.jpg",
                       "S005_21_frente.jpg",
                       "S005_22_frente.jpg",
@@ -129,10 +143,17 @@ window.SELLOS = [
                       "S005_27_frente.jpg",
                       "S005_28_frente.jpg",
                       "S005_29_frente.jpg",
+                      "S005_3_frente.jpg",
                       "S005_30_frente.jpg",
                       "S005_31_frente.jpg",
                       "S005_32_frente.jpg",
-                      "S005_33_frente.jpg"
+                      "S005_33_frente.jpg",
+                      "S005_4_frente.jpg",
+                      "S005_5_frente.jpg",
+                      "S005_6_frente.jpg",
+                      "S005_7_frente.jpg",
+                      "S005_8_frente.jpg",
+                      "S005_9_frente.jpg"
                   ]
     },
     {
@@ -141,21 +162,18 @@ window.SELLOS = [
         "titulo":  "España Franco y Castillo de la Mota 30 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1948",
-        "descripcion":  "Sello de España, 1948-1954 aprox.. Franco y Castillo de la Mota 30 cts, verde.\r\nFicha técnica: País: España · Año: 1948 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 13.",
+        "descripcion":  "Sello de España, 1948-1954 aprox.. Franco y Castillo de la Mota 30 cts, verde.\r\nFicha técnica: País: España · Año: 1948 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 14.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  13,
+        "cantidad":  14,
         "precioSalida":  0.99,
         "precioYa":  1.99,
         "estado":  "Colección",
-        "notas":  "Cantidad: 13 (+1 copias añadidas 5-oct) | +1 copia(s) 6-oct | +1 copia 7-oct (antigua ficha S039, era el mismo 30 cts verde) | +4 copia(s) 26-10 | +4 copia(s) 15-11-2026 (fotos 20261115_131713098_iOS.jpg, 20261115_132138012_iOS.jpg, 20261115_134553754_iOS.jpg, 20261115_134556108_iOS.jpg)",
+        "notas":  "Cantidad: 14 (+1 copias añadidas 5-oct) | +1 copia(s) 6-oct | +1 copia 7-oct (antigua ficha S039, era el mismo 30 cts verde) | +4 copia(s) 26-10 | +4 copia(s) 15-11-2026 (fotos 20261115_131713098_iOS.jpg, 20261115_132138012_iOS.jpg, 20261115_134553754_iOS.jpg, 20261115_134556108_iOS.jpg) | +1 copia(s) 15-11-2026 (fotos 20261115_132224445_iOS.jpg)",
         "tecnico":  {
                         "Fuente":  "Anuncios de coleccionistas: 30 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026)"
                     },
         "fotos":  [
-                      "S006_10_frente.jpg",
-                      "S006_11_frente.jpg",
-                      "S006_12_frente.jpg",
-                      "S006_13_frente.jpg"
+                      "S006_14_frente.jpg"
                   ]
     },
     {
@@ -263,12 +281,18 @@ window.SELLOS = [
                         "Fuente":  "Anuncios de coleccionistas: 4 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Derecho de entrega), colnect.com/es/stamps/stamp/271189, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S011_1_frente.jpg",
+                      "S011_10_frente.jpg",
+                      "S011_11_frente.jpg",
+                      "S011_12_frente.jpg",
+                      "S011_13_frente.jpg",
                       "S011_14_frente.jpg",
                       "S011_15_frente.jpg",
                       "S011_16_frente.jpg",
                       "S011_17_frente.jpg",
                       "S011_18_frente.jpg",
                       "S011_19_frente.jpg",
+                      "S011_2_frente.jpg",
                       "S011_20_frente.jpg",
                       "S011_21_frente.jpg",
                       "S011_22_frente.jpg",
@@ -279,7 +303,14 @@ window.SELLOS = [
                       "S011_27_frente.jpg",
                       "S011_28_frente.jpg",
                       "S011_29_frente.jpg",
-                      "S011_30_frente.jpg"
+                      "S011_3_frente.jpg",
+                      "S011_30_frente.jpg",
+                      "S011_4_frente.jpg",
+                      "S011_5_frente.jpg",
+                      "S011_6_frente.jpg",
+                      "S011_7_frente.jpg",
+                      "S011_8_frente.jpg",
+                      "S011_9_frente.jpg"
                   ]
     },
     {
@@ -496,21 +527,19 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 80 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España, serie General Franco de 1955. Valor facial: 80 céntimos, color verde azulado.\r\nFicha técnica: País: España · Año: 1955 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 11.",
+        "descripcion":  "España, serie General Franco de 1955. Valor facial: 80 céntimos, color verde azulado.\r\nFicha técnica: País: España · Año: 1955 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 12.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  11,
+        "cantidad":  12,
         "precioSalida":  2.04,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 11 (+1 copias añadidas 5-oct) | Año confirmado: 1955-02-14 (Colnect (Franco) | +4 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_131646857_iOS.jpg, 20261115_132020208_iOS.jpg, 20261115_134755879_iOS.jpg)",
+        "notas":  "Cantidad: 12 (+1 copias añadidas 5-oct) | Año confirmado: 1955-02-14 (Colnect (Franco) | +4 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_131646857_iOS.jpg, 20261115_132020208_iOS.jpg, 20261115_134755879_iOS.jpg) | +1 copia(s) 15-11-2026 (fotos 20261115_134534328_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1955-02-14",
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140199, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S020_10_frente.jpg",
-                      "S020_11_frente.jpg",
-                      "S020_9_frente.jpg"
+                      "S020_12_frente.jpg"
                   ]
     },
     {
@@ -531,6 +560,12 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Joaquin Costa y Martinez), colnect.com/es/stamps/stamp/282825, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S021_1_frente.jpg",
+                      "S021_2_frente.jpg",
+                      "S021_3_frente.jpg",
+                      "S021_4_frente.jpg",
+                      "S021_5_frente.jpg",
+                      "S021_6_frente.jpg",
                       "S021_7_frente.jpg",
                       "S021_8_frente.jpg",
                       "S021_9_frente.jpg"
@@ -857,7 +892,14 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Vicente Blasco Ibanez), colnect.com/es/stamps/stamp/213391, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S036_1_frente.jpg",
                       "S036_10_frente.jpg",
+                      "S036_2_frente.jpg",
+                      "S036_3_frente.jpg",
+                      "S036_4_frente.jpg",
+                      "S036_5_frente.jpg",
+                      "S036_6_frente.jpg",
+                      "S036_7_frente.jpg",
                       "S036_8_frente.jpg",
                       "S036_9_frente.jpg"
                   ]
@@ -879,8 +921,15 @@ window.SELLOS = [
 
                     },
         "fotos":  [
+                      "S037_1_frente.jpg",
                       "S037_10_frente.jpg",
                       "S037_11_frente.jpg",
+                      "S037_2_frente.jpg",
+                      "S037_3_frente.jpg",
+                      "S037_4_frente.jpg",
+                      "S037_5_frente.jpg",
+                      "S037_6_frente.jpg",
+                      "S037_7_frente.jpg",
                       "S037_8_frente.jpg",
                       "S037_9_frente.jpg"
                   ]
@@ -903,9 +952,18 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Generalísimo Francisco Franco), colnect.com/es/stamps/stamp/140193, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S038_1_frente.jpg",
                       "S038_10_frente.jpg",
                       "S038_11_frente.jpg",
-                      "S038_12_frente.jpg"
+                      "S038_12_frente.jpg",
+                      "S038_2_frente.jpg",
+                      "S038_3_frente.jpg",
+                      "S038_4_frente.jpg",
+                      "S038_5_frente.jpg",
+                      "S038_6_frente.jpg",
+                      "S038_7_frente.jpg",
+                      "S038_8_frente.jpg",
+                      "S038_9_frente.jpg"
                   ]
     },
     {
@@ -926,13 +984,22 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Nicolas Salmeron), colnect.com/es/stamps/stamp/282831, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S040_1_frente.jpg",
                       "S040_10_frente.jpg",
                       "S040_11_frente.jpg",
                       "S040_12_frente.jpg",
                       "S040_13_frente.jpg",
                       "S040_14_frente.jpg",
                       "S040_15_frente.jpg",
-                      "S040_16_frente.jpg"
+                      "S040_16_frente.jpg",
+                      "S040_2_frente.jpg",
+                      "S040_3_frente.jpg",
+                      "S040_4_frente.jpg",
+                      "S040_5_frente.jpg",
+                      "S040_6_frente.jpg",
+                      "S040_7_frente.jpg",
+                      "S040_8_frente.jpg",
+                      "S040_9_frente.jpg"
                   ]
     },
     {
@@ -975,8 +1042,13 @@ window.SELLOS = [
                         "Fuente":  "Colnect (colnect.com/es/stamps/stamp/1457499-King_Alfonso_XIII_overprint), consultado 7-oct-2026"
                     },
         "fotos":  [
+                      "S042_1_frente.jpg",
                       "S042_10_frente.jpg",
                       "S042_11_frente.jpg",
+                      "S042_2_frente.jpg",
+                      "S042_3_frente.jpg",
+                      "S042_4_frente.jpg",
+                      "S042_5_frente.jpg",
                       "S042_6_frente.jpg",
                       "S042_7_frente.jpg",
                       "S042_8_frente.jpg",
@@ -7341,6 +7413,8 @@ window.SELLOS = [
 
                     },
         "fotos":  [
+                      "S1205_1_frente.jpg",
+                      "S1205_2_frente.jpg",
                       "S1205_3_frente.jpg"
                   ]
     },
@@ -9954,6 +10028,46 @@ window.SELLOS = [
                   ]
     },
     {
+        "codigo":  "S1318",
+        "album":  "ESP-1955-23",
+        "titulo":  "España 1955 General Franco 15 cts ocre - Nuevo, nunca pegado",
+        "pais":  "España",
+        "anio":  "1955",
+        "descripcion":  "España 1955: serie básica General Franco (retrato de frente, F.N.M.T.). Valor 15 céntimos, ocre. Mismo sello que la pareja S641.\nFicha técnica: País: España · Año: 1955 · Valor facial: 15 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_134601313_iOS.jpg | Año confirmado: 1955 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/60868, consultado 15-nov-2026 (mismo sello que S641)"
+                    },
+        "fotos":  [
+                      "S1318_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1319",
+        "album":  "USA-1949-01",
+        "titulo":  "Estados Unidos 1949 Correo aereo 75 aniversario UPU Globo y palomas 15 c - Nuevo, nunca pegado",
+        "pais":  "Estados Unidos",
+        "anio":  "1949",
+        "descripcion":  "Estados Unidos 1949: correo aéreo por el 75 aniversario de la Unión Postal Universal (1874-1949), globo terráqueo y palomas con mensajes. Valor 15 centavos, azul.\nFicha técnica: País: Estados Unidos · Año: 1949 · Valor facial: 15 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131704133_iOS.jpg | Año confirmado: 1949 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fuente":  "Colnect (Globe and Doves Carrying Messages), colnect.com/es/stamps/stamp/101858, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1319_1_frente.jpg"
+                  ]
+    },
+    {
         "codigo":  "S132",
         "album":  "BUL-1917-01",
         "titulo":  "Bulgaria 1917 Macedonia Gevgeli 3 st - Nuevo, nunca pegado",
@@ -9980,6 +10094,110 @@ window.SELLOS = [
                     },
         "fotos":  [
                       "S132_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1320",
+        "album":  "IND-1972-01",
+        "titulo":  "India 1972 50 aniversario de la URSS 20 p - Sello NUEVO",
+        "pais":  "India",
+        "anio":  "1972",
+        "descripcion":  "India 1972: 50 aniversario de la Unión Soviética (1922-1972), bandera roja y torre del Kremlin. Valor 20 paisa.\nFicha técnica: País: India · Año: 1972 · Valor facial: 20 p · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_132209714_iOS.jpg | Año confirmado: 1972 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fuente":  "Colnect (50th Anniversary of USSR), colnect.com/es/stamps/stamp/372288, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1320_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1321",
+        "album":  "TRI-1953-02",
+        "titulo":  "Trinidad y Tobago 1953 Isabel II First Boca 1 cent - Nuevo, nunca pegado",
+        "pais":  "Trinidad y Tobago",
+        "anio":  "1953",
+        "descripcion":  "Trinidad y Tobago 1953: serie de Isabel II con paisajes, First Boca. Valor 1 centavo, azul y verde.\nFicha técnica: País: Trinidad y Tobago · Año: 1953 · Valor facial: 1 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_134806212_iOS.jpg | Año confirmado: 1953 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fecha de emisión":  "1953-04-20",
+                        "Fuente":  "Colnect (First Boca), colnect.com/es/stamps/stamp/317501, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1321_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1322",
+        "album":  "IDN-1956-02",
+        "titulo":  "Indonesia 1956 Fauna Kantjil Ciervo raton 5 sen - Sello NUEVO",
+        "pais":  "Indonesia",
+        "anio":  "1956",
+        "descripcion":  "Indonesia 1956: serie de fauna, kantjil o ciervo ratón menor (Tragulus kanchil). Valor 5 sen, azul gris. Misma serie que S791 (10 sen).\nFicha técnica: País: Indonesia · Año: 1956 · Valor facial: 5 sen · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131700625_iOS.jpg | Año confirmado: 1956 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fecha de emisión":  "1956-07-01",
+                        "Fuente":  "Colnect (Lesser Malay Chevrotain), colnect.com/es/stamps/stamp/152847, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1322_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1323",
+        "album":  "ALE-1970-06",
+        "titulo":  "Alemania RDA 1970 Excavaciones en Sudan Dioses Amon Shu y Tefnut 10 - Nuevo, nunca pegado",
+        "pais":  "Alemania",
+        "anio":  "1970",
+        "descripcion":  "Alemania RDA 1970: investigación arqueológica de la Universidad Humboldt de Berlín en Musawwarat (Sudán), los dioses Amón, Shu y Tefnut del Templo del León (Löwentempel). Valor 10 pfennig.\nFicha técnica: País: Alemania · Año: 1970 · Valor facial: 10 Pf · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_131908436_iOS.jpg | Año confirmado: 1970 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fecha de emisión":  "1970-06-23",
+                        "Fuente":  "Colnect (The Gods Amon, Shu and Tefnut), colnect.com/es/stamps/stamp/115223, consultado 15-nov-2026"
+                    },
+        "fotos":  [
+                      "S1323_1_frente.jpg"
+                  ]
+    },
+    {
+        "codigo":  "S1324",
+        "album":  "IND-1957-01",
+        "titulo":  "India 1957 Mapa de la India 10 nP verde - Nuevo, nunca pegado",
+        "pais":  "India",
+        "anio":  "1957",
+        "descripcion":  "India 1957: serie básica Mapa de la India, primeros valores en nuevos paisa. Valor 10 nP, verde.\nFicha técnica: País: India · Año: 1957 · Valor facial: 10 nP · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "conservacion":  "Nuevo, nunca pegado",
+        "cantidad":  1,
+        "precioSalida":  null,
+        "precioYa":  null,
+        "estado":  "Colección",
+        "notas":  "Cantidad: 1 | foto 20261115_132042597_iOS.jpg | Año confirmado: 1957 (Colnect, 15-nov-2026)",
+        "tecnico":  {
+                        "Fecha de emisión":  "1957-04-01",
+                        "Fuente":  "Colnect (Map of India), colnect.com/es/stamps/stamp/138020, consultado 15-nov-2026 (fecha de la serie)"
+                    },
+        "fotos":  [
+                      "S1324_1_frente.jpg"
                   ]
     },
     {
@@ -20202,22 +20420,19 @@ window.SELLOS = [
         "titulo":  "Austria 1908 Francisco Jose 5 heller verde - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1908",
-        "descripcion":  "Austria 1908: 60 aniversario del reinado del emperador Francisco José. Valor 5 heller, verde.\nFicha técnica: País: Austria · Año: 1908 · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 4.",
+        "descripcion":  "Austria 1908: 60 aniversario del reinado del emperador Francisco José. Valor 5 heller, verde.\nFicha técnica: País: Austria · Año: 1908 · Valor facial: 5 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 5.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  4,
+        "cantidad":  5,
         "precioSalida":  0.99,
         "precioYa":  1.5,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1908-01-01 (Colnect (lista país+año+valor facial)) | +1 copia(s) 26-10",
+        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1908-01-01 (Colnect (lista país+año+valor facial)) | +1 copia(s) 26-10 | +1 copia(s) 15-11-2026 (fotos 20261115_131801236_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1908-01-01",
                         "Fuente":  "Colnect (lista país+año+valor facial), colnect.com/es/stamps/stamp/16597, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S492_1_frente.jpg",
-                      "S492_2_frente.jpg",
-                      "S492_3_frente.jpg",
-                      "S492_4_frente.jpg"
+                      "S492_5_frente.jpg"
                   ]
     },
     {
@@ -20238,6 +20453,9 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Emperors crown), colnect.com/es/stamps/stamp/1171249, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S493_1_frente.jpg",
+                      "S493_2_frente.jpg",
+                      "S493_3_frente.jpg",
                       "S493_4_frente.jpg"
                   ]
     },
@@ -20320,6 +20538,12 @@ window.SELLOS = [
 
                     },
         "fotos":  [
+                      "S497_1_frente.jpg",
+                      "S497_2_frente.jpg",
+                      "S497_3_frente.jpg",
+                      "S497_4_frente.jpg",
+                      "S497_5_frente.jpg",
+                      "S497_6_frente.jpg",
                       "S497_7_frente.jpg",
                       "S497_8_frente.jpg",
                       "S497_9_frente.jpg"
@@ -22734,6 +22958,8 @@ window.SELLOS = [
 
                     },
         "fotos":  [
+                      "S614_1_frente.jpg",
+                      "S614_2_frente.jpg",
                       "S614_3_frente.jpg"
                   ]
     },
@@ -23077,6 +23303,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/60871, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S630_1_frente.jpg",
                       "S630_2_frente.jpg",
                       "S630_3_frente.jpg"
                   ]
@@ -23241,6 +23468,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/60869, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S638_1_frente.jpg",
                       "S638_2_frente.jpg"
                   ]
     },
@@ -23281,6 +23509,9 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140198, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S640_1_frente.jpg",
+                      "S640_2_frente.jpg",
+                      "S640_3_frente.jpg",
                       "S640_4_frente.jpg",
                       "S640_5_frente.jpg"
                   ]
@@ -30371,19 +30602,18 @@ window.SELLOS = [
         "titulo":  "Austria 1922 Espigas 12 1-2 coronas verde - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1922",
-        "descripcion":  "Austria 1922: serie básica «Símbolos» (espigas), diseño de W. Dachauer. Valor 12½ coronas, verde.\nFicha técnica: País: Austria · Año: 1922 · Valor facial: 12½ Kronen · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "Austria 1922: serie básica «Símbolos» (espigas), diseño de W. Dachauer. Valor 12½ coronas, verde.\nFicha técnica: País: Austria · Año: 1922 · Valor facial: 12½ Kronen · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261014_183507026_iOS.jpg, 20261014_183531267_iOS.jpg",
+        "notas":  "foto 20261014_183507026_iOS.jpg, 20261014_183531267_iOS.jpg | +1 copia(s) 15-11-2026 (fotos 20261115_131651540_iOS.jpg)",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S984_1_frente.jpg",
-                      "S984_2_frente.jpg"
+                      "S984_3_frente.jpg"
                   ]
     },
     {
