@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-10-26 22:20. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-15 16:30. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -86,19 +86,19 @@ window.SELLOS = [
         "titulo":  "España 1940 General Franco y Escudo 50 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1940",
-        "descripcion":  "Sello de España, 1940 aprox.. General Franco y escudo 50 cts, pizarra.\r\nFicha técnica: País: España · Año: 1940 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "Sello de España, 1940 aprox.. General Franco y escudo 50 cts, pizarra.\r\nFicha técnica: País: España · Año: 1940 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.81,
         "precioYa":  2.05,
         "estado":  "Colección",
-        "notas":  "Cantidad: 2 | Año confirmado: 1940-01 (Colnect (General Franco)) | +1 copia(s) 26-10",
+        "notas":  "Cantidad: 3 | Año confirmado: 1940-01 (Colnect (General Franco)) | +1 copia(s) 26-10 | +1 copia(s) 15-11-2026 (fotos 20261115_131643415_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1940-01",
                         "Fuente":  "Colnect (General Franco), colnect.com/es/stamps/stamp/1587201, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S004_2_frente.jpg"
+                      "S004_3_frente.jpg"
                   ]
     },
     {
@@ -107,26 +107,32 @@ window.SELLOS = [
         "titulo":  "España II República Pablo Iglesias 30 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1931",
-        "descripcion":  "Sello de España, 1931-1932. II República - Pablo Iglesias 30 cts, carmín.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 19.",
+        "descripcion":  "Sello de España, 1931-1932. II República - Pablo Iglesias 30 cts, carmín.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 33.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  19,
+        "cantidad":  33,
         "precioSalida":  0.99,
         "precioYa":  1.99,
         "estado":  "Colección",
-        "notas":  "+2 unidades más (fotos 17 y 28 del lote 3) = 3 en total | Cantidad: 19 (+5 copias añadidas 5-oct) | +1 copia(s) 6-oct | Año confirmado: 1931-09 (Colnect (Pablo Iglesias)) | +8 copia(s) 26-10",
+        "notas":  "+2 unidades más (fotos 17 y 28 del lote 3) = 3 en total | Cantidad: 33 (+5 copias añadidas 5-oct) | +1 copia(s) 6-oct | Año confirmado: 1931-09 (Colnect (Pablo Iglesias)) | +8 copia(s) 26-10 | +14 copia(s) 15-11-2026 (fotos 20261115_131649223_iOS.jpg, 20261115_131751332_iOS.jpg, 20261115_131753735_iOS.jpg, 20261115_132004172_iOS.jpg, 20261115_132015622_iOS.jpg, 20261115_132201682_iOS.jpg, 20261115_134524500_iOS.jpg, 20261115_134526797_iOS.jpg, 20261115_134528647_iOS.jpg, 20261115_134726642_iOS.jpg, 20261115_134728926_iOS.jpg, 20261115_134737104_iOS.jpg, 20261115_134740870_iOS.jpg, 20261115_134750253_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1931-09",
                         "Fuente":  "Colnect (Pablo Iglesias), colnect.com/es/stamps/stamp/213388, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S005_12_frente.jpg",
-                      "S005_13_frente.jpg",
-                      "S005_14_frente.jpg",
-                      "S005_15_frente.jpg",
-                      "S005_16_frente.jpg",
-                      "S005_17_frente.jpg",
-                      "S005_18_frente.jpg",
-                      "S005_19_frente.jpg"
+                      "S005_20_frente.jpg",
+                      "S005_21_frente.jpg",
+                      "S005_22_frente.jpg",
+                      "S005_23_frente.jpg",
+                      "S005_24_frente.jpg",
+                      "S005_25_frente.jpg",
+                      "S005_26_frente.jpg",
+                      "S005_27_frente.jpg",
+                      "S005_28_frente.jpg",
+                      "S005_29_frente.jpg",
+                      "S005_30_frente.jpg",
+                      "S005_31_frente.jpg",
+                      "S005_32_frente.jpg",
+                      "S005_33_frente.jpg"
                   ]
     },
     {
@@ -135,21 +141,21 @@ window.SELLOS = [
         "titulo":  "España Franco y Castillo de la Mota 30 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1948",
-        "descripcion":  "Sello de España, 1948-1954 aprox.. Franco y Castillo de la Mota 30 cts, verde.\r\nFicha técnica: País: España · Año: 1948 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
+        "descripcion":  "Sello de España, 1948-1954 aprox.. Franco y Castillo de la Mota 30 cts, verde.\r\nFicha técnica: País: España · Año: 1948 · Valor facial: 30 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 13.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  9,
+        "cantidad":  13,
         "precioSalida":  0.99,
         "precioYa":  1.99,
         "estado":  "Colección",
-        "notas":  "Cantidad: 9 (+1 copias añadidas 5-oct) | +1 copia(s) 6-oct | +1 copia 7-oct (antigua ficha S039, era el mismo 30 cts verde) | +4 copia(s) 26-10",
+        "notas":  "Cantidad: 13 (+1 copias añadidas 5-oct) | +1 copia(s) 6-oct | +1 copia 7-oct (antigua ficha S039, era el mismo 30 cts verde) | +4 copia(s) 26-10 | +4 copia(s) 15-11-2026 (fotos 20261115_131713098_iOS.jpg, 20261115_132138012_iOS.jpg, 20261115_134553754_iOS.jpg, 20261115_134556108_iOS.jpg)",
         "tecnico":  {
                         "Fuente":  "Anuncios de coleccionistas: 30 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026)"
                     },
         "fotos":  [
-                      "S006_6_frente.jpg",
-                      "S006_7_frente.jpg",
-                      "S006_8_frente.jpg",
-                      "S006_9_frente.jpg"
+                      "S006_10_frente.jpg",
+                      "S006_11_frente.jpg",
+                      "S006_12_frente.jpg",
+                      "S006_13_frente.jpg"
                   ]
     },
     {
@@ -245,24 +251,35 @@ window.SELLOS = [
         "titulo":  "España 1931 Derecho de Entrega 5 Centimos - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1931",
-        "descripcion":  "España, sello de Derecho de Entrega. Valor facial: 5 céntimos, color negro.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 5 Centimos · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 13.",
+        "descripcion":  "España, sello de Derecho de Entrega. Valor facial: 5 céntimos, color negro.\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 5 Centimos · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 30.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  13,
+        "cantidad":  30,
         "precioSalida":  1,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 13 (+4 copias añadidas 5-oct) | Año confirmado: 1931-01-01 (Colnect (Derecho de entrega)) | +6 copia(s) 26-10",
+        "notas":  "Cantidad: 30 (+4 copias añadidas 5-oct) | Año confirmado: 1931-01-01 (Colnect (Derecho de entrega)) | +6 copia(s) 26-10 | +17 copia(s) 15-11-2026 (fotos 20261115_131805857_iOS.jpg, 20261115_132008708_iOS.jpg, 20261115_132030144_iOS.jpg, 20261115_132118575_iOS.jpg, 20261115_132121080_iOS.jpg, 20261115_132135377_iOS.jpg, 20261115_132213166_iOS.jpg, 20261115_132215206_iOS.jpg, 20261115_132220975_iOS.jpg, 20261115_132227629_iOS.jpg, 20261115_134521759_iOS.jpg, 20261115_134532537_iOS.jpg, 20261115_134603498_iOS.jpg, 20261115_134641574_iOS.jpg, 20261115_134648529_iOS.jpg, 20261115_134734465_iOS.jpg, 20261115_134753369_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1931-01-01",
                         "Fuente":  "Anuncios de coleccionistas: 4 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Derecho de entrega), colnect.com/es/stamps/stamp/271189, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S011_10_frente.jpg",
-                      "S011_11_frente.jpg",
-                      "S011_12_frente.jpg",
-                      "S011_13_frente.jpg",
-                      "S011_8_frente.jpg",
-                      "S011_9_frente.jpg"
+                      "S011_14_frente.jpg",
+                      "S011_15_frente.jpg",
+                      "S011_16_frente.jpg",
+                      "S011_17_frente.jpg",
+                      "S011_18_frente.jpg",
+                      "S011_19_frente.jpg",
+                      "S011_20_frente.jpg",
+                      "S011_21_frente.jpg",
+                      "S011_22_frente.jpg",
+                      "S011_23_frente.jpg",
+                      "S011_24_frente.jpg",
+                      "S011_25_frente.jpg",
+                      "S011_26_frente.jpg",
+                      "S011_27_frente.jpg",
+                      "S011_28_frente.jpg",
+                      "S011_29_frente.jpg",
+                      "S011_30_frente.jpg"
                   ]
     },
     {
@@ -479,22 +496,21 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 80 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España, serie General Franco de 1955. Valor facial: 80 céntimos, color verde azulado.\r\nFicha técnica: País: España · Año: 1955 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 8.",
+        "descripcion":  "España, serie General Franco de 1955. Valor facial: 80 céntimos, color verde azulado.\r\nFicha técnica: País: España · Año: 1955 · Valor facial: 80 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 11.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  8,
+        "cantidad":  11,
         "precioSalida":  2.04,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 8 (+1 copias añadidas 5-oct) | Año confirmado: 1955-02-14 (Colnect (Franco) | +4 copia(s) 26-10",
+        "notas":  "Cantidad: 11 (+1 copias añadidas 5-oct) | Año confirmado: 1955-02-14 (Colnect (Franco) | +4 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_131646857_iOS.jpg, 20261115_132020208_iOS.jpg, 20261115_134755879_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1955-02-14",
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140199, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S020_5_frente.jpg",
-                      "S020_6_frente.jpg",
-                      "S020_7_frente.jpg",
-                      "S020_8_frente.jpg"
+                      "S020_10_frente.jpg",
+                      "S020_11_frente.jpg",
+                      "S020_9_frente.jpg"
                   ]
     },
     {
@@ -503,21 +519,21 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Joaquin Costa 10 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República, serie Personajes: Joaquín Costa. Valor facial: 10 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 10 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 6.",
+        "descripcion":  "España, II República, serie Personajes: Joaquín Costa. Valor facial: 10 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 10 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  6,
+        "cantidad":  9,
         "precioSalida":  1.99,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 6 | Año confirmado: 1932-03 (Colnect (Joaquin Costa y Martinez)) | +3 copia(s) 26-10",
+        "notas":  "Cantidad: 9 | Año confirmado: 1932-03 (Colnect (Joaquin Costa y Martinez)) | +3 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_131710324_iOS.jpg, 20261115_131758743_iOS.jpg, 20261115_134724656_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1932-03",
                         "Fuente":  "Colnect (Joaquin Costa y Martinez), colnect.com/es/stamps/stamp/282825, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S021_4_frente.jpg",
-                      "S021_5_frente.jpg",
-                      "S021_6_frente.jpg"
+                      "S021_7_frente.jpg",
+                      "S021_8_frente.jpg",
+                      "S021_9_frente.jpg"
                   ]
     },
     {
@@ -829,21 +845,21 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Blasco Ibañez 2 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República (1931-1932), serie Personajes: Vicente Blasco Ibáñez. Valor facial: 2 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 2 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 7.",
+        "descripcion":  "España, II República (1931-1932), serie Personajes: Vicente Blasco Ibáñez. Valor facial: 2 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 2 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 10.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  7,
+        "cantidad":  10,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+3 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Vicente Blasco Ibanez)) | +3 copia(s) 26-10",
+        "notas":  "+3 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Vicente Blasco Ibanez)) | +3 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_131803240_iOS.jpg, 20261115_132036355_iOS.jpg, 20261115_134739117_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1932-03",
                         "Fuente":  "Colnect (Vicente Blasco Ibanez), colnect.com/es/stamps/stamp/213391, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S036_5_frente.jpg",
-                      "S036_6_frente.jpg",
-                      "S036_7_frente.jpg"
+                      "S036_10_frente.jpg",
+                      "S036_8_frente.jpg",
+                      "S036_9_frente.jpg"
                   ]
     },
     {
@@ -852,19 +868,21 @@ window.SELLOS = [
         "titulo":  "España Ayuntamiento de Barcelona 5 cts Escudo Serie 1ª - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1929",
-        "descripcion":  "Ayuntamiento de Barcelona, sello municipal con el escudo de la ciudad, Serie 1ª. Valor facial: 5 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1929 (aprox.) · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 7.",
+        "descripcion":  "Ayuntamiento de Barcelona, sello municipal con el escudo de la ciudad, Serie 1ª. Valor facial: 5 céntimos, color verde.\r\nFicha técnica: País: España · Año: 1929 (aprox.) · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 11.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  7,
+        "cantidad":  11,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+2 copia(s) 6-oct | Año 1929 APROXIMADO (por la serie/diseño, 14-oct): confirmar con catálogo | +2 copia(s) 26-10",
+        "notas":  "+2 copia(s) 6-oct | Año 1929 APROXIMADO (por la serie/diseño, 14-oct): confirmar con catálogo | +2 copia(s) 26-10 | +4 copia(s) 15-11-2026 (fotos 20261115_131756640_iOS.jpg, 20261115_132106759_iOS.jpg, 20261115_132110052_iOS.jpg, 20261115_134605615_iOS.jpg)",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S037_6_frente.jpg",
-                      "S037_7_frente.jpg"
+                      "S037_10_frente.jpg",
+                      "S037_11_frente.jpg",
+                      "S037_8_frente.jpg",
+                      "S037_9_frente.jpg"
                   ]
     },
     {
@@ -873,25 +891,21 @@ window.SELLOS = [
         "titulo":  "España 1949 General Franco 50 cts castaño - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1949",
-        "descripcion":  "España, serie General Franco. Valor facial: 50 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1949 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
+        "descripcion":  "España, serie General Franco. Valor facial: 50 céntimos, color castaño.\r\nFicha técnica: País: España · Año: 1949 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 12.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  9,
+        "cantidad":  12,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1949-01 (Colnect (Generalísimo Francisco Franco)) | +7 copia(s) 26-10",
+        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1949-01 (Colnect (Generalísimo Francisco Franco)) | +7 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_131628757_iOS.jpg, 20261115_134551118_iOS.jpg, 20261115_134746671_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1949-01",
                         "Fuente":  "Colnect (Generalísimo Francisco Franco), colnect.com/es/stamps/stamp/140193, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S038_3_frente.jpg",
-                      "S038_4_frente.jpg",
-                      "S038_5_frente.jpg",
-                      "S038_6_frente.jpg",
-                      "S038_7_frente.jpg",
-                      "S038_8_frente.jpg",
-                      "S038_9_frente.jpg"
+                      "S038_10_frente.jpg",
+                      "S038_11_frente.jpg",
+                      "S038_12_frente.jpg"
                   ]
     },
     {
@@ -900,24 +914,25 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Nicolas Salmeron 50 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República (1931-1932), serie Personajes: Nicolás Salmerón. Valor facial: 50 céntimos, color naranja.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
+        "descripcion":  "España, II República (1931-1932), serie Personajes: Nicolás Salmerón. Valor facial: 50 céntimos, color naranja.\r\nFicha técnica: País: España · Año: 1932 · Valor facial: 50 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 16.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  9,
+        "cantidad":  16,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Nicolas Salmeron)) | +6 copia(s) 26-10",
+        "notas":  "+1 copia(s) 6-oct | Año confirmado: 1932-03 (Colnect (Nicolas Salmeron)) | +6 copia(s) 26-10 | +7 copia(s) 15-11-2026 (fotos 20261115_131746798_iOS.jpg, 20261115_131748985_iOS.jpg, 20261115_131807982_iOS.jpg, 20261115_132128960_iOS.jpg, 20261115_132218387_iOS.jpg, 20261115_134644386_iOS.jpg, 20261115_134646763_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1932-03",
                         "Fuente":  "Colnect (Nicolas Salmeron), colnect.com/es/stamps/stamp/282831, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S040_4_frente.jpg",
-                      "S040_5_frente.jpg",
-                      "S040_6_frente.jpg",
-                      "S040_7_frente.jpg",
-                      "S040_8_frente.jpg",
-                      "S040_9_frente.jpg"
+                      "S040_10_frente.jpg",
+                      "S040_11_frente.jpg",
+                      "S040_12_frente.jpg",
+                      "S040_13_frente.jpg",
+                      "S040_14_frente.jpg",
+                      "S040_15_frente.jpg",
+                      "S040_16_frente.jpg"
                   ]
     },
     {
@@ -946,13 +961,13 @@ window.SELLOS = [
         "titulo":  "España 1931 Alfonso XIII Vaquer 25 cts Sobrecarga Republica Española desplazada",
         "pais":  "España",
         "anio":  "1931",
-        "descripcion":  "España 1931: sello de Alfonso XIII (tipo Vaquer) con sobrecarga «República Española» en azul. Valor facial: 25 céntimos, color carmín. La sobrecarga aparece DESPLAZADA (ver fotos).\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 5.",
+        "descripcion":  "España 1931: sello de Alfonso XIII (tipo Vaquer) con sobrecarga «República Española» en azul. Valor facial: 25 céntimos, color carmín. La sobrecarga aparece DESPLAZADA (ver fotos).\r\nFicha técnica: País: España · Año: 1931 · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 11.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  5,
+        "cantidad":  11,
         "precioSalida":  1.99,
         "precioYa":  6,
         "estado":  "Colección",
-        "notas":  "+2 copia(s) 26-10",
+        "notas":  "+2 copia(s) 26-10 | +6 copia(s) 15-11-2026 (fotos 20261115_131813687_iOS.jpg, 20261115_132013435_iOS.jpg, 20261115_132124384_iOS.jpg, 20261115_134518878_iOS.jpg, 20261115_134530708_iOS.jpg, 20261115_134638278_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1931-05-23",
                         "Impresión":  "Rey_Alfonso_XIII_sobreimpresion_Republica",
@@ -960,8 +975,12 @@ window.SELLOS = [
                         "Fuente":  "Colnect (colnect.com/es/stamps/stamp/1457499-King_Alfonso_XIII_overprint), consultado 7-oct-2026"
                     },
         "fotos":  [
-                      "S042_4_frente.jpg",
-                      "S042_5_frente.jpg"
+                      "S042_10_frente.jpg",
+                      "S042_11_frente.jpg",
+                      "S042_6_frente.jpg",
+                      "S042_7_frente.jpg",
+                      "S042_8_frente.jpg",
+                      "S042_9_frente.jpg"
                   ]
     },
     {
@@ -2823,6 +2842,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect serie Buildings (Austria), colnect.com/es/stamps/stamp/434247, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S1013_1_frente.jpg",
                       "S1013_2_frente.jpg",
                       "S1013_3_frente.jpg"
                   ]
@@ -3021,6 +3041,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect serie Buildings (Austria), colnect.com/es/stamps/stamp/17663, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S1021_1_frente.jpg",
                       "S1021_2_frente.jpg",
                       "S1021_3_frente.jpg"
                   ]
@@ -4121,6 +4142,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Queen Elizabeth II), colnect.com/es/stamps/stamp/1773, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S1068_1_frente.jpg",
                       "S1068_2_frente.jpg"
                   ]
     },
@@ -7298,6 +7320,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Anniversary of the Black Virgin of Montserrat), colnect.com/es/stamps/stamp/171266, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S1204_1_frente.jpg",
                       "S1204_2_frente.jpg"
                   ]
     },
@@ -7307,18 +7330,18 @@ window.SELLOS = [
         "titulo":  "Ifni Flora 60 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1957",
-        "descripcion":  "Ifni (territorio español): flora. Valor 60 céntimos.\nFicha técnica: País: España · Año: 1957 (aprox.) · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "Ifni (territorio español): flora. Valor 60 céntimos.\nFicha técnica: País: España · Año: 1957 (aprox.) · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.99,
         "precioYa":  2,
         "estado":  "Colección",
-        "notas":  "foto 20261017_163154797_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo | +1 copia(s) 26-10",
+        "notas":  "foto 20261017_163154797_iOS.jpg | Año 1957 APROXIMADO (por la serie y el diseño, 17-oct), confirmar con catálogo | +1 copia(s) 26-10 | +1 copia(s) 15-11-2026 (fotos 20261115_134631659_iOS.jpg)",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S1205_2_frente.jpg"
+                      "S1205_3_frente.jpg"
                   ]
     },
     {
@@ -7400,6 +7423,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Running), colnect.com/es/stamps/stamp/397159, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S1209_1_frente.jpg",
                       "S1209_2_frente.jpg"
                   ]
     },
@@ -20190,6 +20214,9 @@ window.SELLOS = [
                         "Fuente":  "Colnect (lista país+año+valor facial), colnect.com/es/stamps/stamp/16597, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S492_1_frente.jpg",
+                      "S492_2_frente.jpg",
+                      "S492_3_frente.jpg",
                       "S492_4_frente.jpg"
                   ]
     },
@@ -20199,19 +20226,19 @@ window.SELLOS = [
         "titulo":  "Austria 1916 Corona imperial 10 heller - Nuevo, nunca pegado",
         "pais":  "Austria",
         "anio":  "1916",
-        "descripcion":  "Austria 1916: corona imperial (Kaiserlich Königliche Österreichische Post). Valor 10 heller, violeta.\nFicha técnica: País: Austria · Año: 1916 · Valor facial: 10 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
+        "descripcion":  "Austria 1916: corona imperial (Kaiserlich Königliche Österreichische Post). Valor 10 heller, violeta.\nFicha técnica: País: Austria · Año: 1916 · Valor facial: 10 heller · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 4.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  3,
+        "cantidad":  4,
         "precioSalida":  0.99,
         "precioYa":  1.5,
         "estado":  "Colección",
-        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1916-09-28 (Colnect (Emperors crown)) | +1 copia(s) 26-10",
+        "notas":  "+1 copia(s) 14-10 | Año confirmado: 1916-09-28 (Colnect (Emperors crown)) | +1 copia(s) 26-10 | +1 copia(s) 15-11-2026 (fotos 20261115_132024838_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1916-09-28",
                         "Fuente":  "Colnect (Emperors crown), colnect.com/es/stamps/stamp/1171249, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S493_3_frente.jpg"
+                      "S493_4_frente.jpg"
                   ]
     },
     {
@@ -20282,18 +20309,20 @@ window.SELLOS = [
         "titulo":  "España 1932 II Republica Pi y Margall 5 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1932",
-        "descripcion":  "España, II República: personajes, Francisco Pi y Margall. Valor 5 céntimos, castaño negro.\nFicha técnica: País: España · Año: 1932 · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 6.",
+        "descripcion":  "España, II República: personajes, Francisco Pi y Margall. Valor 5 céntimos, castaño negro.\nFicha técnica: País: España · Año: 1932 · Valor facial: 5 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 9.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  6,
+        "cantidad":  9,
         "precioSalida":  0.99,
         "precioYa":  1.5,
         "estado":  "Colección",
-        "notas":  "+2 copia(s) 6-oct | +1 copia(s) 26-10",
+        "notas":  "+2 copia(s) 6-oct | +1 copia(s) 26-10 | +3 copia(s) 15-11-2026 (fotos 20261115_132028028_iOS.jpg, 20261115_134635123_iOS.jpg, 20261115_134824352_iOS.jpg)",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S497_6_frente.jpg"
+                      "S497_7_frente.jpg",
+                      "S497_8_frente.jpg",
+                      "S497_9_frente.jpg"
                   ]
     },
     {
@@ -20335,6 +20364,8 @@ window.SELLOS = [
                         "Fuente":  "Colnect (Centenary of Statistics), colnect.com/es/stamps/stamp/171267, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S499_1_frente.jpg",
+                      "S499_2_frente.jpg",
                       "S499_3_frente.jpg"
                   ]
     },
@@ -22692,18 +22723,18 @@ window.SELLOS = [
         "titulo":  "España 1977 Uniformes militares Infanteria ligera 25 pta - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1977",
-        "descripcion":  "España 1977: serie \"Uniformes militares\" nº 30, Infantería Ligera 1830. Valor 25 pesetas.\nFicha técnica: País: España · Año: 1977 · Valor facial: 25 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
+        "descripcion":  "España 1977: serie \"Uniformes militares\" nº 30, Infantería Ligera 1830. Valor 25 pesetas.\nFicha técnica: País: España · Año: 1977 · Valor facial: 25 pta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  2,
+        "cantidad":  3,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_174636148_iOS.jpg | +1 copia(s) 26-10",
+        "notas":  "foto 20261006_174636148_iOS.jpg | +1 copia(s) 26-10 | +1 copia(s) 15-11-2026 (fotos 20261115_134558850_iOS.jpg)",
         "tecnico":  {
 
                     },
         "fotos":  [
-                      "S614_2_frente.jpg"
+                      "S614_3_frente.jpg"
                   ]
     },
     {
@@ -23034,19 +23065,20 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 60 cts - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 60 céntimos, violeta grisáceo.Ficha técnica: País: España · Año: 1955 · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 60 céntimos, violeta grisáceo.Ficha técnica: País: España · Año: 1955 · Valor facial: 60 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 3.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  3,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_174942228_iOS.jpg | Año confirmado: 1955-03-15 (Colnect (Franco)",
+        "notas":  "foto 20261006_174942228_iOS.jpg | Año confirmado: 1955-03-15 (Colnect (Franco) | +2 copia(s) 15-11-2026 (fotos 20261115_132032877_iOS.jpg, 20261115_134758595_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1955-03-15",
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/60871, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S630_1_frente.jpg"
+                      "S630_2_frente.jpg",
+                      "S630_3_frente.jpg"
                   ]
     },
     {
@@ -23197,19 +23229,19 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 25 cts negro violaceo - Nuevo, nunca pegado",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 25 céntimos, negro violáceo.\nFicha técnica: País: España · Año: 1955 · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 25 céntimos, negro violáceo.\nFicha técnica: País: España · Año: 1955 · Valor facial: 25 cts · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 2.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  1,
+        "cantidad":  2,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_175007653_iOS.jpg | Año confirmado: 1955-02-28 (Colnect (Franco)",
+        "notas":  "foto 20261006_175007653_iOS.jpg | Año confirmado: 1955-02-28 (Colnect (Franco) | +1 copia(s) 15-11-2026 (fotos 20261115_134732360_iOS.jpg)",
         "tecnico":  {
                         "Fecha de emisión":  "1955-02-28",
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/60869, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S638_1_frente.jpg"
+                      "S638_2_frente.jpg"
                   ]
     },
     {
@@ -23238,18 +23270,19 @@ window.SELLOS = [
         "titulo":  "España 1955 General Franco 10 cts carmin - Sello NUEVO",
         "pais":  "España",
         "anio":  "1955",
-        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 10 céntimos, carmín.\nFicha técnica: País: España · Año: 1955 · Valor facial: 10 cts · Estado: Nuevo, nunca pegado · Unidades: 3.",
+        "descripcion":  "España 1955-1956: serie básica General Franco (efigie). Valor 10 céntimos, carmín.\nFicha técnica: País: España · Año: 1955 · Valor facial: 10 cts · Estado: Nuevo, nunca pegado · Unidades: 5.",
         "conservacion":  "Nuevo, nunca pegado",
-        "cantidad":  3,
+        "cantidad":  5,
         "precioSalida":  0.49,
         "precioYa":  1,
         "estado":  "Colección",
-        "notas":  "foto 20261006_175013809_iOS.jpg, 20261006_175016120_iOS.jpg | Año confirmado: 1955 (Colnect (Franco) | +1 copia(s) 26-10",
+        "notas":  "foto 20261006_175013809_iOS.jpg, 20261006_175016120_iOS.jpg | Año confirmado: 1955 (Colnect (Franco) | +1 copia(s) 26-10 | +2 copia(s) 15-11-2026 (fotos 20261115_131811652_iOS.jpg, 20261115_134722102_iOS.jpg)",
         "tecnico":  {
                         "Fuente":  "Colnect (Franco, General), colnect.com/es/stamps/stamp/140198, consultado 14-oct-2026"
                     },
         "fotos":  [
-                      "S640_3_frente.jpg"
+                      "S640_4_frente.jpg",
+                      "S640_5_frente.jpg"
                   ]
     },
     {
@@ -23498,6 +23531,7 @@ window.SELLOS = [
                         "Fuente":  "Anuncios de coleccionistas: 18 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Stamp Day 1956), colnect.com/es/stamps/stamp/60987, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S652_1_frente.jpg",
                       "S652_2_frente.jpg",
                       "S652_3_frente.jpg"
                   ]
@@ -24182,6 +24216,7 @@ window.SELLOS = [
 
                     },
         "fotos":  [
+                      "S685_1_frente.jpg",
                       "S685_2_frente.jpg"
                   ]
     },
@@ -25450,6 +25485,7 @@ window.SELLOS = [
                         "Fuente":  "Anuncios de coleccionistas: 42 anuncios de vendedores distintos coinciden en el año (comprobado 7-oct-2026) · Colnect (Victory Arch, Madrid), colnect.com/es/stamps/stamp/61817, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S747_1_frente.jpg",
                       "S747_2_frente.jpg"
                   ]
     },
@@ -30262,6 +30298,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (lista país+año+valor facial), colnect.com/es/stamps/stamp/60118, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S980_1_frente.jpg",
                       "S980_2_frente.jpg"
                   ]
     },
