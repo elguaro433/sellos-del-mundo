@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-11-15 21:28. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-16 20:00. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -3836,6 +3836,7 @@ window.SELLOS = [
                         "Fuente":  "Colnect (National Productivity), colnect.com/es/stamps/stamp/1859, consultado 14-oct-2026"
                     },
         "fotos":  [
+                      "S1050_1_frente.jpg",
                       "S1050_2_frente.jpg"
                   ]
     },
@@ -10268,18 +10269,26 @@ window.SELLOS = [
     {
         "codigo":  "S1328",
         "album":  "IND-0000-01",
-        "titulo":  "India sello oficial Service Jorge V 1 anna rojo - Nuevo, nunca pegado",
+        "titulo":  "India 1939 sello oficial Service Jorge VI 1 anna carmin - Nuevo, nunca pegado",
         "pais":  "India",
-        "anio":  "",
-        "descripcion":  "India británica: sello oficial «SERVICE» con el rey Jorge V, «INDIA POSTAGE», 1 anna, rojo carmín.Año exacto SIN CONFIRMAR (los de Jorge V son de 1911-1936).\nFicha técnica: País: India · Año: sin confirmar · Valor facial: 1 A · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1939",
+        "descripcion":  "India británica, 1939: sello oficial «SERVICE» con el rey Jorge VI (corona imperial de la India), «INDIA POSTAGE», 1 anna, carmín. Serie King George VI - Official (1939-42).Ficha técnica: País: India · Año: 1939 · Valor facial: 1 A · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  null,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 1 | foto 20261115_132022498_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "notas":  "Cantidad: 1 | foto 20261115_132022498_iOS.jpg | Año confirmado en Colnect 381916 (16-nov-2026)",
         "tecnico":  {
-
+                        "Serie":  "King George VI - Official (1939-42)",
+                        "Qué representa":  "Rey Jorge VI con la corona imperial de la India",
+                        "Qué dice el sello":  "INDIA POSTAGE · SERVICE · 1 A",
+                        "Medidas":  "21 x 25 mm",
+                        "Dentado":  "14",
+                        "Impresión":  "Tipografía",
+                        "Catálogo":  "SG O144 · Michel D106 · Scott O108",
+                        "Diseño":  "T.I. Archer",
+                        "Fuente":  "Colnect (King George VI - Official 1939-42), colnect.com/en/stamps/stamp/381916, consultado 16-nov-2026"
                     },
         "fotos":  [
                       "S1328_1_frente.jpg"
@@ -10288,18 +10297,27 @@ window.SELLOS = [
     {
         "codigo":  "S1329",
         "album":  "GBR-0000-01",
-        "titulo":  "Reino Unido Jorge V 2 d naranja Postage Revenue - Nuevo, nunca pegado",
+        "titulo":  "Reino Unido 1935 Jorge V 2 d naranja fotograbado - Nuevo, nunca pegado",
         "pais":  "Reino Unido",
-        "anio":  "",
-        "descripcion":  "Reino Unido: rey Jorge V, «POSTAGE REVENUE», «TWO PENCE», naranja. Existe en tipografía (1912-1924) y en fotograbado (1934-1936), casi iguales: año SIN CONFIRMAR.\nFicha técnica: País: Reino Unido · Año: sin confirmar · Valor facial: 2 d · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1935",
+        "descripcion":  "Reino Unido, 19-ene-1935: rey Jorge V, «POSTAGE REVENUE», «TWO PENCE», 2 peniques naranja. Versión en fotograbado de Harrison \u0026 Sons (fondo oscuro detrás de la cabeza), no la tipográfica de 1912-24, que tiene el fondo claro y rayado.\nFicha técnica: País: Reino Unido · Año: 1935 · Valor facial: 2 d · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  null,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 1 | foto 20261115_134626501_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "notas":  "Cantidad: 1 | foto 20261115_134626501_iOS.jpg | Año confirmado en Colnect 1635 (16-nov-2026)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1935-01-19",
+                        "Serie":  "King George V - Definitives (fotograbado)",
+                        "Qué representa":  "Rey Jorge V",
+                        "Qué dice el sello":  "POSTAGE REVENUE · TWO PENCE · 2",
+                        "Medidas":  "21 x 24 mm",
+                        "Dentado":  "15 x 14",
+                        "Impresión":  "Fotograbado (Harrison \u0026 Sons)",
+                        "Catálogo":  "SG 442 · Michel 178 · Yvert 190 · Scott 213",
+                        "Diseño":  "Bertram MacKennal",
+                        "Fuente":  "Colnect (King George V - Dark Background), colnect.com/es/stamps/stamp/1635, consultado 16-nov-2026"
                     },
         "fotos":  [
                       "S1329_1_frente.jpg"
@@ -10337,18 +10355,27 @@ window.SELLOS = [
     {
         "codigo":  "S1330",
         "album":  "GRE-0000-01",
-        "titulo":  "Grecia cabeza clasica 50 lepta verde azulado - Nuevo, nunca pegado",
+        "titulo":  "Grecia 1959 Zeus de Histiea 50 lepta verde azulado - Nuevo, nunca pegado",
         "pais":  "Grecia",
-        "anio":  "",
-        "descripcion":  "Grecia: cabeza clásica de perfil en verde azulado, «ΕΛΛΑΣ», 50 lepta. Año y serie SIN CONFIRMAR.\nFicha técnica: País: Grecia · Año: sin confirmar · Valor facial: 50 lepta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1959",
+        "descripcion":  "Grecia, 12-ene-1959: cabeza de la estatua de bronce de Zeus (o Poseidón) de Histiea / cabo Artemisio, serie Arte griego antiguo (III). 50 lepta, verde azulado. Tirada 20.000.000.\nFicha técnica: País: Grecia · Año: 1959 · Valor facial: 50 lepta · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  null,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 1 | foto 20261115_134819618_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "notas":  "Cantidad: 1 | foto 20261115_134819618_iOS.jpg | Año confirmado en Colnect 61173 (16-nov-2026)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1959-01-12",
+                        "Serie":  "Ancient Greek Art (III)",
+                        "Qué representa":  "Cabeza de bronce de Zeus de Histiea (cabo Artemisio)",
+                        "Qué dice el sello":  "ΕΛΛΑΣ · 50 ΛΕΠΤΑ",
+                        "Tirada":  "20.000.000",
+                        "Medidas":  "24,5 x 28 mm",
+                        "Dentado":  "12¾ x 12½",
+                        "Impresión":  "Offset",
+                        "Catálogo":  "Michel 691 · SG 736a · Yvert 670",
+                        "Fuente":  "Colnect (Zeus of Istiaea), colnect.com/en/stamps/stamp/61173, consultado 16-nov-2026"
                     },
         "fotos":  [
                       "S1330_1_frente.jpg"
