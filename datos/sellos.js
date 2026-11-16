@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-11-16 20:00. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-16 20:57. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -10249,18 +10249,26 @@ window.SELLOS = [
     {
         "codigo":  "S1327",
         "album":  "SUI-0000-01",
-        "titulo":  "Suiza Helvetia sello de correo verde con cuadricula y sobre - Nuevo, nunca pegado",
+        "titulo":  "Suiza 1970 cifra 20 c verde oliva - Nuevo, nunca pegado",
         "pais":  "Suiza",
-        "anio":  "",
-        "descripcion":  "Suiza: sello «HELVETIA» verde sobre fondo de cuadrícula, con un sobre, una flecha y un buzón (tema de correos).Año y número de catálogo SIN CONFIRMAR.\nFicha técnica: País: Suiza · Año: sin confirmar · Valor facial: sin leer · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
+        "anio":  "1970",
+        "descripcion":  "Suiza, 17-sep-1970: sello básico de la serie de cifras (Numeral 1970), «HELVETIA» en vertical y el valor 20 en grande sobre fondo de cuadrícula, verde oliva oscuro. Impreso por la PTT de Berna.Ficha técnica: País: Suiza · Año: 1970 · Valor facial: 20 c · Estado: Nuevo, NUNCA PEGADO en sobre · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  null,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 1 | foto 20261115_131654789_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "notas":  "Cantidad: 1 | foto 20261115_131654789_iOS.jpg | Año confirmado en Colnect 22780 (16-nov-2026), foto girada (estaba de lado)",
         "tecnico":  {
-
+                        "Fecha de emisión":  "1970-09-17",
+                        "Serie":  "Numeral (1970)",
+                        "Qué representa":  "Cifra 20 sobre fondo de cuadrícula",
+                        "Qué dice el sello":  "HELVETIA · 20",
+                        "Medidas":  "21 x 24 mm",
+                        "Dentado":  "11¾",
+                        "Impresión":  "Huecograbado (PTT Berna)",
+                        "Catálogo":  "Michel 934 · Zumstein 484 · Yvert 862 · SG 802",
+                        "Fuente":  "Colnect (Digits 20 on Patterned Background), colnect.com/es/stamps/stamp/22780, consultado 16-nov-2026"
                     },
         "fotos":  [
                       "S1327_1_frente.jpg"
@@ -10384,18 +10392,22 @@ window.SELLOS = [
     {
         "codigo":  "S1331",
         "album":  "XXX-0000-01",
-        "titulo":  "Gimeno Cabeza de nino 10 pts - Sello NUEVO",
-        "pais":  "Por identificar",
+        "titulo":  "Viñeta Gimeno Cabeza de niño 10 pts - NUEVA",
+        "pais":  "España",
         "anio":  "",
-        "descripcion":  "Sello con el cuadro «Cabeza de niño» del pintor Francesc Gimeno (1858-1927). Valor 10 pesetas. No lleva el nombre del país: país y año SIN CONFIRMAR (posiblemente una serie de pintura española de otro país).\nFicha técnica: País: Por identificar · Año: sin confirmar · Valor facial: 10 pts · Estado: Nuevo, nunca pegado · Unidades: 1.",
+        "descripcion":  "VIÑETA (no es sello de correos): reproduce el cuadro «Cabeza de niño» (1899) del pintor Francesc Gimeno (Tortosa 1858 - Barcelona 1927), retrato de su hijo Francesc, que se conserva en la Biblioteca Museu Víctor Balaguer de Vilanova i la Geltrú. Valor 10 pesetas. No lleva nombre de país ni «Correos» y no figura en los catálogos de sellos (Colnect, 16-nov-2026). Año de emisión desconocido.\nFicha técnica: País: España (viñeta) · Año: sin confirmar · Valor facial: 10 pts · Estado: Nueva, sin matasellar · Unidades: 1.",
         "conservacion":  "Nuevo, nunca pegado",
         "cantidad":  1,
         "precioSalida":  null,
         "precioYa":  null,
         "estado":  "Colección",
-        "notas":  "Cantidad: 1 | foto 20261115_131911743_iOS.jpg | Año SIN CONFIRMAR: no está en los catálogos consultados (15-nov-2026)",
+        "notas":  "Cantidad: 1 | foto 20261115_131911743_iOS.jpg | VIÑETA, no sello de correos: cuadro de F. Gimeno 1899 (Museu Víctor Balaguer). No está en Colnect. Año desconocido (16-nov-2026)",
         "tecnico":  {
-
+                        "Serie":  "Viñeta (no es sello de correos)",
+                        "Qué representa":  "Cuadro «Cabeza de niño» (1899) de Francesc Gimeno, retrato de su hijo",
+                        "Qué dice el sello":  "GIMENO · 10 PTS. · Cabeza de niño",
+                        "Diseño":  "Francesc Gimeno (cuadro)",
+                        "Fuente":  "Cuadro: Wikipedia Francisco Gimeno Arasa, es.wikipedia.org/wiki/Francisco_Gimeno_Arasa · No figura en Colnect (búsqueda por texto e imagen, 16-nov-2026)"
                     },
         "fotos":  [
                       "S1331_1_frente.jpg"
