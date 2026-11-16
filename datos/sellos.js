@@ -1,4 +1,4 @@
-// Generado automáticamente el 2026-11-16 20:57. No editar a mano: usa el catálogo.
+// Generado automáticamente el 2026-11-16 21:00. No editar a mano: usa el catálogo.
 window.SELLOS = [
     {
         "codigo":  "S001",
@@ -10248,7 +10248,7 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1327",
-        "album":  "SUI-0000-01",
+        "album":  "SUI-1970-08",
         "titulo":  "Suiza 1970 cifra 20 c verde oliva - Nuevo, nunca pegado",
         "pais":  "Suiza",
         "anio":  "1970",
@@ -10276,7 +10276,7 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1328",
-        "album":  "IND-0000-01",
+        "album":  "IND-1939-01",
         "titulo":  "India 1939 sello oficial Service Jorge VI 1 anna carmin - Nuevo, nunca pegado",
         "pais":  "India",
         "anio":  "1939",
@@ -10304,7 +10304,7 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1329",
-        "album":  "GBR-0000-01",
+        "album":  "GBR-1935-02",
         "titulo":  "Reino Unido 1935 Jorge V 2 d naranja fotograbado - Nuevo, nunca pegado",
         "pais":  "Reino Unido",
         "anio":  "1935",
@@ -10362,7 +10362,7 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1330",
-        "album":  "GRE-0000-01",
+        "album":  "GRE-1959-01",
         "titulo":  "Grecia 1959 Zeus de Histiea 50 lepta verde azulado - Nuevo, nunca pegado",
         "pais":  "Grecia",
         "anio":  "1959",
@@ -10391,8 +10391,8 @@ window.SELLOS = [
     },
     {
         "codigo":  "S1331",
-        "album":  "XXX-0000-01",
-        "titulo":  "Viñeta Gimeno Cabeza de niño 10 pts - NUEVA",
+        "album":  "ESP-0000-01",
+        "titulo":  "Viñeta Gimeno Cabeza de niño 10 pts - NUEVO",
         "pais":  "España",
         "anio":  "",
         "descripcion":  "VIÑETA (no es sello de correos): reproduce el cuadro «Cabeza de niño» (1899) del pintor Francesc Gimeno (Tortosa 1858 - Barcelona 1927), retrato de su hijo Francesc, que se conserva en la Biblioteca Museu Víctor Balaguer de Vilanova i la Geltrú. Valor 10 pesetas. No lleva nombre de país ni «Correos» y no figura en los catálogos de sellos (Colnect, 16-nov-2026). Año de emisión desconocido.\nFicha técnica: País: España (viñeta) · Año: sin confirmar · Valor facial: 10 pts · Estado: Nueva, sin matasellar · Unidades: 1.",
